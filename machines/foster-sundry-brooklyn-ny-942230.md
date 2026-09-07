@@ -23,9 +23,9 @@ website: "https://www.fostersundry.com/"
 instagram: fostersundry
 richard_scarry: false
 popup_event: false
-last_updated: "2026-09-03T19:06:58Z"
-last_source: miniprintdatabase.com seed
-source_url: "https://miniprintdatabase.com/machine_details/1787165942230x726703095061316200"
+last_updated: "2026-09-07T07:14:00-07:00"
+last_source: messenger
+source_url: "https://www.facebook.com/messages/t/735459129506731/"
 ---
 
 # Foster Sundry
@@ -34,6 +34,10 @@ Brooklyn, NY — 215 Knickerbocker Ave, Brooklyn, NY 11237, USA
 
 # Log
 
+## 2026-09-07 ~07:14 PT
+- stock: out of stock / waiting for restock (unconfirmed)
+- notes: Tini called a few days ago; store said waiting for restock — unclear if it has arrived since.
+- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | Tini
 ## 2026-09-06 seed from miniprintdatabase.com
 - stock: out_of_stock
 - status: active
