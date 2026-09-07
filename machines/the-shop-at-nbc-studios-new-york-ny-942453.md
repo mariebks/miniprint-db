@@ -1,5 +1,5 @@
 ---
-id: 1787165942453x787789989753224300
+d: 1787165942453x787789989753224300
 name: The Shop at NBC Studios
 venue: The Shop at NBC Studios
 city: New York
@@ -9,8 +9,8 @@ zip: 10112
 latitude: 40.75883547
 longitude: -73.97881414
 status: active
-stock_status: out_of_stock
-waiting_for_restock: true
+stock_status: in_stock
+waiting_for_restock: false
 payment_type: tokens
 pull_limit: 5 prints per turn in line
 print_types: ["catalog", "custom"]
@@ -23,8 +23,8 @@ website: "https://www.theshopatnbcstudios.com/"
 instagram: experiencenbcstudios
 richard_scarry: false
 popup_event: false
-last_updated: "2026-09-01T17:32:13Z"
-last_source: miniprintdatabase.com seed
+last_updated: "2026-09-07T03:49:00-07:00"
+last_source: messenger
 source_url: "https://miniprintdatabase.com/machine_details/1787165942453x787789989753224300"
 ---
 
@@ -33,6 +33,16 @@ source_url: "https://miniprintdatabase.com/machine_details/1787165942453x7877899
 New York, NY — Rockefeller Plaza, 30 Rockefeller Plaza, New York, NY 10112, USA
 
 # Log
+
+## 2026-09-07 morning PT
+- stock: in stock (back in stock)
+- notes: Emily morning digest
+- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | Emily
+
+## 2026-09-07 morning PT
+- stock: in stock (back in stock)
+- notes: Emily morning digest
+- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | Emily
 
 ## 2026-09-06 seed from miniprintdatabase.com
 - stock: out_of_stock

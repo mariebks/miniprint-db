@@ -1,5 +1,5 @@
 ---
-id: 1787765241025x409423952306396740
+d: 1787765241025x409423952306396740
 name: Harry Styles Together, Together Pop-Up
 venue: Harry Styles Together, Together Pop-Up
 city: New York
@@ -23,8 +23,8 @@ website: "https://www.hstyles.co.uk/popups/"
 instagram: 
 richard_scarry: false
 popup_event: true
-last_updated: "2026-09-06T17:22:23Z"
-last_source: miniprintdatabase.com seed
+last_updated: "2026-09-07T03:49:00-07:00"
+last_source: messenger
 source_url: "https://miniprintdatabase.com/machine_details/1787765241025x409423952306396740"
 ---
 
@@ -33,6 +33,16 @@ source_url: "https://miniprintdatabase.com/machine_details/1787765241025x4094239
 New York, NY — 22 E 2nd St
 
 # Log
+
+## 2026-09-07 morning PT
+- stock: out of stock
+- notes: Prints out until Wednesday restock (Emily morning digest)
+- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | Emily
+
+## 2026-09-07 morning PT
+- stock: out of stock
+- notes: Prints out until Wednesday restock (Emily morning digest)
+- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | Emily
 
 ## 2026-09-06 seed from miniprintdatabase.com
 - stock: out_of_stock

@@ -1,5 +1,5 @@
 ---
-id: 1787165942219x203337836753598940
+d: 1787165942219x203337836753598940
 name: New York Botanical Garden
 venue: New York Botanical Garden
 city: Bronx
@@ -12,7 +12,7 @@ status: active
 stock_status: in_stock
 waiting_for_restock: false
 payment_type: tokens
-pull_limit: 
+pull_limit: 10
 print_types: ["catalog", "custom"]
 available_print_count: 8
 prints_available: ["1787176420133x415647508421625800", "1787176324434x136064643718928580", "1787176324833x367415417613095940", "1787176324837x839832904344236300", "1787176324433x249453266762226460", "1787176419835x260371167375466100", "1787176324704x196207041794386000", "1787176324843x401822810873806200"]
@@ -23,8 +23,8 @@ website: "https://www.nybg.org/"
 instagram: nybg
 richard_scarry: false
 popup_event: false
-last_updated: "2026-08-05T04:00:00Z"
-last_source: miniprintdatabase.com seed
+last_updated: "2026-09-07T03:49:00-07:00"
+last_source: messenger
 source_url: "https://miniprintdatabase.com/machine_details/1787165942219x203337836753598940"
 ---
 
@@ -33,6 +33,16 @@ source_url: "https://miniprintdatabase.com/machine_details/1787165942219x2033378
 Bronx, NY — 2900 Southern Blvd, Bronx, NY 10458, USA
 
 # Log
+
+## 2026-09-07 morning PT
+- pull_limit: 10 (new limit)
+- notes: Emily morning digest; applied to main NYBG machine (not Moomin)
+- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | Emily
+
+## 2026-09-07 morning PT
+- pull_limit: 10 (new limit)
+- notes: Emily morning digest; applied to main NYBG machine (not Moomin)
+- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | Emily
 
 ## 2026-09-06 seed from miniprintdatabase.com
 - stock: in_stock

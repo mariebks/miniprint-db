@@ -23,8 +23,8 @@ website:
 instagram: 
 richard_scarry: false
 popup_event: false
-last_updated: "2026-09-04T16:05:13Z"
-last_source: miniprintdatabase.com seed
+last_updated: "2026-09-07T05:58:00-07:00"
+last_source: messenger
 source_url: "https://miniprintdatabase.com/machine_details/1788277995647x211292896718332300"
 ---
 
@@ -33,6 +33,11 @@ source_url: "https://miniprintdatabase.com/machine_details/1788277995647x2112928
 New York, NY — 25 Little W 12th St, New York, NY 10014, USA
 
 # Log
+
+## 2026-09-07 morning PT
+- stock: in stock / operating (same popup complex as #1)
+- notes: Line intel logged on Snoopy #1; not machine-number-specific
+- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/
 
 ## 2026-09-06 seed from miniprintdatabase.com
 - stock: in_stock

@@ -1,5 +1,5 @@
 ---
-id: 1787165942454x506042398297317900
+d: 1787165942454x506042398297317900
 name: Whitney Museum of American Art
 venue: Whitney Museum of American Art
 city: New York
@@ -23,7 +23,7 @@ website: "https://whitney.org/"
 instagram: whitneymuseum
 richard_scarry: false
 popup_event: false
-last_updated: 2026-09-06 15:23 PT
+last_updated: "2026-09-07T03:49:00-07:00"
 last_source: messenger
 source_url: "https://miniprintdatabase.com/machine_details/1787165942454x506042398297317900"
 ---
@@ -33,6 +33,18 @@ source_url: "https://miniprintdatabase.com/machine_details/1787165942454x5060423
 New York, NY — 99 Gansevoort St, New York, NY 10014, USA
 
 # Log
+
+## 2026-09-07 morning PT
+- stock: out of stock
+- prints: a few ice cream packs and some catalog prints still available
+- notes: Confirmed again in Emily morning digest
+- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | Emily
+
+## 2026-09-07 morning PT
+- stock: out of stock
+- prints: a few ice cream packs and some catalog prints still available
+- notes: Confirmed again in Emily morning digest
+- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | Emily
 
 ## 2026-09-06 ~15:23 PT
 - stock: out of stock
