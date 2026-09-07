@@ -1,19 +1,320 @@
 {
-  "updated_at": "2026-09-06T20:21:00-07:00",
+  "updated_at": "2026-09-06T22:13:00-07:00",
   "prints": {
-    "common-mystery-pack": {"id": null, "name": "common mystery pack", "number": null, "type": "unknown", "rarity_label": "Common", "rarity_basis": "community", "fair_trade_notes": ["Post described common mystery packs as best for new collectors; six prints with the buyer choosing the top print."], "trade_examples": [], "release_notes": [], "ooc": false, "signal_count": 1, "last_signal_at": "2026-09-04T17:00:00-07:00", "citations": [{"ts": "2026-09-04T17:00:00-07:00", "source": "facebook_group", "url": "https://www.facebook.com/groups/inciardiprints"}]},
-    "california-poppies": {"id": null, "name": "California Poppies", "number": null, "type": "unknown", "rarity_label": "Unknown", "rarity_basis": "community", "fair_trade_notes": [], "trade_examples": [{"gave": "three shown prints", "wanted": "California Poppies", "community_take": "single-person offer"}], "release_notes": [], "ooc": false, "signal_count": 1, "last_signal_at": "2026-09-04T17:04:00-07:00", "citations": [{"ts": "2026-09-04T17:04:00-07:00", "source": "facebook_group", "url": "https://www.facebook.com/groups/inciardiprints"}]},
-    "penelope-pk-kix": {"id": null, "name": "Penelope PK Kix", "number": null, "type": "unknown", "rarity_label": "Unknown", "rarity_basis": "community", "fair_trade_notes": [], "trade_examples": [], "release_notes": [], "ooc": false, "signal_count": 1, "last_signal_at": "2026-09-04T17:04:00-07:00", "citations": [{"ts": "2026-09-04T17:04:00-07:00", "source": "facebook_group", "url": "https://www.facebook.com/groups/inciardiprints"}]},
-    "space-needle": {"id": null, "name": "Space Needle", "number": null, "type": "unknown", "rarity_label": "Unknown", "rarity_basis": "community", "fair_trade_notes": [], "trade_examples": [], "release_notes": [], "ooc": false, "signal_count": 1, "last_signal_at": "2026-09-04T16:54:00-07:00", "citations": [{"ts": "2026-09-04T16:54:00-07:00", "source": "facebook_group", "url": "https://www.facebook.com/groups/inciardiprints"}]},
-    "southern-resident-orcas": {"id": null, "name": "Southern Resident Orcas", "number": null, "type": "unknown", "rarity_label": "Unknown", "rarity_basis": "community", "fair_trade_notes": [], "trade_examples": [], "release_notes": [], "ooc": false, "signal_count": 1, "last_signal_at": "2026-09-04T16:54:00-07:00", "citations": [{"ts": "2026-09-04T16:54:00-07:00", "source": "facebook_group", "url": "https://www.facebook.com/groups/inciardiprints"}]},
-    "grand-central-terminal": {"id": null, "name": "Grand Central Terminal", "number": null, "type": "unknown", "rarity_label": "Unknown", "rarity_basis": "community", "fair_trade_notes": [], "trade_examples": [], "release_notes": [], "ooc": false, "signal_count": 1, "last_signal_at": "2026-09-04T16:54:00-07:00", "citations": [{"ts": "2026-09-04T16:54:00-07:00", "source": "facebook_group", "url": "https://www.facebook.com/groups/inciardiprints"}]},
-    "top-of-the-rock": {"id": null, "name": "Top of the Rock", "number": null, "type": "unknown", "rarity_label": "Unknown", "rarity_basis": "community", "fair_trade_notes": [], "trade_examples": [], "release_notes": [], "ooc": false, "signal_count": 1, "last_signal_at": "2026-09-04T16:54:00-07:00", "citations": [{"ts": "2026-09-04T16:54:00-07:00", "source": "facebook_group", "url": "https://www.facebook.com/groups/inciardiprints"}]},
-    "oven-mitt": {"id": null, "name": "Oven Mitt", "number": null, "type": "unknown", "rarity_label": "Unknown", "rarity_basis": "community", "fair_trade_notes": [], "trade_examples": [{"gave": "Oven Mitt", "wanted": "Cheese Grater", "community_take": "one-for-one trade"}], "release_notes": [], "ooc": false, "signal_count": 1, "last_signal_at": "2026-09-04T17:05:00-07:00", "citations": [{"ts": "2026-09-04T17:05:00-07:00", "source": "messenger", "url": "https://www.facebook.com/messages/t/923549827132247/"}]},
-    "cheese-grater": {"id": null, "name": "Cheese Grater", "number": null, "type": "unknown", "rarity_label": "Unknown", "rarity_basis": "community", "fair_trade_notes": [], "trade_examples": [], "release_notes": [], "ooc": false, "signal_count": 1, "last_signal_at": "2026-09-04T17:05:00-07:00", "citations": [{"ts": "2026-09-04T17:05:00-07:00", "source": "messenger", "url": "https://www.facebook.com/messages/t/923549827132247/"}]},
-    "mystery-packs": {"id": null, "name": "mystery packs", "number": null, "type": "unknown", "rarity_label": "Unknown", "rarity_basis": "community", "fair_trade_notes": [], "trade_examples": [], "release_notes": ["Discussion suggested smaller 4–5-print packs are easier to sell because buyers spend less upfront."], "ooc": false, "signal_count": 1, "last_signal_at": "2026-09-04T15:47:00-07:00", "citations": [{"ts": "2026-09-04T15:47:00-07:00", "source": "messenger", "url": "https://www.facebook.com/messages/t/1640293563644612/"}]}
+    "common-mystery-pack": {
+      "id": null,
+      "name": "common mystery pack",
+      "number": null,
+      "type": "unknown",
+      "rarity_label": "Common",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "Post described common mystery packs as best for new collectors; six prints with the buyer choosing the top print."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-04T17:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-04T17:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints"
+        }
+      ]
+    },
+    "california-poppies": {
+      "id": null,
+      "name": "California Poppies",
+      "number": null,
+      "type": "unknown",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [],
+      "trade_examples": [
+        {
+          "gave": "three shown prints",
+          "wanted": "California Poppies",
+          "community_take": "single-person offer"
+        }
+      ],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-04T17:04:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-04T17:04:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints"
+        }
+      ]
+    },
+    "penelope-pk-kix": {
+      "id": null,
+      "name": "Penelope PK Kix",
+      "number": null,
+      "type": "unknown",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-04T17:04:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-04T17:04:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints"
+        }
+      ]
+    },
+    "space-needle": {
+      "id": null,
+      "name": "Space Needle",
+      "number": null,
+      "type": "unknown",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-04T16:54:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-04T16:54:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints"
+        }
+      ]
+    },
+    "southern-resident-orcas": {
+      "id": null,
+      "name": "Southern Resident Orcas",
+      "number": null,
+      "type": "unknown",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-04T16:54:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-04T16:54:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints"
+        }
+      ]
+    },
+    "grand-central-terminal": {
+      "id": null,
+      "name": "Grand Central Terminal",
+      "number": null,
+      "type": "unknown",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-04T16:54:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-04T16:54:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints"
+        }
+      ]
+    },
+    "top-of-the-rock": {
+      "id": null,
+      "name": "Top of the Rock",
+      "number": null,
+      "type": "unknown",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-04T16:54:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-04T16:54:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints"
+        }
+      ]
+    },
+    "oven-mitt": {
+      "id": null,
+      "name": "Oven Mitt",
+      "number": null,
+      "type": "unknown",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [],
+      "trade_examples": [
+        {
+          "gave": "Oven Mitt",
+          "wanted": "Cheese Grater",
+          "community_take": "one-for-one trade"
+        }
+      ],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-04T17:05:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-04T17:05:00-07:00",
+          "source": "messenger",
+          "url": "https://www.facebook.com/messages/t/923549827132247/"
+        }
+      ]
+    },
+    "cheese-grater": {
+      "id": null,
+      "name": "Cheese Grater",
+      "number": null,
+      "type": "unknown",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-04T17:05:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-04T17:05:00-07:00",
+          "source": "messenger",
+          "url": "https://www.facebook.com/messages/t/923549827132247/"
+        }
+      ]
+    },
+    "mystery-packs": {
+      "id": null,
+      "name": "mystery packs",
+      "number": null,
+      "type": "unknown",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [],
+      "trade_examples": [],
+      "release_notes": [
+        "Discussion suggested smaller 4\u20135-print packs are easier to sell because buyers spend less upfront."
+      ],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-04T15:47:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-04T15:47:00-07:00",
+          "source": "messenger",
+          "url": "https://www.facebook.com/messages/t/1640293563644612/"
+        }
+      ]
+    },
+    "smiley": {
+      "id": null,
+      "name": "smiley",
+      "number": null,
+      "type": "unknown",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [],
+      "trade_examples": [],
+      "release_notes": [
+        "Jessica warned counterfeit smileys are mixed in and look poor quality; she is building a tracker for verified actuals (~92% done as of Sep 6 evening)."
+      ],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-06T18:25:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-06T18:25:00-07:00",
+          "source": "messenger",
+          "url": "https://www.facebook.com/messages/c/1343255853958809/t/735459129506731/"
+        }
+      ]
+    },
+    "numbered-smiley": {
+      "id": null,
+      "name": "numbered smiley",
+      "number": null,
+      "type": "unknown",
+      "rarity_label": "Rare",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "Community discussion cited $300 sales for two numbered smileys after a restock that showed pink and orange consecutive numbers."
+      ],
+      "trade_examples": [],
+      "release_notes": [
+        "Jessica: only 3 of /100 numbered smileys accounted for as of Sep 6 evening; further claims speculative.",
+        "Amanda: four consecutive-number eBay listings appeared; two taken down; seller account noted as brand new."
+      ],
+      "ooc": false,
+      "signal_count": 3,
+      "last_signal_at": "2026-09-06T18:30:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-06T18:25:00-07:00",
+          "source": "messenger",
+          "url": "https://www.facebook.com/messages/c/1343255853958809/t/735459129506731/"
+        },
+        {
+          "ts": "2026-09-06T18:27:00-07:00",
+          "source": "messenger",
+          "url": "https://www.facebook.com/messages/c/1343255853958809/t/735459129506731/"
+        },
+        {
+          "ts": "2026-09-06T18:30:00-07:00",
+          "source": "messenger",
+          "url": "https://www.facebook.com/messages/c/1343255853958809/t/735459129506731/"
+        }
+      ]
+    }
   },
   "global_tips": [
-    {"id": "common-mystery-packs-new-collectors", "topic": "rarity", "text": "Lori Quist Lindner described common mystery packs as best for new collectors; her post said six prints and the buyer chooses the top print.", "confidence": "high", "signal_count": 1},
-    {"id": "smaller-mystery-packs", "topic": "trade", "text": "Melissa said smaller mystery packs of four or five prints are easier to sell because buyers do not have to lay out as much money.", "confidence": "medium", "signal_count": 1}
+    {
+      "id": "common-mystery-packs-new-collectors",
+      "topic": "rarity",
+      "text": "Lori Quist Lindner described common mystery packs as best for new collectors; her post said six prints and the buyer chooses the top print.",
+      "confidence": "high",
+      "signal_count": 1
+    },
+    {
+      "id": "smaller-mystery-packs",
+      "topic": "trade",
+      "text": "Melissa said smaller mystery packs of four or five prints are easier to sell because buyers do not have to lay out as much money.",
+      "confidence": "medium",
+      "signal_count": 1
+    },
+    {
+      "id": "smiley-counterfeits",
+      "topic": "authenticity",
+      "text": "Jessica warned smileys include fakes that look obviously bad, and said she is ~92% done tracking verified actuals. Treat unverified smileys carefully.",
+      "confidence": "high",
+      "signal_count": 1
+    },
+    {
+      "id": "numbered-smiley-count",
+      "topic": "rarity",
+      "text": "As of Sep 6 evening, Jessica said only three of the numbered /100 smileys were accounted for; anything else is speculation. Separate discussion noted consecutive-number eBay listings and $300 sales.",
+      "confidence": "medium",
+      "signal_count": 3
+    }
   ]
 }
