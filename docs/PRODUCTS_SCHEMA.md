@@ -47,3 +47,12 @@ Keyed by ASIN or normalized URL host+path:
 ```
 
 Affiliate tags are **not** added here — her site/Codex owns tagging later.
+
+## Exclusions (important)
+
+Do **NOT** index as products:
+- Mystery packs, print drops, or anything that is itself a miniprint / Ana Inciardi print for sale
+- Official inciardiprints.com print/pack listings
+- UFT/ISO trade posts for specific prints
+
+**DO** index accessories and tools people recommend for collecting: sleeves, toploaders, binders, frames, display cases, coin rollers/wrappers, shipping supplies, storage boxes, lighting, etc.
