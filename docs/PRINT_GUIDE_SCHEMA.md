@@ -23,7 +23,6 @@ Conflict rule: newer signals inform aggregates; keep raw signals forever so the 
   "claim": "Custom for catalog is uneven; fairer is custom↔custom or custom↔rare catalog",
   "direction": "custom_asks_catalog|catalog_asks_custom|rare_guidance|unknown",
   "consensus_hint": "agree|disagree|mixed|single_voice",
-  "authors": ["Kelly"],
   "source": "facebook_group|messenger",
   "source_url": "https://...",
   "thread_name": "NYC/NJ",
@@ -80,3 +79,7 @@ Conflict rule: newer signals inform aggregates; keep raw signals forever so the 
 ## Chatbot use
 
 Print Guide should prefer `print_guide_index.json` for answers, and fall back to recent lines in `print_signals.ndjson` for provenance. Machine stock stays in `machines.json` (availability ≠ rarity).
+
+## Privacy
+
+Never store personal names of community members. Use anonymous labels only (`community member`, relative time, thread name, source URL). Do not include `authors` fields with real names.

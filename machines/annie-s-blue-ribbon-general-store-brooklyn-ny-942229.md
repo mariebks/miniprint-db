@@ -40,7 +40,7 @@ Brooklyn, NY — 232 5th Ave, Brooklyn, NY 11215, USA
 - parking: 
 - nearby: 
 - notes: 
-- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | Keren
+- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | someone
 ## 2026-09-06 seed from miniprintdatabase.com
 - stock: in_stock
 - status: active

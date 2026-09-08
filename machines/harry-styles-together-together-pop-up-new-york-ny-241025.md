@@ -36,13 +36,13 @@ New York, NY — 22 E 2nd St
 
 ## 2026-09-07 morning PT
 - stock: out of stock
-- notes: Prints out until Wednesday restock (Emily morning digest)
-- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | Emily
+- notes: Prints out until Wednesday restock (someone morning digest)
+- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | someone
 
 ## 2026-09-07 morning PT
 - stock: out of stock
-- notes: Prints out until Wednesday restock (Emily morning digest)
-- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | Emily
+- notes: Prints out until Wednesday restock (someone morning digest)
+- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | someone
 
 ## 2026-09-06 seed from miniprintdatabase.com
 - stock: out_of_stock

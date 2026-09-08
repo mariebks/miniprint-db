@@ -35,3 +35,7 @@ One JSON object per line, append-only, newest typically at end:
 See `PRINT_GUIDE_SCHEMA.md`. Additional handoff files:
 - `data/print_signals.ndjson`
 - `data/print_guide_index.json`
+
+## Privacy
+
+Never store personal names of community members. Use anonymous labels only (`community member`, relative time, thread name, source URL). Do not include `authors` fields with real names.

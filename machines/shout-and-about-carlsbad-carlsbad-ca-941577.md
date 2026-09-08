@@ -40,7 +40,7 @@ Carlsbad, CA — 7740 S El Camino Real D, Carlsbad, CA 92009, USA
 - parking: 
 - nearby: 
 - notes: 
-- source: messenger | thread "Cali Machine Updates" | https://www.facebook.com/messages/t/24518755321159390/ | Emily
+- source: messenger | thread "Cali Machine Updates" | https://www.facebook.com/messages/t/24518755321159390/ | someone
 ## 2026-09-06 seed from miniprintdatabase.com
 - stock: in_stock
 - status: active

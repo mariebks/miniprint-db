@@ -36,8 +36,8 @@ Brooklyn, NY — 215 Knickerbocker Ave, Brooklyn, NY 11237, USA
 
 ## 2026-09-07 ~07:14 PT
 - stock: out of stock / waiting for restock (unconfirmed)
-- notes: Tini called a few days ago; store said waiting for restock — unclear if it has arrived since.
-- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | Tini
+- notes: someone called a few days ago; store said waiting for restock — unclear if it has arrived since.
+- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | someone
 ## 2026-09-06 seed from miniprintdatabase.com
 - stock: out_of_stock
 - status: active

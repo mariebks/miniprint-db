@@ -20,7 +20,6 @@ Captured from FB group + Messenger when people recommend something to buy (sleev
   "title_guess": "penny sleeves",
   "use_case": "protect miniprints|storage|display|shipping|other",
   "quote": "short excerpt",
-  "authors": ["…"],
   "source": "facebook_group|messenger",
   "source_url": "https://…",
   "confidence": "high|medium|low"
@@ -56,3 +55,7 @@ Do **NOT** index as products:
 - UFT/ISO trade posts for specific prints
 
 **DO** index accessories and tools people recommend for collecting: sleeves, toploaders, binders, frames, display cases, coin rollers/wrappers, shipping supplies, storage boxes, lighting, etc.
+
+## Privacy
+
+Never store personal names of community members. Use anonymous labels only (`community member`, relative time, thread name, source URL). Do not include `authors` fields with real names.

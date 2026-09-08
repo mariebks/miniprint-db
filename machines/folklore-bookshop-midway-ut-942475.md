@@ -39,8 +39,8 @@ Midway, UT — 49 N 200 W Ste 101, Midway, UT 84049, USA
 - prints: sourdough, To Be Read, foxglove, apples, folklore; 8×10 Lemon Yodel available for $30
 - parking: limited/paid during Swiss Days — $20–30 close; $15 far lot about 1.5 miles away; shuttle available
 - nearby: machine is outside the store beside an extra register; limit 10; quarters only
-- notes: Julia obtained one. Swiss Days in Midway, UT.
-- source: messenger | thread "Utah Machine Chats" | https://www.facebook.com/messages/t/1172846214261971/ | Julia
+- notes: someone obtained one. Swiss Days in Midway, UT.
+- source: messenger | thread "Utah Machine Chats" | https://www.facebook.com/messages/t/1172846214261971/ | someone
 ## 2026-09-06 seed from miniprintdatabase.com
 - stock: in_stock
 - status: active

@@ -37,12 +37,12 @@ New York, NY — Rockefeller Plaza, 30 Rockefeller Plaza, New York, NY 10112, US
 ## 2026-09-07 morning PT
 - stock: (unconfirmed report) someone said out; confirmation requested
 - notes: No independent confirmation in-thread yet; machine already marked out_of_stock from seed
-- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | Emily (relayed)
+- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | someone (relayed)
 
 ## 2026-09-07 morning PT
 - stock: (unconfirmed report) someone said out; confirmation requested
 - notes: No independent confirmation in-thread yet; machine already marked out_of_stock from seed
-- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | Emily (relayed)
+- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | someone (relayed)
 
 ## 2026-09-06 seed from miniprintdatabase.com
 - stock: out_of_stock

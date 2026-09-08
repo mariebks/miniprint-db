@@ -37,9 +37,9 @@ New York, NY — 25 Little W 12th St, New York, NY 10014, USA
 ## 2026-09-07 ~10:05 PT
 - stock: in stock / operating
 - pull_limit: 5 prints per person per day until end of pop-up
-- nearby/line: midday waits ~2.5–3hr from 9:30–9:40 lineup; token line longer around noon but manageable; Jennifer got in ~12
+- nearby/line: midday waits ~2.5–3hr from 9:30–9:40 lineup; token line longer around noon but manageable; someone got in ~12
 - notes: Covers popup complex (#3; see #1 for full line notes). Joana secondhand; Erinn firsthand 9:40→3hr.
-- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | Jennifer, Joana, Erinn
+- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | someone, Joana, Erinn
 ## 2026-09-07 morning PT
 - stock: in stock / operating (same popup complex as #1)
 - notes: Line intel logged on Snoopy #1; not machine-number-specific

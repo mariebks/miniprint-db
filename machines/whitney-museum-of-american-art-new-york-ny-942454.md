@@ -37,22 +37,22 @@ New York, NY — 99 Gansevoort St, New York, NY 10014, USA
 ## 2026-09-07 morning PT
 - stock: out of stock
 - prints: a few ice cream packs and some catalog prints still available
-- notes: Confirmed again in Emily morning digest
-- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | Emily
+- notes: Confirmed again in someone morning digest
+- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | someone
 
 ## 2026-09-07 morning PT
 - stock: out of stock
 - prints: a few ice cream packs and some catalog prints still available
-- notes: Confirmed again in Emily morning digest
-- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | Emily
+- notes: Confirmed again in someone morning digest
+- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | someone
 
 ## 2026-09-06 ~15:23 PT
 - stock: out of stock
 - prints: a few ice-cream packs at the register
 - parking: 
 - nearby: 
-- notes: Same-thread note (Tara ~6:01 PM): "smiley print near 99/100 and almost sold out" — machine not clearly identified.
-- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | Kelly (Whitney); Tara (smiley caveat)
+- notes: Same-thread note (someone ~6:01 PM): "smiley print near 99/100 and almost sold out" — machine not clearly identified.
+- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | someone (Whitney); someone (smiley caveat)
 ## 2026-09-06 seed from miniprintdatabase.com
 - stock: out_of_stock
 - status: active

@@ -40,7 +40,7 @@ Los Angeles, CA — 1547 Echo Park Ave, Los Angeles, CA 90026, USA
 - parking: 
 - nearby: 
 - notes: 
-- source: messenger | thread "Cali Machine Updates" | https://www.facebook.com/messages/t/24518755321159390/ | Emily
+- source: messenger | thread "Cali Machine Updates" | https://www.facebook.com/messages/t/24518755321159390/ | someone
 ## 2026-09-06 seed from miniprintdatabase.com
 - stock: in_stock
 - status: active

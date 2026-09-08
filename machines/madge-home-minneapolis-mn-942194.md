@@ -35,7 +35,7 @@ Minneapolis, MN — 307 N 1st Ave, Minneapolis, MN 55413, USA
 # Log
 
 ## 2026-09-04 PT
-- stock: unknown; Megan hoped for a restock by Thursday
+- stock: unknown; someone hoped for a restock by Thursday
 - prints: 
 - parking: street parking available; paid lot across the street $12; or street parking about a block away
 - nearby: 

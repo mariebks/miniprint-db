@@ -36,13 +36,13 @@ New York, NY — Rockefeller Plaza, 30 Rockefeller Plaza, New York, NY 10112, US
 
 ## 2026-09-07 morning PT
 - stock: in stock (back in stock)
-- notes: Emily morning digest
-- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | Emily
+- notes: someone morning digest
+- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | someone
 
 ## 2026-09-07 morning PT
 - stock: in stock (back in stock)
-- notes: Emily morning digest
-- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | Emily
+- notes: someone morning digest
+- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | someone
 
 ## 2026-09-06 seed from miniprintdatabase.com
 - stock: out_of_stock

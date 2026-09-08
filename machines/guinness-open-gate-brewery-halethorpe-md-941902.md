@@ -40,7 +40,7 @@ Halethorpe, MD — 5001 Washington Blvd, Halethorpe, MD 21227, USA
 - parking: 
 - nearby: 
 - notes: Staff may restock around November after Oktoberfest. Friday manager had expected 2–3 weeks of inventory. Tours were operating; a private-event closure referred to another location.
-- source: messenger | thread "DMV/PA/NC Machine Updates" | https://www.facebook.com/messages/t/767267829667957/ | Emily/Daniel/Linnea
+- source: messenger | thread "DMV/PA/NC Machine Updates" | https://www.facebook.com/messages/t/767267829667957/ | someone/someone/Linnea
 ## 2026-09-06 seed from miniprintdatabase.com
 - stock: out_of_stock
 - status: active

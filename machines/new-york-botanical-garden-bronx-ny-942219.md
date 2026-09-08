@@ -36,13 +36,13 @@ Bronx, NY — 2900 Southern Blvd, Bronx, NY 10458, USA
 
 ## 2026-09-07 morning PT
 - pull_limit: 10 (new limit)
-- notes: Emily morning digest; applied to main NYBG machine (not Moomin)
-- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | Emily
+- notes: someone morning digest; applied to main NYBG machine (not Moomin)
+- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | someone
 
 ## 2026-09-07 morning PT
 - pull_limit: 10 (new limit)
-- notes: Emily morning digest; applied to main NYBG machine (not Moomin)
-- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | Emily
+- notes: someone morning digest; applied to main NYBG machine (not Moomin)
+- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | someone
 
 ## 2026-09-06 seed from miniprintdatabase.com
 - stock: in_stock

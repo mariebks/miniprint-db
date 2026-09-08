@@ -40,7 +40,7 @@ Encinitas, CA — 960 S Coast Hwy 101 #108, Encinitas, CA 92024, USA
 - parking: 
 - nearby: 
 - notes: 
-- source: messenger | thread "Cali Machine Updates" | https://www.facebook.com/messages/t/24518755321159390/ | Emily
+- source: messenger | thread "Cali Machine Updates" | https://www.facebook.com/messages/t/24518755321159390/ | someone
 ## 2026-09-06 seed from miniprintdatabase.com
 - stock: in_stock
 - status: active

@@ -18,7 +18,7 @@ available_print_count: 8
 prints_available: ["1784605485755x385819949530970600", "1787176324582x349665115730709100", "1787176420284x125466633636551000", "1784605703727x191036202411765980", "1787176325119x425872420360928060", "1787176420132x781872478242910100", "1787176324843x401822810873806200", "1787176420866x370367225419953700"]
 parking: The machine is on the 3rd floor, right near the elevator
 parking_cost: 
-nearby: "Machine on 3rd floor near elevator. 2026-09-07 ~12:50 PT: huge line (Jennifer). Context ~13:24 PT: last day of the Botero exhibit (Brittany)."
+nearby: "Machine on 3rd floor near elevator. 2026-09-07 ~12:50 PT: huge line (someone). Context ~13:24 PT: last day of the Botero exhibit (someone)."
 website: "https://www.sothebys.com/en/about/locations/new-york"
 instagram: sothebys
 richard_scarry: false
@@ -36,8 +36,8 @@ New York, NY — 945 Madison Ave, New York, NY 10021, USA
 
 ## 2026-09-07 ~12:50–13:24 PT
 - stock: in stock (inferred from huge line activity; prior seed was out_of_stock Aug 15)
-- nearby/line: huge line ~12:50 (Jennifer)
-- event: last day of Botero exhibit ~13:24 (Brittany)
+- nearby/line: huge line ~12:50 (someone)
+- event: last day of Botero exhibit ~13:24 (someone)
 - source: https://www.facebook.com/messages/t/735459129506731/
 
 ## 2026-09-06 seed from miniprintdatabase.com
