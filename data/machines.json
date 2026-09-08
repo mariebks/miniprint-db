@@ -14868,8 +14868,8 @@
     "latitude": 40.75883547,
     "longitude": -73.97881414,
     "status": "active",
-    "stock_status": "in_stock",
-    "waiting_for_restock": false,
+    "stock_status": "out_of_stock",
+    "waiting_for_restock": true,
     "payment_type": "tokens",
     "pull_limit": "5 prints per turn in line",
     "print_types": [
@@ -14925,7 +14925,7 @@
     "instagram": "experiencenbcstudios",
     "richard_scarry": false,
     "popup_event": false,
-    "last_updated": "2026-09-07T03:49:00-07:00",
+    "last_updated": "2026-09-07T14:49:00-07:00",
     "last_source": "messenger",
     "source_url": "https://miniprintdatabase.com/machine_details/1787165942453x787789989753224300"
   },
@@ -15321,8 +15321,8 @@
     "latitude": 40.75883547,
     "longitude": -73.97881414,
     "status": "active",
-    "stock_status": "out_of_stock",
-    "waiting_for_restock": true,
+    "stock_status": "in_stock",
+    "waiting_for_restock": false,
     "payment_type": "quarters",
     "pull_limit": "15",
     "print_types": [
@@ -15378,8 +15378,8 @@
     "instagram": "topoftherocknyc",
     "richard_scarry": false,
     "popup_event": false,
-    "last_updated": "2026-09-06T17:21:58Z",
-    "last_source": "miniprintdatabase.com seed",
+    "last_updated": "2026-09-07T14:54:00-07:00",
+    "last_source": "messenger",
     "source_url": "https://miniprintdatabase.com/machine_details/1787165942452x921877633328104200"
   },
   {

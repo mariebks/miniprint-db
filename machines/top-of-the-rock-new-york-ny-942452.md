@@ -1,5 +1,5 @@
 ---
-d: 1787165942452x921877633328104200
+id: 1787165942452x921877633328104200
 name: Top of the Rock
 venue: Top of the Rock
 city: New York
@@ -9,8 +9,8 @@ zip: 10112
 latitude: 40.75883547
 longitude: -73.97881414
 status: active
-stock_status: out_of_stock
-waiting_for_restock: true
+stock_status: in_stock
+waiting_for_restock: false
 payment_type: quarters
 pull_limit: 15
 print_types: ["custom", "catalog"]
@@ -23,7 +23,7 @@ website: "https://www.rockefellercenter.com/tickets/top-of-the-rock-observation-
 instagram: topoftherocknyc
 richard_scarry: false
 popup_event: false
-last_updated: "2026-09-07T03:49:00-07:00"
+last_updated: "2026-09-07T14:54:00-07:00"
 last_source: messenger
 source_url: "https://miniprintdatabase.com/machine_details/1787165942452x921877633328104200"
 ---
@@ -33,6 +33,11 @@ source_url: "https://miniprintdatabase.com/machine_details/1787165942452x9218776
 New York, NY — Rockefeller Plaza, 30 Rockefeller Plaza, New York, NY 10112, USA
 
 # Log
+
+## 2026-09-07 ~14:54 PT
+- stock: in_stock (secondhand; Instagram visit last night — seemed at least back in stock)
+- notes: unverified firsthand; community relay of Instagram
+- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | community member
 
 ## 2026-09-07 morning PT
 - stock: (unconfirmed report) someone said out; confirmation requested
