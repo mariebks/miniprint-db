@@ -1,9 +1,10 @@
 {
-  "updated_at": "2026-09-06T20:49:00-07:00",
+  "updated_at": "2026-09-08T10:43:00-07:00",
   "source_threads": [
-    "https://www.facebook.com/messages/t/2158831965046995/"
+    "https://www.facebook.com/messages/t/2158831965046995/",
+    "https://www.facebook.com/messages/t/2020802802013925/"
   ],
-  "product_count": 65,
+  "product_count": 66,
   "products": [
     {
       "signal_type": "accessory_recommendation",
@@ -719,6 +720,18 @@
       "thread_url": "https://www.facebook.com/messages/t/2158831965046995/",
       "evidence": "community member, 41w",
       "confidence": "high"
+    },
+    {
+      "signal_type": "accessory_recommendation",
+      "product_name": "VaultX card binders",
+      "category": "binder",
+      "url": "https://us.vaultx.com/collections/card-binders",
+      "asin": null,
+      "source": "messenger",
+      "thread_url": "https://www.facebook.com/messages/t/2020802802013925/",
+      "evidence": "community member, 8m",
+      "confidence": "medium",
+      "quote": "fits binders and sleeves, including a Vault X binder; regular mini prints 2.5x3.5"
     }
   ],
   "asins_found": [

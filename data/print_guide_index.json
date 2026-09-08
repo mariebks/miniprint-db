@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-06T22:13:00-07:00",
+  "updated_at": "2026-09-08T10:43:00-07:00",
   "prints": {
     "common-mystery-pack": {
       "id": null,
@@ -315,6 +315,36 @@
       "text": "As of Sep 6 evening, a community member said only three of the numbered /100 smileys were accounted for; anything else is speculation. Separate discussion noted consecutive-number eBay listings and $300 sales.",
       "confidence": "medium",
       "signal_count": 3
+    },
+    {
+      "id": "regular-miniprint-size-atc",
+      "topic": "storage",
+      "text": "Regular mini prints are 2.5×3.5 inches (standard art trading-card size) and fit standard sleeves and binders; Vault X binders were mentioned as fitting.",
+      "confidence": "high",
+      "signal_count": 1,
+      "last_signal_at": "2026-09-08T10:35:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-08T10:35:00-07:00",
+          "source": "messenger",
+          "url": "https://www.facebook.com/messages/t/2020802802013925/"
+        }
+      ]
+    },
+    {
+      "id": "community-variants-excel-list",
+      "topic": "cataloging",
+      "text": "As of Sep 8 morning, a community member said they were starting an Excel-style list of all print variants; another was not aware of an existing list.",
+      "confidence": "medium",
+      "signal_count": 1,
+      "last_signal_at": "2026-09-08T10:08:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-08T10:08:00-07:00",
+          "source": "messenger",
+          "url": "https://www.facebook.com/messages/t/2531160140177616/"
+        }
+      ]
     }
   ]
 }
