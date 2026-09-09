@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T10:45:00-07:00",
+  "updated_at": "2026-09-09T14:45:00-07:00",
   "prints": {
     "common-mystery-pack": {
       "id": null,
@@ -377,6 +377,99 @@
           "url": "https://www.facebook.com/messages/t/2531160140177616/"
         }
       ]
+    },
+    "only-ny-35mm": {
+      "id": "1787176421154x237077628424384960",
+      "name": "Only NY (35mm)",
+      "number": null,
+      "type": "unknown",
+      "rarity_label": "Rare",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "Described as OOC; fair trade said to need another OOC or multiple desirable prints (2026-09-09 community).",
+        "Hold Only NY camera / 35mm unless the trade is especially desirable (2026-09-09 community)."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": true,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-09T12:20:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-09T12:20:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/permalink/1100254639173712/"
+        }
+      ]
+    },
+    "diva-down": {
+      "id": "1787176324845x656496004956074600",
+      "name": "Diva Down",
+      "number": null,
+      "type": "unknown",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "Hold unless the trade is especially desirable (2026-09-09 community)."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-09T12:20:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-09T12:20:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/permalink/1100254639173712/"
+        }
+      ]
+    },
+    "la-iris": {
+      "id": "1787176325137x448402136968986400",
+      "name": "La Iris",
+      "number": null,
+      "type": "unknown",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "Hold unless the trade is especially desirable (2026-09-09 community)."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-09T12:20:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-09T12:20:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/permalink/1100254639173712/"
+        }
+      ]
+    },
+    "vieux-carre": {
+      "id": "vieux-carre",
+      "name": "Vieux Carre",
+      "number": null,
+      "type": "unknown",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "Hold unless the trade is especially desirable (2026-09-09 community)."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-09T12:20:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-09T12:20:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/permalink/1100254639173712/"
+        }
+      ]
     }
   },
   "global_tips": [
@@ -442,6 +535,13 @@
       "id": "mystery-pack-vs-emporium-labels",
       "topic": "variants",
       "text": "Community compares Mystery Pack vs Original/Emporium label variants on the same image; some variants (e.g. Dawn & Sunset) can look almost like a new print, and additional variants keep appearing.",
+      "confidence": "medium",
+      "signal_count": 1
+    },
+    {
+      "id": "ooc-needs-ooc-or-multiples",
+      "topic": "fair_trade",
+      "text": "OOC prints (e.g. Only NY 35mm per 2026-09-09 claim) are often said to need another OOC or multiple desirable prints for a fair trade.",
       "confidence": "medium",
       "signal_count": 1
     }

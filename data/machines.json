@@ -1987,10 +1987,10 @@
     "latitude": 37.78868901,
     "longitude": -122.43405299,
     "status": "active",
-    "stock_status": "low_stock",
+    "stock_status": "in_stock",
     "waiting_for_restock": false,
     "payment_type": "quarters",
-    "pull_limit": "1 print",
+    "pull_limit": 6,
     "print_types": [
       "Catalog",
       "Custom"
@@ -2039,13 +2039,13 @@
       }
     ],
     "parking": "Limits: 1 mystery pack per person with store purchase (1 custom guaranteed per mystery pack)",
-    "nearby": "Limits: 1 mystery pack per person with store purchase (1 custom guaranteed per mystery pack)",
+    "nearby": "2026-09-09: restocked; community reports pull limit 6. Prior seed note: 1 mystery pack per person with store purchase (1 custom guaranteed per mystery pack).",
     "website": "https://postscriptshop.com/",
     "instagram": "",
     "richard_scarry": false,
     "popup_event": false,
-    "last_updated": "2026-09-05T00:00:00.000Z",
-    "last_source": "miniprintdatabase.com audit 2026-09-08",
+    "last_updated": "2026-09-09T12:13:00-07:00",
+    "last_source": "messenger",
     "source_url": "https://miniprintdatabase.com/machine_details/1787165941586x610333692350689900"
   },
   {
@@ -2227,8 +2227,8 @@
     "latitude": 34.01265573,
     "longitude": -118.48171941,
     "status": "active",
-    "stock_status": "in_stock",
-    "waiting_for_restock": false,
+    "stock_status": "out_of_stock",
+    "waiting_for_restock": true,
     "payment_type": "quarters",
     "pull_limit": null,
     "print_types": [
@@ -2279,13 +2279,13 @@
       }
     ],
     "parking": "",
-    "nearby": "",
+    "nearby": "2026-09-09: community says out until sometime next month; missed a new ‘old’ peaches pull.",
     "website": "https://www.ladyandlarder.com/",
     "instagram": "",
     "richard_scarry": false,
     "popup_event": false,
-    "last_updated": "2026-08-28T00:00:00.000Z",
-    "last_source": "miniprintdatabase.com audit 2026-09-08",
+    "last_updated": "2026-09-09T14:30:00-07:00",
+    "last_source": "messenger",
     "source_url": "https://miniprintdatabase.com/machine_details/1787165941582x611752516151746700"
   },
   {
@@ -3339,7 +3339,7 @@
     "latitude": 38.90063734,
     "longitude": -77.02911262,
     "status": "active",
-    "stock_status": "in_stock",
+    "stock_status": "unknown",
     "waiting_for_restock": false,
     "payment_type": "tokens",
     "pull_limit": null,
@@ -3396,13 +3396,13 @@
       }
     ],
     "parking": "Located in gift shop | Does not require museum admission",
-    "nearby": "Located in gift shop | Does not require museum admission",
+    "nearby": "Located in gift shop | Does not require museum admission. 2026-09-09: payment reports conflict (quarters vs tokens); stock uncertain — no confirmed out-of-stock report.",
     "website": "https://nmwa.org/",
     "instagram": "womeninthearts",
     "richard_scarry": false,
     "popup_event": false,
-    "last_updated": "2026-08-30T00:00:00.000Z",
-    "last_source": "miniprintdatabase.com audit 2026-09-08",
+    "last_updated": "2026-09-09T13:40:00-07:00",
+    "last_source": "facebook_group",
     "source_url": "https://miniprintdatabase.com/machine_details/1787165941594x683313947865560600"
   },
   {
@@ -11231,13 +11231,13 @@
       }
     ],
     "parking": "Aug 26 - Nov 1 | HOURS: | Wed-Sun: 12:00pm - 7:00pm | Mon-Tues: Closed",
-    "nearby": "Aug 26 - Nov 1 | HOURS: | Wed-Sun: 12:00pm - 7:00pm | Mon-Tues: Closed",
+    "nearby": "Aug 26 - Nov 1 | HOURS: Wed-Sun 12:00pm-7:00pm; Mon-Tues Closed. 2026-09-09 afternoon: out of tokens / capped for the day; long line outside and inside; staff enforcing strict 5-print daily limit (no re-entry); community says token sales stop ~6:45 PM; access reports inconsistent since at least Saturday.",
     "website": "https://www.hstyles.co.uk/popups/",
     "instagram": "",
     "richard_scarry": false,
     "popup_event": true,
-    "last_updated": "2026-09-08T16:00:00-07:00",
-    "last_source": "messenger",
+    "last_updated": "2026-09-09T14:23:00-07:00",
+    "last_source": "facebook_group",
     "source_url": "https://miniprintdatabase.com/machine_details/1787765241025x409423952306396740"
   },
   {
@@ -12161,13 +12161,13 @@
       }
     ],
     "parking": "",
-    "nearby": "",
+    "nearby": "2026-09-09: community says last year’s prints put out recently; 4 quarters = 1 surprise print; reply says machine will be restocked.",
     "website": "https://museum.syr.edu/",
     "instagram": "suartmuseum",
     "richard_scarry": false,
     "popup_event": false,
-    "last_updated": "2026-09-01T00:00:00.000Z",
-    "last_source": "miniprintdatabase.com audit 2026-09-08",
+    "last_updated": "2026-09-09T11:20:00-07:00",
+    "last_source": "facebook_group",
     "source_url": "https://miniprintdatabase.com/machine_details/1787165942454x349404284873098280"
   },
   {

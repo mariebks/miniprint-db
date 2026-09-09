@@ -18,13 +18,12 @@ available_print_count: 11
 prints_available: ["1787176420401x729636759675064300", "1787176420392x812927802660849900", "1787176420291x574429946141351360", "1787176420122x769445222834133100", "1787176420284x125466633636551000", "1787176419548x163583814953037300", "1787176324998x415015172053430100", "1787176324854x316180022554361150", "1787176324842x729281352167955300", "1787176325128x456552892400057300", "1787176420428x776506237006164000"]
 parking: 
 parking_cost: 
-nearby: 
-website: "https://museum.syr.edu/"
+nearby: "2026-09-09: community says last year’s prints put out recently; 4 quarters = 1 surprise print; reply says machine will be restocked."
 instagram: suartmuseum
 richard_scarry: false
 popup_event: false
-last_updated: "2026-09-01T21:38:27Z"
-last_source: miniprintdatabase.com seed
+last_updated: "2026-09-09 11:20 PT"
+last_source: facebook_group
 source_url: "https://miniprintdatabase.com/machine_details/1787165942454x349404284873098280"
 ---
 
@@ -33,6 +32,13 @@ source_url: "https://miniprintdatabase.com/machine_details/1787165942454x3494042
 Syracuse, NY — Shaffer Hall, Syracuse, NY 13210, USA
 
 # Log
+
+## 2026-09-09 ~11:20 PT
+- stock: in_stock (last year's prints put out)
+- payment: 4 quarters = 1 surprise print
+- notes: reply says machine will be restocked
+- source: facebook_group | https://www.facebook.com/groups/inciardiprints/permalink/1100174869181689/ | community member
+
 
 ## 2026-09-06 seed from miniprintdatabase.com
 - stock: in_stock

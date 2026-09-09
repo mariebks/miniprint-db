@@ -12,18 +12,18 @@ status: active
 stock_status: out_of_stock
 waiting_for_restock: true
 payment_type: tokens
-pull_limit: 5 prints
+pull_limit: 5
 print_types: ["Pop Up Event", "Miscellaneous"]
 available_print_count: 6
 prints_available: [{"id": null, "name": "Every Wednesday, Friday & Saturday", "printType": null}, {"id": null, "name": "Harry St.", "printType": null}, {"id": null, "name": "Disco Rat", "printType": null}, {"id": null, "name": "Tomato (Harry Styles)", "printType": null}, {"id": null, "name": "MSG, and step on it!", "printType": null}, {"id": null, "name": "Disco Pigeon", "printType": null}]
 parking: "Aug 26 - Nov 1 | HOURS: | Wed-Sun: 12:00pm - 7:00pm | Mon-Tues: Closed"
-nearby: "Aug 26 - Nov 1 | HOURS: | Wed-Sun: 12:00pm - 7:00pm | Mon-Tues: Closed"
+nearby: "Aug 26 - Nov 1 | HOURS: Wed-Sun 12:00pm-7:00pm; Mon-Tues Closed. 2026-09-09 afternoon: out of tokens / capped for the day; long line outside and inside; staff enforcing strict 5-print daily limit (no re-entry); community says token sales stop ~6:45 PM; access reports inconsistent since at least Saturday."
 website: "https://www.hstyles.co.uk/popups/"
 instagram: 
 richard_scarry: false
 popup_event: true
-last_updated: "2026-09-07T03:49:00-07:00"
-last_source: messenger
+last_updated: "2026-09-09 14:23 PT"
+last_source: facebook_group
 source_url: "https://miniprintdatabase.com/machine_details/1787765241025x409423952306396740"
 ---
 # Harry Styles Together, Together Pop-Up
@@ -31,6 +31,14 @@ source_url: "https://miniprintdatabase.com/machine_details/1787765241025x4094239
 New York, NY
 
 # Log
+
+## 2026-09-09 ~14:23 PT
+- stock: out_of_stock (out of tokens / capped for the day)
+- pull_limit: 5 (staff enforcing strictly; no re-entry)
+- nearby: long line outside and inside; token sales stop ~6:45 PM; access inconsistent since Saturday
+- notes: group + Messenger corroboration
+- source: facebook_group | https://www.facebook.com/groups/inciardiprints/permalink/1100311659168010/ | community member
+
 
 ## 2026-09-08 site audit
 - status: active
