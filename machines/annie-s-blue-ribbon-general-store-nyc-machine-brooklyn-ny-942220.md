@@ -23,8 +23,8 @@ website: "https://blueribbongeneralstore.com/"
 instagram: anniesblueribbongeneralstore
 richard_scarry: false
 popup_event: false
-last_updated: "2026-09-03T19:34:14Z"
-last_source: miniprintdatabase.com seed
+last_updated: "2026-09-09 09:16 PT"
+last_source: messenger
 source_url: "https://miniprintdatabase.com/machine_details/1787165942220x339701044127620700"
 ---
 
@@ -33,6 +33,11 @@ source_url: "https://miniprintdatabase.com/machine_details/1787165942220x3397010
 Brooklyn, NY — 232 5th Ave, Brooklyn, NY 11215, USA
 
 # Log
+
+## 2026-09-09 ~09:16 PT
+- stock: in_stock (both machines have prints)
+- notes: community member firsthand visit
+- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | community member
 
 ## 2026-09-06 seed from miniprintdatabase.com
 - stock: in_stock

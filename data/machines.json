@@ -5148,9 +5148,9 @@
     "zip": "01810",
     "latitude": null,
     "longitude": null,
-    "status": "closed_for_season",
-    "stock_status": "unknown",
-    "waiting_for_restock": false,
+    "status": "active",
+    "stock_status": "out_of_stock",
+    "waiting_for_restock": true,
     "payment_type": "quarters",
     "pull_limit": "10 prints",
     "print_types": [
@@ -5190,15 +5190,15 @@
         "printType": null
       }
     ],
-    "parking": "Closed until September 8; vending machine will be restocked around September 17, check their Instagram/Facebook pages for updates | Located in gift shop, free admission",
-    "nearby": "Closed until September 8; vending machine will be restocked around September 17, check their Instagram/Facebook pages for updates | Located in gift shop, free admission",
+    "parking": "Reopened after seasonal break; community says store posted no prints until ~Sep 17 (order placed after reopen; expected different from previous box theme). Located in gift shop, free admission.",
+    "nearby": "Reopened after seasonal break; community says store posted no prints until ~Sep 17 (order placed after reopen; expected different from previous box theme). Located in gift shop, free admission.",
     "website": "https://addison.andover.edu/",
     "instagram": "addisongalleryofamericanart",
     "richard_scarry": false,
     "popup_event": false,
-    "last_updated": "2026-08-27T00:00:00.000Z",
-    "last_source": "miniprintdatabase.com audit 2026-09-08",
-    "source_url": "https://miniprintdatabase.com/machine_details/1787165941888x790102214602616800"
+    "last_updated": "2026-09-08T19:24:00-07:00",
+    "last_source": "messenger",
+    "source_url": "https://www.facebook.com/messages/t/1169379008425052/"
   },
   {
     "id": "1787165941889x713830246933936600",
@@ -10211,8 +10211,8 @@
     "latitude": 40.67568816,
     "longitude": -73.98111975,
     "status": "active",
-    "stock_status": "waiting_for_restock",
-    "waiting_for_restock": true,
+    "stock_status": "in_stock",
+    "waiting_for_restock": false,
     "payment_type": "tokens",
     "pull_limit": "10 prints across both machines",
     "print_types": [
@@ -10272,9 +10272,9 @@
     "instagram": "",
     "richard_scarry": false,
     "popup_event": false,
-    "last_updated": "2026-09-06T14:19:00-07:00",
+    "last_updated": "2026-09-09T09:16:00-07:00",
     "last_source": "messenger",
-    "source_url": "https://miniprintdatabase.com/machine_details/1787165942229x587168640283590000"
+    "source_url": "https://www.facebook.com/messages/t/735459129506731/"
   },
   {
     "id": "1787165942220x339701044127620700",
@@ -10324,9 +10324,9 @@
     "instagram": "",
     "richard_scarry": false,
     "popup_event": false,
-    "last_updated": "2026-09-03T00:00:00.000Z",
-    "last_source": "miniprintdatabase.com audit 2026-09-08",
-    "source_url": "https://miniprintdatabase.com/machine_details/1787165942220x339701044127620700"
+    "last_updated": "2026-09-09T09:16:00-07:00",
+    "last_source": "messenger",
+    "source_url": "https://www.facebook.com/messages/t/735459129506731/"
   },
   {
     "id": "1787165942229x467542018692224100",
@@ -11607,14 +11607,14 @@
       }
     ],
     "parking": "Runs Sept. 2 through Sept. 26 from 10 am to 6 pm",
-    "nearby": "Runs Sept. 2 through Sept. 26 from 10 am to 6 pm",
+    "nearby": "Hours seed: Sept 2-26, 10am-6pm. 2026-09-09 morning: arrival 8:45; community said ~9:30 was sweet spot with waits under an hour (~40m), depending how long people linger inside. Prior 2026-09-08: restocked; line ~1–2hr midday (one ~45m at 3:30pm); limit 5 prints/day; no re-entry for more tokens.",
     "website": "",
     "instagram": "",
     "richard_scarry": false,
     "popup_event": true,
-    "last_updated": "2026-09-08T16:00:00-07:00",
+    "last_updated": "2026-09-09T09:59:00-07:00",
     "last_source": "messenger",
-    "source_url": "https://miniprintdatabase.com/machine_details/1788277943095x119751196118422340"
+    "source_url": "https://www.facebook.com/messages/t/735459129506731/"
   },
   {
     "id": "1788277995647x211292896718332300",
@@ -11663,14 +11663,14 @@
       }
     ],
     "parking": "Runs Sept. 2 through Sept. 26 from 10 am to 6 pm",
-    "nearby": "Runs Sept. 2 through Sept. 26 from 10 am to 6 pm",
+    "nearby": "Hours seed: Sept 2-26, 10am-6pm. 2026-09-09 morning: arrival 8:45; community said ~9:30 was sweet spot with waits under an hour (~40m), depending how long people linger inside. Prior 2026-09-08: restocked; line ~1–2hr midday (one ~45m at 3:30pm); limit 5 prints/day; no re-entry for more tokens.",
     "website": "",
     "instagram": "",
     "richard_scarry": false,
     "popup_event": false,
-    "last_updated": "2026-09-08T16:00:00-07:00",
+    "last_updated": "2026-09-09T09:59:00-07:00",
     "last_source": "messenger",
-    "source_url": "https://miniprintdatabase.com/machine_details/1788277995647x211292896718332300"
+    "source_url": "https://www.facebook.com/messages/t/735459129506731/"
   },
   {
     "id": "1788278068526x473762664392527400",
@@ -11709,14 +11709,14 @@
       }
     ],
     "parking": "Runs Sept. 2 through Sept. 26 from 10 am to 6 pm",
-    "nearby": "Runs Sept. 2 through Sept. 26 from 10 am to 6 pm",
+    "nearby": "Hours seed: Sept 2-26, 10am-6pm. 2026-09-09 morning: arrival 8:45; community said ~9:30 was sweet spot with waits under an hour (~40m), depending how long people linger inside. Prior 2026-09-08: restocked; line ~1–2hr midday (one ~45m at 3:30pm); limit 5 prints/day; no re-entry for more tokens.",
     "website": "",
     "instagram": "",
     "richard_scarry": false,
     "popup_event": true,
-    "last_updated": "2026-09-08T16:00:00-07:00",
+    "last_updated": "2026-09-09T09:59:00-07:00",
     "last_source": "messenger",
-    "source_url": "https://miniprintdatabase.com/machine_details/1788278068526x473762664392527400"
+    "source_url": "https://www.facebook.com/messages/t/735459129506731/"
   },
   {
     "id": "1787165942452x299339112103310000",

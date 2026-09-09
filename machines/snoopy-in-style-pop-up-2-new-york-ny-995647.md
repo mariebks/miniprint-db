@@ -9,7 +9,7 @@ zip: 10014
 latitude: 40.740115
 longitude: -74.0072574
 status: active
-stock_status: in_stock
+stock_status: "in_stock"
 waiting_for_restock: false
 payment_type: tokens
 pull_limit: "5 prints per person per day until end of pop-up"
@@ -18,13 +18,13 @@ available_print_count: 5
 prints_available: ["1788305179746x559231380623903500", "1788366926120x849152215822944300", "1788366943583x333449151980053100", "1788377057547x350640152183611140", "1788377087568x954875668106889300"]
 parking: Runs Sept. 2 through Sept. 26 from 10 am to 6 pm
 parking_cost: 
-nearby: "Same Snoopy In Style pop-up site as #1; see #1 for 2026-09-07 midday line (2.5–3hr waits; 5/day limit through end). Hours: Sept 2-26, 10am-6pm."
+nearby: "Hours seed: Sept 2-26, 10am-6pm. 2026-09-09 morning: arrival 8:45; community said about 9:30 was sweet spot with waits under an hour (about 40m), depending how long people linger inside. Prior 2026-09-08: restocked; line about 1-2hr midday (one about 45m at 3:30pm); limit 5 prints/day; no re-entry for more tokens."
 website: 
 instagram: 
 richard_scarry: false
 popup_event: false
-last_updated: "2026-09-07T10:05:00-07:00"
-last_source: messenger
+last_updated: "2026-09-09 09:59 PT"
+last_source: "messenger"
 source_url: "https://www.facebook.com/messages/t/735459129506731/"
 ---
 
@@ -33,6 +33,11 @@ source_url: "https://www.facebook.com/messages/t/735459129506731/"
 New York, NY — 25 Little W 12th St, New York, NY 10014, USA
 
 # Log
+
+## 2026-09-09 ~09:59 PT
+- stock: in_stock
+- nearby/line: arrival 8:45; about 9:30 sweet spot; waits under an hour (about 40m) depending how long people linger inside
+- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | community member
 
 ## 2026-09-07 ~10:05 PT
 - stock: in stock / operating

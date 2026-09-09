@@ -9,8 +9,8 @@ zip: 11215
 latitude: 40.67568816
 longitude: -73.98111975
 status: active
-stock_status: waiting_for_restock
-waiting_for_restock: true
+stock_status: in_stock
+waiting_for_restock: false
 payment_type: tokens
 pull_limit: 10 prints across both machines
 print_types: ["catalog"]
@@ -23,7 +23,7 @@ website: "https://blueribbongeneralstore.com/"
 instagram: anniesblueribbongeneralstore
 richard_scarry: false
 popup_event: false
-last_updated: 2026-09-06 14:19 PT
+last_updated: "2026-09-09 09:16 PT"
 last_source: messenger
 source_url: "https://miniprintdatabase.com/machine_details/1787165942229x587168640283590000"
 ---
@@ -33,6 +33,11 @@ source_url: "https://miniprintdatabase.com/machine_details/1787165942229x5871686
 Brooklyn, NY — 232 5th Ave, Brooklyn, NY 11215, USA
 
 # Log
+
+## 2026-09-09 ~09:16 PT
+- stock: in_stock (both machines have prints)
+- notes: community member firsthand visit
+- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | community member
 
 ## 2026-09-06 ~14:19 PT
 - stock: catalog empty; restocking same prints

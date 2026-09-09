@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-08T10:43:00-07:00",
+  "updated_at": "2026-09-09T10:45:00-07:00",
   "prints": {
     "common-mystery-pack": {
       "id": null,
@@ -285,6 +285,98 @@
           "url": "https://www.facebook.com/messages/c/1343255853958809/t/735459129506731/"
         }
       ]
+    },
+    "9th-and-9th-whale": {
+      "id": "9th-and-9th-whale",
+      "name": "9th and 9th Whale",
+      "number": null,
+      "type": "unknown",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [],
+      "trade_examples": [],
+      "release_notes": [
+        "Reported from Classics mystery pack; community said definitely not a catalog print (2026-09-09)."
+      ],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-09T08:53:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-09T08:53:00-07:00",
+          "source": "messenger",
+          "url": "https://www.facebook.com/messages/t/735459129506731/"
+        }
+      ]
+    },
+    "whitney-food-prints": {
+      "id": "whitney-food-prints",
+      "name": "Whitney food prints",
+      "number": null,
+      "type": "custom",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [],
+      "trade_examples": [],
+      "release_notes": [
+        "Reported appearing in Classics/classic mystery packs opened in-store and online (2026-09-09)."
+      ],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-09T08:53:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-09T08:53:00-07:00",
+          "source": "messenger",
+          "url": "https://www.facebook.com/messages/t/735459129506731/"
+        }
+      ]
+    },
+    "shiny-gold-hot-dog": {
+      "id": "shiny-gold-hot-dog",
+      "name": "shiny gold hot dog",
+      "number": null,
+      "type": "unknown",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [],
+      "trade_examples": [],
+      "release_notes": [
+        "Reported in classic mystery packs alongside Whitney food prints (2026-09-09)."
+      ],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-09T00:38:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-09T00:38:00-07:00",
+          "source": "messenger",
+          "url": "https://www.facebook.com/messages/t/1640293563644612/"
+        }
+      ]
+    },
+    "dawn-and-sunset": {
+      "id": "dawn-and-sunset",
+      "name": "Dawn & Sunset",
+      "number": null,
+      "type": "unknown",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [],
+      "trade_examples": [],
+      "release_notes": [
+        "Variant discussion: Mystery Pack vs Original/Emporium labels; Dawn & Sunset looked almost totally new; third variant also reported (2026-09-09)."
+      ],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-09T10:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-09T10:00:00-07:00",
+          "source": "messenger",
+          "url": "https://www.facebook.com/messages/t/2531160140177616/"
+        }
+      ]
     }
   },
   "global_tips": [
@@ -345,6 +437,13 @@
           "url": "https://www.facebook.com/messages/t/2531160140177616/"
         }
       ]
+    },
+    {
+      "id": "mystery-pack-vs-emporium-labels",
+      "topic": "variants",
+      "text": "Community compares Mystery Pack vs Original/Emporium label variants on the same image; some variants (e.g. Dawn & Sunset) can look almost like a new print, and additional variants keep appearing.",
+      "confidence": "medium",
+      "signal_count": 1
     }
   ]
 }
