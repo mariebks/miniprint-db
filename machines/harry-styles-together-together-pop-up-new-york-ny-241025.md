@@ -1,5 +1,5 @@
 ---
-d: 1787765241025x409423952306396740
+id: 1787765241025x409423952306396740
 name: Harry Styles Together, Together Pop-Up
 venue: Harry Styles Together, Together Pop-Up
 city: New York
@@ -13,12 +13,11 @@ stock_status: out_of_stock
 waiting_for_restock: true
 payment_type: tokens
 pull_limit: 5 prints
-print_types: ["pop_up_event", "miscellaneous"]
-available_print_count: 7
-prints_available: ["1787766154538x499220574184964500", "1787766072621x809126884011558700", "1787765997888x214261684723002100", "1787176324844x640230333362090200", "1787765882118x451222667118822660", "1787765665217x301177557392504640", "1787765591973x315964740257727700"]
-parking: "Aug 26 - Nov 1\n\nHOURS:\nWed-Sun: 12:00pm - 7:00pm\n\nMon-Tues: Closed"
-parking_cost: 
-nearby: "Aug 26 - Nov 1\n\nHOURS:\nWed-Sun: 12:00pm - 7:00pm\n\nMon-Tues: Closed"
+print_types: ["Pop Up Event", "Miscellaneous"]
+available_print_count: 6
+prints_available: [{"id": null, "name": "Every Wednesday, Friday & Saturday", "printType": null}, {"id": null, "name": "Harry St.", "printType": null}, {"id": null, "name": "Disco Rat", "printType": null}, {"id": null, "name": "Tomato (Harry Styles)", "printType": null}, {"id": null, "name": "MSG, and step on it!", "printType": null}, {"id": null, "name": "Disco Pigeon", "printType": null}]
+parking: "Aug 26 - Nov 1 | HOURS: | Wed-Sun: 12:00pm - 7:00pm | Mon-Tues: Closed"
+nearby: "Aug 26 - Nov 1 | HOURS: | Wed-Sun: 12:00pm - 7:00pm | Mon-Tues: Closed"
 website: "https://www.hstyles.co.uk/popups/"
 instagram: 
 richard_scarry: false
@@ -27,34 +26,13 @@ last_updated: "2026-09-07T03:49:00-07:00"
 last_source: messenger
 source_url: "https://miniprintdatabase.com/machine_details/1787765241025x409423952306396740"
 ---
-
 # Harry Styles Together, Together Pop-Up
 
-New York, NY — 22 E 2nd St
+New York, NY
 
 # Log
 
-## 2026-09-07 morning PT
-- stock: out of stock
-- notes: Prints out until Wednesday restock (someone morning digest)
-- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | someone
-
-## 2026-09-07 morning PT
-- stock: out of stock
-- notes: Prints out until Wednesday restock (someone morning digest)
-- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | someone
-
-## 2026-09-06 seed from miniprintdatabase.com
-- stock: out_of_stock
+## 2026-09-08 site audit
 - status: active
-- payment: tokens
-- prints_available_count: 7
-- parking_or_nearby_notes: Aug 26 - Nov 1
-
-HOURS:
-Wed-Sun: 12:00pm - 7:00pm
-
-Mon-Tues: Closed
-- stock_last_updated: 2026-09-06T17:22:23Z
-- available_prints_last_updated: 2026-08-26T17:43:07Z
+- stock: out_of_stock
 - source: https://miniprintdatabase.com/machine_details/1787765241025x409423952306396740

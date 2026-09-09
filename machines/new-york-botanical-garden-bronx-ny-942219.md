@@ -1,5 +1,5 @@
 ---
-d: 1787165942219x203337836753598940
+id: 1787165942219x203337836753598940
 name: New York Botanical Garden
 venue: New York Botanical Garden
 city: Bronx
@@ -12,45 +12,27 @@ status: active
 stock_status: in_stock
 waiting_for_restock: false
 payment_type: tokens
-pull_limit: 10
-print_types: ["catalog", "custom"]
-available_print_count: 8
-prints_available: ["1787176420133x415647508421625800", "1787176324434x136064643718928580", "1787176324833x367415417613095940", "1787176324837x839832904344236300", "1787176324433x249453266762226460", "1787176419835x260371167375466100", "1787176324704x196207041794386000", "1787176324843x401822810873806200"]
-parking: "Parking is $22 for non members\nThis machine is in the gift shop and you buy tokens from the cashiers"
-parking_cost: 
-nearby: "Parking is $22 for non members\nThis machine is in the gift shop and you buy tokens from the cashiers"
+pull_limit: 10 prints
+print_types: ["Catalog", "Custom"]
+available_print_count: 6
+prints_available: [{"id": "1787176420133x415647508421625800", "name": "Roller Skate", "printType": null}, {"id": "1787176324434x136064643718928580", "name": "Bike Flowers", "printType": "catalog"}, {"id": "1787176324833x367415417613095940", "name": "Crocus", "printType": "catalog"}, {"id": "1787176324837x839832904344236300", "name": "Daffodils", "printType": "catalog"}, {"id": "1787176419835x260371167375466100", "name": "Plumpie", "printType": null}, {"id": "1787176324843x401822810873806200", "name": "Disco Ball", "printType": "catalog"}]
+parking: Parking is $22 for non members | This machine is in the gift shop and you buy tokens from the cashiers
+nearby: Parking is $22 for non members | This machine is in the gift shop and you buy tokens from the cashiers
 website: "https://www.nybg.org/"
-instagram: nybg
+instagram: 
 richard_scarry: false
 popup_event: false
-last_updated: "2026-09-07T03:49:00-07:00"
-last_source: messenger
+last_updated: "2026-09-07T00:00:00.000Z"
+last_source: miniprintdatabase.com audit 2026-09-08
 source_url: "https://miniprintdatabase.com/machine_details/1787165942219x203337836753598940"
 ---
-
 # New York Botanical Garden
 
-Bronx, NY — 2900 Southern Blvd, Bronx, NY 10458, USA
+Bronx, NY
 
 # Log
 
-## 2026-09-07 morning PT
-- pull_limit: 10 (new limit)
-- notes: someone morning digest; applied to main NYBG machine (not Moomin)
-- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | someone
-
-## 2026-09-07 morning PT
-- pull_limit: 10 (new limit)
-- notes: someone morning digest; applied to main NYBG machine (not Moomin)
-- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | someone
-
-## 2026-09-06 seed from miniprintdatabase.com
-- stock: in_stock
+## 2026-09-08 site audit
 - status: active
-- payment: tokens
-- prints_available_count: 8
-- parking_or_nearby_notes: Parking is $22 for non members
-This machine is in the gift shop and you buy tokens from the cashiers
-- stock_last_updated: 2026-08-05T04:00:00Z
-- available_prints_last_updated: 2026-06-17T04:00:00Z
+- stock: in_stock
 - source: https://miniprintdatabase.com/machine_details/1787165942219x203337836753598940
