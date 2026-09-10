@@ -12,20 +12,20 @@ status: active
 stock_status: in_stock
 waiting_for_restock: false
 payment_type: quarters
-pull_limit: 5 prints
+pull_limit: "5 prints"
 print_types: ["catalog", "custom"]
 available_print_count: 4
 prints_available: ["1787176324576x641360674867714300", "1787176324582x349665115730709100", "1787176419829x811786195816750200", "1787176419830x990384356579574900"]
 parking: 
 parking_cost: 
 nearby: 
-website: "http://apresmaine.com"
+"2026-09-10 afternoon (New England Messenger): community said most of Portland has been out of prints for an extended period; Post Supply expected something different (details not given)."
 instagram: apresdrinks
 richard_scarry: false
 popup_event: false
-last_updated: "2026-09-02T19:13:56Z"
-last_source: miniprintdatabase.com seed
-source_url: "https://miniprintdatabase.com/machine_details/1787165941905x504014329917523100"
+last_updated: "2026-09-10 14:30 PT"
+last_source: messenger
+source_url: "https://www.facebook.com/messages/t/1169379008425052/"
 ---
 
 # Après
@@ -33,6 +33,10 @@ source_url: "https://miniprintdatabase.com/machine_details/1787165941905x5040143
 Portland, ME — 148 Anderson St, Portland, ME 04101, USA
 
 # Log
+
+## 2026-09-10 ~14:30 PT
+- city_note: most Portland ME machines reported out of prints for an extended period
+- source: messenger | thread "New England (- Maine) Machine Updates" | https://www.facebook.com/messages/t/1169379008425052/ | community member
 
 ## 2026-09-06 seed from miniprintdatabase.com
 - stock: in_stock

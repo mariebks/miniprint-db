@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T10:30:00-07:00",
+  "updated_at": "2026-09-10T14:30:00-07:00",
   "prints": {
     "common-mystery-pack": {
       "id": null,
@@ -660,6 +660,52 @@
           "url": "https://www.facebook.com/messages/t/25311601401776816/"
         }
       ]
+    },
+    "festive-collective": {
+      "id": "1787176324859x513812771718093600",
+      "name": "Festive Collective",
+      "number": null,
+      "type": "custom",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "Reported as the only Chicago custom so far (2026-09-10 community)."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-10T14:30:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-10T14:30:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1101140292418480/"
+        }
+      ]
+    },
+    "forever-stamp": {
+      "id": "1787176324977x751954245526619000",
+      "name": "Forever Stamp",
+      "number": null,
+      "type": "catalog",
+      "rarity_label": "Uncommon",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "Described as a tough pull (Cali Messenger, 2026-09-10)."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-10T14:30:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-10T14:30:00-07:00",
+          "source": "messenger",
+          "url": "https://www.facebook.com/messages/t/24518755321159390/"
+        }
+      ]
     }
   },
   "global_tips": [
@@ -785,6 +831,36 @@
       "text": "Blue-Footed Booby variants: community notes eye placement differences can make the bird head look turned.",
       "confidence": "medium",
       "signal_count": 1
+    },
+    {
+      "id": "location-for-location-catalog-for-catalog",
+      "topic": "fair_trade",
+      "text": "Happy-mail trading guidance: match location prints with location prints and catalog with catalog; OOC often reserved for starred ISO requests.",
+      "confidence": "medium",
+      "signal_count": 1,
+      "last_signal_at": "2026-09-10T14:30:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-10T14:30:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1101057029093473/"
+        }
+      ]
+    },
+    {
+      "id": "chicago-custom-festive-collective",
+      "topic": "catalog_vs_custom",
+      "text": "Community reports Festive Collective as the only Chicago custom so far; Nashville Inciardi machines are often described as common catalog.",
+      "confidence": "medium",
+      "signal_count": 1,
+      "last_signal_at": "2026-09-10T14:30:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-10T14:30:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1101140292418480/"
+        }
+      ]
     }
   ]
 }

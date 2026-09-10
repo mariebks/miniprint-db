@@ -13,19 +13,19 @@ stock_status: in_stock
 waiting_for_restock: false
 payment_type: quarters
 pull_limit: 
-print_types: ["custom", "catalog"]
+
 available_print_count: 9
 prints_available: ["1787176324845x585712856583038500", "1787176420268x732277400844041300", "1787176419536x848763717026657200", "1787176325003x749547908544209700", "1787176420874x820897987959997200", "1787176324836x843574249873211300", "1787176324716x266854101826563550", "1787176419524x808854813664804600", "1787176420853x275536952252042100"]
 parking: They are open Mon-Fri 10am-2pm⁠. The hours posted on Google are the times they accept donations.
 parking_cost: 
-nearby: They are open Mon-Fri 10am-2pm⁠. The hours posted on Google are the times they accept donations.
+nearby: "They are open Mon-Fri 10am-2pm⁠. The hours posted on Google are the times they accept donations. 2026-09-10 afternoon (Maine Messenger): community asked whether machine has dish soap and Scrub Daddy (or just soap); earlier same-day reports of repeated unsuccessful dish-soap pulls after spends of $25/$20/$50; availability unresolved in-thread. 2026-09-10 afternoon (New England Messenger): community said most of Portland has been out of prints for an extended period; Post Supply expected something different (details not given)."
 website: "https://www.maineneeds.org/"
 instagram: maineneeds
 richard_scarry: false
 popup_event: false
-last_updated: "2026-08-13T04:00:00Z"
-last_source: miniprintdatabase.com seed
-source_url: "https://miniprintdatabase.com/machine_details/1787165941906x198278402519827420"
+last_updated: "2026-09-10 14:30 PT"
+last_source: messenger
+source_url: "https://www.facebook.com/messages/t/1169379008425052/"
 ---
 
 # Maine Needs
@@ -33,6 +33,12 @@ source_url: "https://miniprintdatabase.com/machine_details/1787165941906x1982784
 Portland, ME — 2385 Congress St, Portland, ME 04102, USA
 
 # Log
+
+## 2026-09-10 ~14:30 PT
+- stock_question: dish soap / Scrub Daddy unresolved
+- notes: repeated unsuccessful dish-soap pulls reported ($25/$20/$50)
+- city_note: most Portland ME machines reported out of prints for an extended period
+- source: messenger | https://www.facebook.com/messages/t/2020802802013925/ | https://www.facebook.com/messages/t/1169379008425052/ | community member
 
 ## 2026-09-06 seed from miniprintdatabase.com
 - stock: in_stock
