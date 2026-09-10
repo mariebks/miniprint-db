@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T14:45:00-07:00",
+  "updated_at": "2026-09-09T18:30:00-07:00",
   "prints": {
     "common-mystery-pack": {
       "id": null,
@@ -470,6 +470,121 @@
           "url": "https://www.facebook.com/groups/inciardiprints/permalink/1100254639173712/"
         }
       ]
+    },
+    "3m-command": {
+      "id": "1787176421452x384114030317270800",
+      "name": "3M Command",
+      "number": null,
+      "type": "pop_up_event",
+      "rarity_label": "Rare",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "Vault collector count cited: 14 of 500+ collectors have it; ownership does not mean a duplicate is available to trade."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-09T14:10:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-09T14:10:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1100309389168237/"
+        }
+      ]
+    },
+    "guinness": {
+      "id": "1787176324998x890070823934904400",
+      "name": "Guinness",
+      "number": null,
+      "type": "catalog",
+      "rarity_label": "Uncommon",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "Limited run context (~$20 + spending requirement; four designs, max four); discussed as trade counterparty vs Snoopy set."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-09T18:02:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-09T18:02:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1100434862489023/"
+        }
+      ]
+    },
+    "snoopy-popup-set": {
+      "id": null,
+      "name": "Snoopy (pop-up set)",
+      "number": null,
+      "type": "pop_up_event",
+      "rarity_label": "Uncommon",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "Long lines and limits may keep Snoopy less common; Guinness-set vs Snoopy-set trade floated."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-09T18:02:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-09T18:02:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1100434862489023/"
+        }
+      ]
+    },
+    "harry-st": {
+      "id": "1787766072621x809126884011558700",
+      "name": "Harry St.",
+      "number": null,
+      "type": "pop_up_event",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "Harry pop-up may last longer than Snoopy; still subject to lines/limits."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-09T18:02:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-09T18:02:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1100434862489023/"
+        }
+      ]
+    },
+    "unnamed-limited-edition-main-chat": {
+      "id": null,
+      "name": "unnamed limited edition (Main chat)",
+      "number": null,
+      "type": "unknown",
+      "rarity_label": "Rare",
+      "rarity_basis": "community",
+      "fair_trade_notes": [],
+      "trade_examples": [],
+      "release_notes": [
+        "Limited run at each size; COA with X/50 + signature; community said 5 made / 4 remaining (print title not named in scrape)."
+      ],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-09T14:50:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-09T14:50:00-07:00",
+          "source": "messenger",
+          "url": "https://www.facebook.com/messages/t/1278440747304469/"
+        }
+      ]
     }
   },
   "global_tips": [
@@ -544,6 +659,36 @@
       "text": "OOC prints (e.g. Only NY 35mm per 2026-09-09 claim) are often said to need another OOC or multiple desirable prints for a fair trade.",
       "confidence": "medium",
       "signal_count": 1
+    },
+    {
+      "id": "vault-collector-count-rarity",
+      "topic": "rarity",
+      "text": "Vault app can show how many collectors own a print; community uses that count to gauge rarity and ISO expectations, with the caveat that ownership does not imply a duplicate is available to trade.",
+      "confidence": "medium",
+      "signal_count": 1,
+      "last_signal_at": "2026-09-09T18:30:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-09T14:10:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1100309389168237/"
+        }
+      ]
+    },
+    {
+      "id": "popup-line-limits-vs-limited-paid-sets",
+      "topic": "fair_trade",
+      "text": "Pop-up prints gated by long lines/limits (e.g. Snoopy/Harry) are sometimes weighed against limited paid sets (e.g. Guinness with spend requirement); community compared Guinness-set vs Snoopy-set trades.",
+      "confidence": "medium",
+      "signal_count": 1,
+      "last_signal_at": "2026-09-09T18:30:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-09T18:02:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1100434862489023/"
+        }
+      ]
     }
   ]
 }

@@ -18,14 +18,14 @@ available_print_count: 12
 prints_available: ["1787176420429x289376623396159200", "1787176324835x116582578242359520", "1787176420100x732899768177317400", "1787176420392x812927802660849900", "1787176419524x258492164517176060", "1787176420401x729636759675064300", "1787176324860x736529749922716500", "1787176419548x163583814953037300", "1787176420258x164872908613361120", "1787176324414x699026741788359600", "1787176324415x195198895900057900", "1787176324416x323535540069517700"]
 parking: "Located in gift shop\nDoes not require museum admission"
 parking_cost: 
-nearby: "Located in gift shop | Does not require museum admission. 2026-09-09: payment reports conflict (quarters vs tokens); stock uncertain — no confirmed out-of-stock report."
+nearby: "Located in gift shop | Does not require museum admission. 2026-09-09: earlier conflicting payment reports (quarters vs tokens) superseded by evening tokens confirmation; stock still uncertain. 2026-09-09 evening: tokens confirmed (DMV Messenger); that day stock status unknown."
 website: "https://nmwa.org/"
 instagram: womeninthearts
 richard_scarry: false
 popup_event: false
-last_updated: "2026-09-09 13:40 PT"
-last_source: facebook_group
-source_url: "https://miniprintdatabase.com/machine_details/1787165941594x683313947865560600"
+last_updated: "2026-09-09 18:30 PT"
+last_source: messenger
+source_url: "https://www.facebook.com/messages/t/767267829667957/"
 ---
 
 # National Museum of Women in the Arts
@@ -33,6 +33,11 @@ source_url: "https://miniprintdatabase.com/machine_details/1787165941594x6833139
 Washington, DC — 1250 New York Ave NW, Washington, DC 20005, USA
 
 # Log
+
+## 2026-09-09 ~18:00 PT
+- payment: tokens (confirmed; supersedes earlier quarters-vs-tokens conflict)
+- stock: unknown for today
+- source: messenger | thread "DMV/PA/NC Machine Updates" | https://www.facebook.com/messages/t/767267829667957/ | community member
 
 ## 2026-09-09 ~13:40 PT
 - stock: unknown (no confirmed out-of-stock)
