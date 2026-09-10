@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T22:30:00-07:00",
+  "updated_at": "2026-09-10T06:30:00-07:00",
   "prints": {
     "common-mystery-pack": {
       "id": null,
@@ -614,6 +614,29 @@
           "url": "https://www.facebook.com/groups/inciardiprints/permalink/1100456905820152/"
         }
       ]
+    },
+    "1788106576376x933322130151617900": {
+      "id": "1788106576376x933322130151617900",
+      "name": "Merci Busy World",
+      "number": null,
+      "type": "unknown",
+      "rarity_label": "Rare",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "Community expects Merci Busy World Richard Scarry to become a unicorn (overseas access); be selective trading for it; likely on many DISO lists."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-10T06:10:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-10T06:10:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/permalink/1100872482445261/"
+        }
+      ]
     }
   },
   "global_tips": [
@@ -723,6 +746,13 @@
       "id": "dont-trade-rare-for-commons",
       "topic": "fair_trade",
       "text": "Community advice to new collectors: look up print values and avoid trading rare prints for commons; commons tend to show up over time. Example cited: a NY-pizza unicorn traded for a common.",
+      "confidence": "medium",
+      "signal_count": 1
+    },
+    {
+      "id": "scarry-merci-busy-world-unicorn",
+      "topic": "rarity",
+      "text": "Merci Busy World Richard Scarry is discussed as a likely future unicorn due to overseas access barriers; community advises being picky in trades.",
       "confidence": "medium",
       "signal_count": 1
     }

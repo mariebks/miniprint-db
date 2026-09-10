@@ -11607,14 +11607,15 @@
       }
     ],
     "parking": "Runs Sept. 2 through Sept. 26 from 10 am to 6 pm",
-    "nearby": "Hours seed: Sept 2-26, 10am-6pm. 2026-09-09 morning: arrival 8:45; community said ~9:30 was sweet spot with waits under an hour (~40m), depending how long people linger inside. Prior 2026-09-08: restocked; line ~1–2hr midday (one ~45m at 3:30pm); limit 5 prints/day; no re-entry for more tokens. 2026-09-09 evening: door reportedly locks ~5:15-5:30 PM; access first-come, first-served (NYC/NJ Messenger). 2026-09-09 night: empty when checked, then restocked ~30 min before closing; dented print reported after stuck in machine",
+    "nearby": "Hours seed: Sept 2-26, 10am-6pm. 2026-09-09 morning: arrival 8:45; community said ~9:30 was sweet spot with waits under an hour (~40m), depending how long people linger inside. Prior 2026-09-08: restocked; line ~1–2hr midday (one ~45m at 3:30pm); limit 5 prints/day; no re-entry for more tokens. 2026-09-09 evening: door reportedly locks ~5:15-5:30 PM; access first-come, first-served (NYC/NJ Messenger). 2026-09-09 night: empty when checked, then restocked ~30 min before closing; dented print repor",
     "website": "",
     "instagram": "",
     "richard_scarry": false,
     "popup_event": true,
-    "last_updated": "2026-09-09T22:30:00-07:00",
-    "last_source": "facebook_group",
-    "source_url": "https://www.facebook.com/messages/t/735459129506731/"
+    "last_updated": "2026-09-10T06:35:00-07:00",
+    "last_source": "messenger",
+    "source_url": "https://www.facebook.com/messages/t/735459129506731/",
+    "token_limit_per_day": 10
   },
   {
     "id": "1788277995647x211292896718332300",
@@ -11663,14 +11664,15 @@
       }
     ],
     "parking": "Runs Sept. 2 through Sept. 26 from 10 am to 6 pm",
-    "nearby": "Hours seed: Sept 2-26, 10am-6pm. 2026-09-09 morning: arrival 8:45; community said ~9:30 was sweet spot with waits under an hour (~40m), depending how long people linger inside. Prior 2026-09-08: restocked; line ~1–2hr midday (one ~45m at 3:30pm); limit 5 prints/day; no re-entry for more tokens. 2026-09-09 evening: door reportedly locks ~5:15-5:30 PM; access first-come, first-served (NYC/NJ Messenger). 2026-09-09 night: empty when checked, then restocked ~30 min before closing; dented print reported after stuck in machine",
+    "nearby": "Hours seed: Sept 2-26, 10am-6pm. 2026-09-09 morning: arrival 8:45; community said ~9:30 was sweet spot with waits under an hour (~40m), depending how long people linger inside. Prior 2026-09-08: restocked; line ~1–2hr midday (one ~45m at 3:30pm); limit 5 prints/day; no re-entry for more tokens. 2026-09-09 evening: door reportedly locks ~5:15-5:30 PM; access first-come, first-served (NYC/NJ Messenger). 2026-09-09 night: empty when checked, then restocked ~30 min before closing; dented print repor",
     "website": "",
     "instagram": "",
     "richard_scarry": false,
     "popup_event": false,
-    "last_updated": "2026-09-09T22:30:00-07:00",
-    "last_source": "facebook_group",
-    "source_url": "https://www.facebook.com/messages/t/735459129506731/"
+    "last_updated": "2026-09-10T06:35:00-07:00",
+    "last_source": "messenger",
+    "source_url": "https://www.facebook.com/messages/t/735459129506731/",
+    "token_limit_per_day": 10
   },
   {
     "id": "1788278068526x473762664392527400",
@@ -11709,14 +11711,15 @@
       }
     ],
     "parking": "Runs Sept. 2 through Sept. 26 from 10 am to 6 pm",
-    "nearby": "Hours seed: Sept 2-26, 10am-6pm. 2026-09-09 morning: arrival 8:45; community said ~9:30 was sweet spot with waits under an hour (~40m), depending how long people linger inside. Prior 2026-09-08: restocked; line ~1–2hr midday (one ~45m at 3:30pm); limit 5 prints/day; no re-entry for more tokens. 2026-09-09 evening: door reportedly locks ~5:15-5:30 PM; access first-come, first-served (NYC/NJ Messenger). 2026-09-09 night: empty when checked, then restocked ~30 min before closing; dented print reported after stuck in machine",
+    "nearby": "Hours seed: Sept 2-26, 10am-6pm. 2026-09-09 morning: arrival 8:45; community said ~9:30 was sweet spot with waits under an hour (~40m), depending how long people linger inside. Prior 2026-09-08: restocked; line ~1–2hr midday (one ~45m at 3:30pm); limit 5 prints/day; no re-entry for more tokens. 2026-09-09 evening: door reportedly locks ~5:15-5:30 PM; access first-come, first-served (NYC/NJ Messenger). 2026-09-09 night: empty when checked, then restocked ~30 min before closing; dented print repor",
     "website": "",
     "instagram": "",
     "richard_scarry": false,
     "popup_event": true,
-    "last_updated": "2026-09-09T22:30:00-07:00",
-    "last_source": "facebook_group",
-    "source_url": "https://www.facebook.com/messages/t/735459129506731/"
+    "last_updated": "2026-09-10T06:35:00-07:00",
+    "last_source": "messenger",
+    "source_url": "https://www.facebook.com/messages/t/735459129506731/",
+    "token_limit_per_day": 10
   },
   {
     "id": "1787165942452x299339112103310000",
