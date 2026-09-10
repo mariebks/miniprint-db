@@ -18,13 +18,13 @@ available_print_count: 5
 prints_available: ["1788305198539x814801163282786300", "1788305107720x358434091287279200", "1788363041991x294864357115759000", "1788375672029x519585873973099650", "1788377004519x449104465110266240"]
 parking: Runs Sept. 2 through Sept. 26 from 10 am to 6 pm
 parking_cost: 
-nearby: "Hours seed: Sept 2-26, 10am-6pm. 2026-09-09 morning: arrival 8:45; community said ~9:30 was sweet spot with waits under an hour (~40m), depending how long people linger inside. Prior 2026-09-08: restocked; line ~1\u20132hr midday (one ~45m at 3:30pm); limit 5 prints/day; no re-entry for more tokens. 2026-09-09 evening: door reportedly locks ~5:15-5:30 PM; access first-come, first-served (NYC/NJ Messenger)."
+nearby: "Hours seed: Sept 2-26, 10am-6pm. 2026-09-09 morning: arrival 8:45; community said ~9:30 was sweet spot with waits under an hour (~40m), depending how long people linger inside. Prior 2026-09-08: restocked; line ~1\u20132hr midday (one ~45m at 3:30pm); limit 5 prints/day; no re-entry for more tokens. 2026-09-09 evening: door reportedly locks ~5:15-5:30 PM; access first-come, first-served (NYC/NJ Messenger). 2026-09-09 night: empty when checked, then restocked ~30 min before closing; dented print reported after stuck in machine"
 website: 
 instagram: 
 richard_scarry: false
 popup_event: true
-last_updated: "2026-09-09 18:30 PT"
-last_source: messenger
+last_updated: "2026-09-09 22:30 PT"
+last_source: facebook_group
 source_url: "https://www.facebook.com/messages/t/735459129506731/"
 ---
 
@@ -33,6 +33,12 @@ source_url: "https://www.facebook.com/messages/t/735459129506731/"
 New York, NY — 25 Little W 12th St, New York, NY 10014, USA
 
 # Log
+
+## 2026-09-09 22:30 PT
+- stock: empty when checked, then restocked ~30 minutes before closing (in_stock after restock)
+- note: one print dented at top-left after stuck in machine
+- source: https://www.facebook.com/groups/inciardiprints/permalink/1100525712479938/
+
 
 ## 2026-09-09 ~18:15 PT
 - access: first-come, first-served; door reportedly locks ~5:15-5:30 PM

@@ -10,20 +10,20 @@ latitude: 44.98193502
 longitude: -93.27145167
 status: active
 stock_status: in_stock
-waiting_for_restock: true
+waiting_for_restock: false
 payment_type: quarters
-pull_limit: 10 prints
+H prints (sign-up historically; enforcement unclear)
 print_types: ["catalog", "custom"]
 available_print_count: 12
 prints_available: ["1787176419526x253649858824556160", "1787176420847x985143309569731100", "1787176324718x343557035524505500", "1787176420848x764186022845470700", "1787176324998x890070823934904400", "1787176324718x856066921969724200", "1787176324576x641360674867714300", "1787176324717x345007028714613000", "1787176324581x569016708892289300", "1787176324716x643044039729038000", "1787176325110x275134306162282180", "1787176324422x165290301612684540"]
 parking: street parking; paid lot across street; street ~1 block away
 parking_cost: 
-nearby: They give out quarters if needed
+nearby: "They give out quarters if needed; 2026-09-09: community asked about pull limit; historical sign-up said ten; one report of 19 pulls on Saturday; current limit unconfirmed"
 website: "https://madgehome.com/"
 instagram: madge__home
 richard_scarry: false
 popup_event: false
-last_updated: 2026-09-04 PT
+last_updated: "2026-09-09 22:30 PT"
 last_source: messenger
 source_url: "https://miniprintdatabase.com/machine_details/1787165942194x631403754430606300"
 ---
@@ -33,6 +33,11 @@ source_url: "https://miniprintdatabase.com/machine_details/1787165942194x6314037
 Minneapolis, MN — 307 N 1st Ave, Minneapolis, MN 55413, USA
 
 # Log
+
+## 2026-09-09 22:30 PT
+- pull_limit: historical sign-up said ten; one report of 19 pulls on Saturday; current limit unconfirmed (Main chat Messenger)
+- source: https://www.facebook.com/messages/t/1278440747304469/
+
 
 ## 2026-09-04 PT
 - stock: unknown; someone hoped for a restock by Thursday

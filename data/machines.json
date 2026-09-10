@@ -8157,7 +8157,7 @@
     "stock_status": "in_stock",
     "waiting_for_restock": false,
     "payment_type": "quarters",
-    "pull_limit": "10 prints",
+    "pull_limit": "10 prints (sign-up historically; enforcement unclear)",
     "print_types": [
       "Catalog",
       "Custom"
@@ -8221,13 +8221,13 @@
       }
     ],
     "parking": "They give out quarters if needed",
-    "nearby": "They give out quarters if needed",
+    "nearby": "They give out quarters if needed; 2026-09-09: community asked about pull limit; historical sign-up said ten; one report of 19 pulls on Saturday; current limit unconfirmed",
     "website": "https://madgehome.com/",
     "instagram": "madge__home",
     "richard_scarry": false,
     "popup_event": false,
-    "last_updated": "2026-09-05T00:00:00.000Z",
-    "last_source": "miniprintdatabase.com audit 2026-09-08",
+    "last_updated": "2026-09-09T22:30:00-07:00",
+    "last_source": "messenger",
     "source_url": "https://miniprintdatabase.com/machine_details/1787165942194x631403754430606300"
   },
   {
@@ -11607,13 +11607,13 @@
       }
     ],
     "parking": "Runs Sept. 2 through Sept. 26 from 10 am to 6 pm",
-    "nearby": "Hours seed: Sept 2-26, 10am-6pm. 2026-09-09 morning: arrival 8:45; community said ~9:30 was sweet spot with waits under an hour (~40m), depending how long people linger inside. Prior 2026-09-08: restocked; line ~1–2hr midday (one ~45m at 3:30pm); limit 5 prints/day; no re-entry for more tokens. 2026-09-09 evening: door reportedly locks ~5:15-5:30 PM; access first-come, first-served (NYC/NJ Messenger).",
+    "nearby": "Hours seed: Sept 2-26, 10am-6pm. 2026-09-09 morning: arrival 8:45; community said ~9:30 was sweet spot with waits under an hour (~40m), depending how long people linger inside. Prior 2026-09-08: restocked; line ~1–2hr midday (one ~45m at 3:30pm); limit 5 prints/day; no re-entry for more tokens. 2026-09-09 evening: door reportedly locks ~5:15-5:30 PM; access first-come, first-served (NYC/NJ Messenger). 2026-09-09 night: empty when checked, then restocked ~30 min before closing; dented print reported after stuck in machine",
     "website": "",
     "instagram": "",
     "richard_scarry": false,
     "popup_event": true,
-    "last_updated": "2026-09-09 18:30 PT",
-    "last_source": "messenger",
+    "last_updated": "2026-09-09T22:30:00-07:00",
+    "last_source": "facebook_group",
     "source_url": "https://www.facebook.com/messages/t/735459129506731/"
   },
   {
@@ -11663,13 +11663,13 @@
       }
     ],
     "parking": "Runs Sept. 2 through Sept. 26 from 10 am to 6 pm",
-    "nearby": "Hours seed: Sept 2-26, 10am-6pm. 2026-09-09 morning: arrival 8:45; community said ~9:30 was sweet spot with waits under an hour (~40m), depending how long people linger inside. Prior 2026-09-08: restocked; line ~1–2hr midday (one ~45m at 3:30pm); limit 5 prints/day; no re-entry for more tokens. 2026-09-09 evening: door reportedly locks ~5:15-5:30 PM; access first-come, first-served (NYC/NJ Messenger).",
+    "nearby": "Hours seed: Sept 2-26, 10am-6pm. 2026-09-09 morning: arrival 8:45; community said ~9:30 was sweet spot with waits under an hour (~40m), depending how long people linger inside. Prior 2026-09-08: restocked; line ~1–2hr midday (one ~45m at 3:30pm); limit 5 prints/day; no re-entry for more tokens. 2026-09-09 evening: door reportedly locks ~5:15-5:30 PM; access first-come, first-served (NYC/NJ Messenger). 2026-09-09 night: empty when checked, then restocked ~30 min before closing; dented print reported after stuck in machine",
     "website": "",
     "instagram": "",
     "richard_scarry": false,
     "popup_event": false,
-    "last_updated": "2026-09-09 18:30 PT",
-    "last_source": "messenger",
+    "last_updated": "2026-09-09T22:30:00-07:00",
+    "last_source": "facebook_group",
     "source_url": "https://www.facebook.com/messages/t/735459129506731/"
   },
   {
@@ -11709,13 +11709,13 @@
       }
     ],
     "parking": "Runs Sept. 2 through Sept. 26 from 10 am to 6 pm",
-    "nearby": "Hours seed: Sept 2-26, 10am-6pm. 2026-09-09 morning: arrival 8:45; community said ~9:30 was sweet spot with waits under an hour (~40m), depending how long people linger inside. Prior 2026-09-08: restocked; line ~1–2hr midday (one ~45m at 3:30pm); limit 5 prints/day; no re-entry for more tokens. 2026-09-09 evening: door reportedly locks ~5:15-5:30 PM; access first-come, first-served (NYC/NJ Messenger).",
+    "nearby": "Hours seed: Sept 2-26, 10am-6pm. 2026-09-09 morning: arrival 8:45; community said ~9:30 was sweet spot with waits under an hour (~40m), depending how long people linger inside. Prior 2026-09-08: restocked; line ~1–2hr midday (one ~45m at 3:30pm); limit 5 prints/day; no re-entry for more tokens. 2026-09-09 evening: door reportedly locks ~5:15-5:30 PM; access first-come, first-served (NYC/NJ Messenger). 2026-09-09 night: empty when checked, then restocked ~30 min before closing; dented print reported after stuck in machine",
     "website": "",
     "instagram": "",
     "richard_scarry": false,
     "popup_event": true,
-    "last_updated": "2026-09-09 18:30 PT",
-    "last_source": "messenger",
+    "last_updated": "2026-09-09T22:30:00-07:00",
+    "last_source": "facebook_group",
     "source_url": "https://www.facebook.com/messages/t/735459129506731/"
   },
   {
@@ -11771,13 +11771,13 @@
       }
     ],
     "parking": "The machine is on the 3rd floor, right near the elevator",
-    "nearby": "The machine is on the 3rd floor, right near the elevator",
+    "nearby": "The machine is on the 3rd floor, right near the elevator; 2026-09-09: staff reportedly described machine as a short run",
     "website": "https://www.sothebys.com/en/about/locations/new-york",
     "instagram": "",
     "richard_scarry": false,
     "popup_event": false,
-    "last_updated": "2026-08-14T00:00:00.000Z",
-    "last_source": "miniprintdatabase.com audit 2026-09-08",
+    "last_updated": "2026-09-09T22:30:00-07:00",
+    "last_source": "facebook_group",
     "source_url": "https://miniprintdatabase.com/machine_details/1787165942452x299339112103310000"
   },
   {
@@ -12012,13 +12012,13 @@
       }
     ],
     "parking": "Will exchange up to $3 in quarters. | Usually stocked in morning, but sometimes sells out later in the day and they restock after hours | Does not require museum admission",
-    "nearby": "Will exchange up to $3 in quarters. | Usually stocked in morning, but sometimes sells out later in the day and they restock after hours | Does not require museum admission",
+    "nearby": "Will exchange up to $3 in quarters. | Usually stocked in morning, but sometimes sells out later in the day and they restock after hours | Does not require museum admission; 2026-09-09: community said Whitney can be emailed for machine information",
     "website": "https://whitney.org/",
     "instagram": "",
     "richard_scarry": false,
     "popup_event": false,
-    "last_updated": "2026-09-07T03:49:00-07:00",
-    "last_source": "messenger",
+    "last_updated": "2026-09-09T22:30:00-07:00",
+    "last_source": "facebook_group",
     "source_url": "https://miniprintdatabase.com/machine_details/1787165942454x506042398297317900"
   },
   {

@@ -1,14 +1,15 @@
 {
-  "updated_at": "2026-09-09T18:30:00-07:00",
+  "updated_at": "2026-09-09T22:30:00-07:00",
   "source_threads": [
     "https://www.facebook.com/messages/t/2158831965046995/",
     "https://www.facebook.com/messages/t/2020802802013925/",
     "https://www.facebook.com/messages/t/1278440747304469/",
     "https://www.facebook.com/groups/inciardiprints/posts/1100414745824368/",
     "https://www.facebook.com/groups/inciardiprints/posts/1100359625829880/",
-    "https://www.facebook.com/messages/t/1944253192960497/"
+    "https://www.facebook.com/messages/t/1944253192960497/",
+    "https://www.facebook.com/groups/inciardiprints/permalink/1100456905820152/"
   ],
-  "product_count": 70,
+  "product_count": 71,
   "products": [
     {
       "signal_type": "accessory_recommendation",
@@ -784,6 +785,21 @@
       "thread_url": "https://www.facebook.com/messages/t/1944253192960497/",
       "evidence": "community member, 6:11 PM",
       "confidence": "medium"
+    },
+    {
+      "signal_type": "accessory_recommendation",
+      "product_name": "Amazon binders (inexpensive)",
+      "category": "binder",
+      "url": null,
+      "asin": null,
+      "source": "facebook_group",
+      "thread_url": "https://www.facebook.com/groups/inciardiprints/permalink/1100456905820152/",
+      "evidence": "community member, ~2h",
+      "confidence": "medium",
+      "quote": "get a binder! there are so many on amazon for cheap. helps keep everything super organized",
+      "ts": "2026-09-09T20:30:00-07:00",
+      "mention_count": 1,
+      "last_seen": "2026-09-09T20:30:00-07:00"
     }
   ],
   "asins_found": [

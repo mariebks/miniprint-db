@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T18:30:00-07:00",
+  "updated_at": "2026-09-09T22:30:00-07:00",
   "prints": {
     "common-mystery-pack": {
       "id": null,
@@ -585,6 +585,35 @@
           "url": "https://www.facebook.com/messages/t/1278440747304469/"
         }
       ]
+    },
+    "ny-pizza-unicorn": {
+      "id": null,
+      "name": "NY-pizza unicorn",
+      "number": null,
+      "type": "unknown",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "Cited as a rare print that should not be traded for a common"
+      ],
+      "trade_examples": [
+        {
+          "gave": "NY-pizza unicorn",
+          "wanted": "a common",
+          "community_take": "uneven / cautionary"
+        }
+      ],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-09T19:30:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-09T19:30:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/permalink/1100456905820152/"
+        }
+      ]
     }
   },
   "global_tips": [
@@ -689,6 +718,13 @@
           "url": "https://www.facebook.com/groups/inciardiprints/posts/1100434862489023/"
         }
       ]
+    },
+    {
+      "id": "dont-trade-rare-for-commons",
+      "topic": "fair_trade",
+      "text": "Community advice to new collectors: look up print values and avoid trading rare prints for commons; commons tend to show up over time. Example cited: a NY-pizza unicorn traded for a common.",
+      "confidence": "medium",
+      "signal_count": 1
     }
   ]
 }
