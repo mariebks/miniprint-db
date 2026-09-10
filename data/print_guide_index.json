@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T06:30:00-07:00",
+  "updated_at": "2026-09-10T10:30:00-07:00",
   "prints": {
     "common-mystery-pack": {
       "id": null,
@@ -637,6 +637,29 @@
           "url": "https://www.facebook.com/groups/inciardiprints/permalink/1100872482445261/"
         }
       ]
+    },
+    "1787176324564x321546697149696060": {
+      "id": "1787176324564x321546697149696060",
+      "name": "Blue-Footed Booby",
+      "number": null,
+      "type": "custom",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [],
+      "trade_examples": [],
+      "release_notes": [
+        "Variant tip: eye placement differences can make the head appear turned."
+      ],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-10T07:41:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-10T07:41:00-07:00",
+          "source": "messenger",
+          "url": "https://www.facebook.com/messages/t/25311601401776816/"
+        }
+      ]
     }
   },
   "global_tips": [
@@ -753,6 +776,13 @@
       "id": "scarry-merci-busy-world-unicorn",
       "topic": "rarity",
       "text": "Merci Busy World Richard Scarry is discussed as a likely future unicorn due to overseas access barriers; community advises being picky in trades.",
+      "confidence": "medium",
+      "signal_count": 1
+    },
+    {
+      "id": "blue-footed-booby-eye-placement-variant",
+      "topic": "variant",
+      "text": "Blue-Footed Booby variants: community notes eye placement differences can make the bird head look turned.",
       "confidence": "medium",
       "signal_count": 1
     }

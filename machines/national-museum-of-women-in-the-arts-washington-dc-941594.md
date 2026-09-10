@@ -11,20 +11,20 @@ longitude: -77.02911262
 status: active
 stock_status: unknown
 waiting_for_restock: false
-payment_type: tokens
-pull_limit: 
+payment_type: "tokens"
+pull_limit: "unlimited weekdays; 10 max weekends"
 print_types: ["custom", "catalog"]
 available_print_count: 12
 prints_available: ["1787176420429x289376623396159200", "1787176324835x116582578242359520", "1787176420100x732899768177317400", "1787176420392x812927802660849900", "1787176419524x258492164517176060", "1787176420401x729636759675064300", "1787176324860x736529749922716500", "1787176419548x163583814953037300", "1787176420258x164872908613361120", "1787176324414x699026741788359600", "1787176324415x195198895900057900", "1787176324416x323535540069517700"]
 parking: "Located in gift shop\nDoes not require museum admission"
 parking_cost: 
-nearby: "Located in gift shop | Does not require museum admission. 2026-09-09: earlier conflicting payment reports (quarters vs tokens) superseded by evening tokens confirmation; stock still uncertain. 2026-09-09 evening: tokens confirmed (DMV Messenger); that day stock status unknown."
+nearby: "Located in gift shop | Does not require museum admission. 2026-09-10 morning (DMV Messenger): switched from quarters to tokens; credit card accepted for tokens (taxed); unlimited pulls weekdays, 10 max weekends; machine holds ~600 prints; museum reportedly keeps ~$0.35 per dollar; foot traffic up substantially."
 website: "https://nmwa.org/"
 instagram: womeninthearts
 richard_scarry: false
 popup_event: false
-last_updated: "2026-09-09 18:30 PT"
-last_source: messenger
+last_updated: "2026-09-10 10:30 PT"
+last_source: "messenger"
 source_url: "https://www.facebook.com/messages/t/767267829667957/"
 ---
 
@@ -34,6 +34,12 @@ Washington, DC — 1250 New York Ave NW, Washington, DC 20005, USA
 
 # Log
 
+## 2026-09-10 ~10:30 PT
+- payment: tokens (credit card OK; tax on tokens); switched from quarters
+- pull_limit: unlimited weekdays; 10 max weekends
+- capacity: ~600 prints
+- nearby: gift shop; no museum admission required; museum share ~$0.35/$1; foot traffic up
+- source: messenger | https://www.facebook.com/messages/t/767267829667957/ | community member
 ## 2026-09-09 ~18:00 PT
 - payment: tokens (confirmed; supersedes earlier quarters-vs-tokens conflict)
 - stock: unknown for today

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-09T22:30:00-07:00",
+  "updated_at": "2026-09-10T10:30:00-07:00",
   "source_threads": [
     "https://www.facebook.com/messages/t/2158831965046995/",
     "https://www.facebook.com/messages/t/2020802802013925/",
@@ -9,7 +9,7 @@
     "https://www.facebook.com/messages/t/1944253192960497/",
     "https://www.facebook.com/groups/inciardiprints/permalink/1100456905820152/"
   ],
-  "product_count": 71,
+  "product_count": 72,
   "products": [
     {
       "signal_type": "accessory_recommendation",
@@ -800,6 +800,20 @@
       "ts": "2026-09-09T20:30:00-07:00",
       "mention_count": 1,
       "last_seen": "2026-09-09T20:30:00-07:00"
+    },
+    {
+      "signal_type": "accessory_recommendation",
+      "product_name": "Etsy frame seller (unnamed shop)",
+      "category": "display",
+      "url": null,
+      "asin": null,
+      "merchant": "etsy",
+      "source": "messenger",
+      "thread_url": "https://www.facebook.com/messages/t/2158831965046995/",
+      "evidence": "community member, ~3h39m",
+      "confidence": "low",
+      "quote": "the frame seller on Etsy!",
+      "ts": "2026-09-10T06:50:00-07:00"
     }
   ],
   "asins_found": [

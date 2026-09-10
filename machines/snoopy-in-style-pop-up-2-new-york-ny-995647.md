@@ -18,13 +18,13 @@ available_print_count: 5
 prints_available: ["1788305179746x559231380623903500", "1788366926120x849152215822944300", "1788366943583x333449151980053100", "1788377057547x350640152183611140", "1788377087568x954875668106889300"]
 parking: Runs Sept. 2 through Sept. 26 from 10 am to 6 pm
 parking_cost: 
-nearby: "Hours seed: Sept 2-26, 10am-6pm. 2026-09-09 morning: arrival 8:45; community said ~9:30 was sweet spot with waits under an hour (~40m), depending how long people linger inside. Prior 2026-09-08: restocked; line ~1\u20132hr midday (one ~45m at 3:30pm); limit 5 prints/day; no re-entry for more tokens. 2026-09-09 evening: door reportedly locks ~5:15-5:30 PM; access first-come, first-served (NYC/NJ Messenger). 2026-09-09 night: empty when checked, then restocked ~30 min before closing; dented print reported after stuck in machine"
+nearby: "Hours seed: Sept 2-26, 10am-6pm. 2026-09-09 morning: arrival 8:45; community said ~9:30 was sweet spot with waits under an hour (~40m), depending how long people linger inside. Prior 2026-09-08: restocked; line ~1\u20132hr midday (one ~45m at 3:30pm); limit 5 prints/day; no re-entry for more tokens. 2026-09-09 evening: door reportedly locks ~5:15-5:30 PM; access first-come, first-served (NYC/NJ Messenger). 2026-09-09 night: empty when checked, then restocked ~30 min before closing; dented print repor 2026-09-10 (FB group): visitor noted purchase limits at Snoopy/Harry pop-ups; patience and comfortable shoes recommended."
 website: 
 instagram: 
 richard_scarry: false
 popup_event: false
-last_updated: "2026-09-09 22:30 PT"
-last_source: facebook_group
+last_updated: "2026-09-10 10:30 PT"
+last_source: "facebook_group"
 source_url: "https://www.facebook.com/messages/t/735459129506731/"
 ---
 
@@ -34,6 +34,9 @@ New York, NY — 25 Little W 12th St, New York, NY 10014, USA
 
 # Log
 
+## 2026-09-10 ~10:30 PT
+- notes: visitor noted purchase limits at Snoopy/Harry pop-ups; patience and comfortable shoes recommended
+- source: facebook_group | https://www.facebook.com/groups/inciardiprints/posts/1100992855766557/ | community member
 ## 2026-09-09 22:30 PT
 - stock: empty when checked, then restocked ~30 minutes before closing (in_stock after restock)
 - note: one print dented at top-left after stuck in machine
