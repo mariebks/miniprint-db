@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T22:30:00-07:00",
+  "updated_at": "2026-09-11T06:00:00-07:00",
   "prints": {
     "common-mystery-pack": {
       "id": null,
@@ -660,14 +660,20 @@
       "fair_trade_notes": [],
       "trade_examples": [],
       "release_notes": [
-        "Variant tip: eye placement differences can make the head appear turned."
+        "Variant tip: eye placement differences can make the head appear turned.",
+        "Variant tip: A1 cards compared with bright blue feet vs pale gray-blue feet."
       ],
       "ooc": false,
-      "signal_count": 1,
-      "last_signal_at": "2026-09-10T07:41:00-07:00",
+      "signal_count": 2,
+      "last_signal_at": "2026-09-11T06:00:00-07:00",
       "citations": [
         {
           "ts": "2026-09-10T07:41:00-07:00",
+          "source": "messenger",
+          "url": "https://www.facebook.com/messages/t/25311601401776816/"
+        },
+        {
+          "ts": "2026-09-11T06:00:00-07:00",
           "source": "messenger",
           "url": "https://www.facebook.com/messages/t/25311601401776816/"
         }
@@ -746,22 +752,29 @@
       "id": null,
       "name": "MPCC",
       "number": null,
-      "type": "unknown",
+      "type": "catalog",
       "rarity_label": "Unknown",
       "rarity_basis": "community",
-      "fair_trade_notes": [],
+      "fair_trade_notes": [
+        "Community ISO framed Sept MPCC / catalog prints as 1:1 catalog-for-catalog trades, listing customs separately."
+      ],
       "trade_examples": [],
       "release_notes": [
         "Early-October dibs train (one week) to include current MPCC prints not yet in machines, plus locations/customs/hot-rare commons (2026-09-10 group announcement)."
       ],
       "ooc": false,
-      "signal_count": 1,
-      "last_signal_at": "2026-09-10T17:45:00-07:00",
+      "signal_count": 2,
+      "last_signal_at": "2026-09-11T06:00:00-07:00",
       "citations": [
         {
           "ts": "2026-09-10T17:45:00-07:00",
           "source": "facebook_group",
           "url": "https://www.facebook.com/groups/inciardiprints/posts/1101318179067358/"
+        },
+        {
+          "ts": "2026-09-11T06:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1101571709042005/"
         }
       ]
     },
@@ -970,6 +983,21 @@
           "ts": "2026-09-10T16:30:00-07:00",
           "source": "facebook_group",
           "url": "https://www.facebook.com/groups/inciardiprints/posts/1101256469073529/"
+        }
+      ]
+    },
+    {
+      "id": "mpcc-catalog-1to1-2026-09-11",
+      "topic": "fair_trade",
+      "text": "Community framing (2026-09-11): Sept MPCC / catalog prints often requested 1:1 catalog↔catalog; customs listed separately rather than mixed into the 1:1 catalog ask.",
+      "confidence": "medium",
+      "signal_count": 1,
+      "last_signal_at": "2026-09-11T06:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-11T06:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1101571709042005/"
         }
       ]
     }
