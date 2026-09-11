@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T14:30:00-07:00",
+  "updated_at": "2026-09-10T18:30:00-07:00",
   "prints": {
     "common-mystery-pack": {
       "id": null,
@@ -706,6 +706,52 @@
           "url": "https://www.facebook.com/messages/t/24518755321159390/"
         }
       ]
+    },
+    "blueberry": {
+      "id": "1787176324569x756123730420142100",
+      "name": "Blueberry",
+      "number": null,
+      "type": "catalog",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "Vault reportedly labels Blueberry as unicorn, but a community member reported Emporium sightings; replies questioned Vault/spreadsheet accuracy (contested, 2026-09-10)."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-10T16:30:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-10T16:30:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1101256469073529/"
+        }
+      ]
+    },
+    "mpcc": {
+      "id": null,
+      "name": "MPCC",
+      "number": null,
+      "type": "unknown",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [],
+      "trade_examples": [],
+      "release_notes": [
+        "Early-October dibs train (one week) to include current MPCC prints not yet in machines, plus locations/customs/hot-rare commons (2026-09-10 group announcement)."
+      ],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-10T17:45:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-10T17:45:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1101318179067358/"
+        }
+      ]
     }
   },
   "global_tips": [
@@ -859,6 +905,36 @@
           "ts": "2026-09-10T14:30:00-07:00",
           "source": "facebook_group",
           "url": "https://www.facebook.com/groups/inciardiprints/posts/1101140292418480/"
+        }
+      ]
+    },
+    {
+      "id": "early-october-dibs-train-2026",
+      "topic": "release_note",
+      "text": "Early-October dibs train (about one week): locations, customs, and hot/rare commons, including current MPCC prints not yet in machines. Reported rules: first dibs; 10-minute posting window; replace stalled trains after 3 hours.",
+      "confidence": "medium",
+      "signal_count": 1,
+      "last_signal_at": "2026-09-10T18:30:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-10T17:45:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1101318179067358/"
+        }
+      ]
+    },
+    {
+      "id": "vault-rarity-may-lag-emporium",
+      "topic": "rarity_claim",
+      "text": "Community notes Vault/spreadsheet rarity labels can conflict with Emporium sightings (example: Blueberry labeled unicorn while reported at Emporium). Treat contested labels carefully.",
+      "confidence": "low",
+      "signal_count": 1,
+      "last_signal_at": "2026-09-10T18:30:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-10T16:30:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1101256469073529/"
         }
       ]
     }
