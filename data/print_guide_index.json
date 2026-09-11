@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T10:00:00-07:00",
+  "updated_at": "2026-09-11T14:00:00-07:00",
   "prints": {
     "common-mystery-pack": {
       "id": null,
@@ -541,15 +541,22 @@
         "Long lines and limits may keep Snoopy less common; Guinness-set vs Snoopy-set trade floated."
       ],
       "trade_examples": [],
-      "release_notes": [],
+      "release_notes": [
+        "2026-09-11 exhibit update: Peanuts prints heading toward US availability; NYC one machine / 2-print limit through Sep 26; Puffy Coat observed on floor."
+      ],
       "ooc": false,
-      "signal_count": 1,
-      "last_signal_at": "2026-09-09T18:02:00-07:00",
+      "signal_count": 2,
+      "last_signal_at": "2026-09-11T14:00:00-07:00",
       "citations": [
         {
           "ts": "2026-09-09T18:02:00-07:00",
           "source": "facebook_group",
           "url": "https://www.facebook.com/groups/inciardiprints/posts/1100434862489023/"
+        },
+        {
+          "ts": "2026-09-11T14:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102037148995461"
         }
       ]
     },
@@ -899,6 +906,75 @@
           "url": "https://www.facebook.com/groups/inciardiprints/posts/1101794509019725/"
         }
       ]
+    },
+    "puffy-coat-snoopy": {
+      "id": null,
+      "name": "Puffy Coat Snoopy",
+      "number": null,
+      "type": "pop_up_event",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [],
+      "trade_examples": [],
+      "release_notes": [
+        "2026-09-11 community: only Puffy Coat Snoopy machine observed on NYC exhibit floor; rotation unconfirmed."
+      ],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-11T14:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-11T14:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102037148995461"
+        }
+      ]
+    },
+    "ice-cream-sandi": {
+      "id": "1787176325120x944341902335624600",
+      "name": "Ice Cream Sandi",
+      "number": null,
+      "type": "catalog",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "Subjective community guidance (~2026-09-11): roughly 1:1 for another popular catalog or ice cream print; not currently machine-stocked; recently in mystery packs after once being OOC."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-11T14:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-11T14:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102027008996475"
+        }
+      ]
+    },
+    "custom-philly-eagles": {
+      "id": null,
+      "name": "Custom Philly (Eagles games)",
+      "number": null,
+      "type": "custom",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [],
+      "trade_examples": [],
+      "release_notes": [
+        "Announced for Eagles game attendees starting Sunday 2026-09-13; Pepsi Plaza secs 107 & 113 (community); 2 tokens / 1 surprise print; token access unclear."
+      ],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-11T14:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-11T14:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102051588994017"
+        }
+      ]
     }
   },
   "global_tips": [
@@ -1127,6 +1203,51 @@
           "ts": "2026-09-11T10:00:00-07:00",
           "source": "facebook_group",
           "url": "https://www.facebook.com/groups/inciardiprints/posts/1101819045683938/"
+        }
+      ]
+    },
+    {
+      "id": "snoopy-us-expansion-2026-09-11",
+      "topic": "release_note",
+      "text": "2026-09-11 exhibit update: Peanuts/Snoopy prints being expanded toward US availability; NYC Snoopy in Style limited to one machine with a 2-print cap through Sep 26.",
+      "confidence": "high",
+      "signal_count": 1,
+      "last_signal_at": "2026-09-11T14:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-11T14:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102037148995461"
+        }
+      ]
+    },
+    {
+      "id": "ice-cream-sandi-catalog-trade-2026-09-11",
+      "topic": "fair_trade",
+      "text": "Community (2026-09-11, subjective): Ice Cream Sandi treated as catalog (once OOC, now in mystery packs / not in machines); roughly 1:1 vs another popular catalog or ice cream print.",
+      "confidence": "low",
+      "signal_count": 1,
+      "last_signal_at": "2026-09-11T14:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-11T14:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102027008996475"
+        }
+      ]
+    },
+    {
+      "id": "custom-philly-eagles-2026-09-11",
+      "topic": "release_note",
+      "text": "Custom Philly prints announced for Eagles games starting Sunday 2026-09-13; community places the machine at Pepsi Plaza sections 107 & 113; token access still unclear.",
+      "confidence": "medium",
+      "signal_count": 1,
+      "last_signal_at": "2026-09-11T14:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-11T14:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102051588994017"
         }
       ]
     }

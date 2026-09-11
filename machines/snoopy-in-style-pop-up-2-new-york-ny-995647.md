@@ -18,14 +18,14 @@ available_print_count: 5
 prints_available: ["1788305179746x559231380623903500", "1788366926120x849152215822944300", "1788366943583x333449151980053100", "1788377057547x350640152183611140", "1788377087568x954875668106889300"]
 parking: Runs Sept. 2 through Sept. 26 from 10 am to 6 pm
 parking_cost: 
-nearby: "Hours seed: Sept 2-26, 10am-6pm. 2026-09-09 morning: arrival 8:45; community said ~9:30 was sweet spot with waits under an hour (~40m), depending how long people linger inside. Prior 2026-09-08: restocked; line ~1\u20132hr midday (one ~45m at 3:30pm); limit 5 prints/day; no re-entry for more tokens. 2026-09-09 evening: door reportedly locks ~5:15-5:30 PM; access first-come, first-served (NYC/NJ Messenger). 2026-09-09 night: empty when checked, then restocked ~30 min before closing; dented print repor 2026-09-10 (FB group): visitor noted purchase limits at Snoopy/Harry pop-ups; patience and comfortable shoes recommended. 2026-09-10 afternoon (Messenger NYC/NJ): Snoopy line ~30 min wait (\\"Took 30min just made it in\\"). 2026-09-10 evening (Messenger NYC/NJ): gift-shop patches/stickers replenished gradually; Thursday visit arrival ~4:25-4:50 PM, ~25 min wait / inside by ~5:10 PM; 5 prints/person limit still in effect. 2026-09-11 morning (Messenger NYC/NJ): Sep 11 25th-anniversary events/street closures downtown; everything below Canal reported closed; two pop-ups above Canal expected to draw heavy traffic. 2026-09-11 ~10am PT (FB group): PSA 2-print limit today; one report 1.5h wait before opening; prior day ~4 PM wait under 30m with 5-print limit then later 2-print; weekend expected busier. Messenger NYC/NJ: token-only machine (not quarters); do not use extra tokens/quarters to exceed limit."
+nearby: "Hours seed: Sept 2-26, 10am-6pm. 2026-09-09 morning: arrival 8:45; community said ~9:30 was sweet spot with waits under an hour (~40m), depending how long people linger inside. Prior 2026-09-08: restocked; line ~1\u20132hr midday (one ~45m at 3:30pm); limit 5 prints/day; no re-entry for more tokens. 2026-09-09 evening: door reportedly locks ~5:15-5:30 PM; access first-come, first-served (NYC/NJ Messenger). 2026-09-09 night: empty when checked, then restocked ~30 min before closing; dented print repor 2026-09-10 (FB group): visitor noted purchase limits at Snoopy/Harry pop-ups; patience and comfortable shoes recommended. 2026-09-10 afternoon (Messenger NYC/NJ): Snoopy line ~30 min wait (\"Took 30min just made it in\"). 2026-09-10 evening (Messenger NYC/NJ): gift-shop patches/stickers replenished gradually; Thursday visit arrival ~4:25-4:50 PM, ~25 min wait / inside by ~5:10 PM; 5 prints/person limit still in effect. 2026-09-11 morning (Messenger NYC/NJ): Sep 11 25th-anniversary events/street closures downtown; everything below Canal reported closed; two pop-ups above Canal expected to draw heavy traffic. 2026-09-11 ~10am PT (FB group): PSA 2-print limit today; one report 1.5h wait before opening; prior day ~4 PM wait under 30m with 5-print limit then later 2-print; weekend expected busier. Messenger NYC/NJ: token-only machine (not quarters); do not use extra tokens/quarters to exceed limit. 2026-09-11 ~2pm PT (exhibit update via FB group): Peanuts prints being worked toward broader US availability. NYC Snoopy in Style exhibit going forward hosts one machine with a 2-print limit through September 26. Community: only Puffy Coat Snoopy machine observed on floor; possible one-machine-per-day rotation floated but unconfirmed. Anecdote: 3-day machine hunt with outdoor waits over 2 hours."
 website: 
 instagram: 
 richard_scarry: false
 popup_event: false
-last_updated: "2026-09-11T10:00:00-07:00"
-last_source: facebook_group+messenger
-source_url: "https://www.facebook.com/groups/inciardiprints/posts/1101816392350870/"
+last_updated: "2026-09-11T14:00:00-07:00"
+last_source: facebook_group
+source_url: "https://www.facebook.com/groups/inciardiprints/posts/1102037148995461"
 ---
 
 # Snoopy In Style Pop-Up #2
@@ -33,6 +33,13 @@ source_url: "https://www.facebook.com/groups/inciardiprints/posts/11018163923508
 New York, NY — 25 Little W 12th St, New York, NY 10014, USA
 
 # Log
+
+## 2026-09-11 ~14:00 PT
+- access: one machine with 2-print limit through Sep 26 (exhibit update)
+- prints: Puffy Coat Snoopy observed on floor; rotation unconfirmed
+- release: Peanuts prints working toward US availability (more TBA)
+- queue: anecdotal outdoor waits over 2 hours during multi-day hunt
+- source: facebook_group | https://www.facebook.com/groups/inciardiprints/posts/1102037148995461 | community member / exhibit update
 
 
 ## 2026-09-11 10:00 PT
