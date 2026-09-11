@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T06:00:00-07:00",
+  "updated_at": "2026-09-11T10:00:00-07:00",
   "prints": {
     "common-mystery-pack": {
       "id": null,
@@ -264,7 +264,8 @@
       "rarity_label": "Rare",
       "rarity_basis": "community",
       "fair_trade_notes": [
-        "Community discussion cited $300 sales for two numbered smileys after a restock that showed pink and orange consecutive numbers."
+        "Community discussion cited $300 sales for two numbered smileys after a restock that showed pink and orange consecutive numbers.",
+        "See harry-smiley: fair-trade chatter vs rare OOC / Balloon Dog comparison (2026-09-11)."
       ],
       "trade_examples": [],
       "release_notes": [
@@ -273,8 +274,8 @@
         "Harry x Ana pop-up: 100 numbered hand-signed Smileys; community tracker at miniprint.io/smiley; discussion currently says 100 total across varied colors (not 100 per color) — unverified conflicts remain (FB group 2026-09-10 ~9 PM PT)."
       ],
       "ooc": false,
-      "signal_count": 5,
-      "last_signal_at": "2026-09-10T22:30:00-07:00",
+      "signal_count": 6,
+      "last_signal_at": "2026-09-11T10:00:00-07:00",
       "citations": [
         {
           "ts": "2026-09-06T18:25:00-07:00",
@@ -661,11 +662,12 @@
       "trade_examples": [],
       "release_notes": [
         "Variant tip: eye placement differences can make the head appear turned.",
-        "Variant tip: A1 cards compared with bright blue feet vs pale gray-blue feet."
+        "Variant tip: A1 cards compared with bright blue feet vs pale gray-blue feet.",
+        "Variant tip: one pictured version lacks a white outline on the head (in addition to earlier foot-color differences)."
       ],
       "ooc": false,
-      "signal_count": 2,
-      "last_signal_at": "2026-09-11T06:00:00-07:00",
+      "signal_count": 3,
+      "last_signal_at": "2026-09-11T10:00:00-07:00",
       "citations": [
         {
           "ts": "2026-09-10T07:41:00-07:00",
@@ -674,6 +676,11 @@
         },
         {
           "ts": "2026-09-11T06:00:00-07:00",
+          "source": "messenger",
+          "url": "https://www.facebook.com/messages/t/25311601401776816/"
+        },
+        {
+          "ts": "2026-09-11T10:00:00-07:00",
           "source": "messenger",
           "url": "https://www.facebook.com/messages/t/25311601401776816/"
         }
@@ -798,6 +805,98 @@
           "ts": "2026-09-10T22:30:00-07:00",
           "source": "facebook_group",
           "url": "https://www.facebook.com/groups/inciardiprints/permalink/1101403392392170/"
+        }
+      ]
+    },
+    "harry-smiley": {
+      "id": null,
+      "name": "Harry Smiley",
+      "number": null,
+      "type": "custom",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "Community opinion (unverified): may fairly trade for rare OOC such as old Patagonia or Wash Arch; claimed rarer than Balloon Dog due to limited pop-up run/limits."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-11T10:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-11T10:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1101794509019725/"
+        }
+      ]
+    },
+    "balloon-dog": {
+      "id": null,
+      "name": "Balloon Dog",
+      "number": null,
+      "type": "unknown",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "Compared against Harry Smiley in a 2026-09-11 community rarity claim (Smiley argued rarer; unverified)."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-11T10:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-11T10:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1101794509019725/"
+        }
+      ]
+    },
+    "old-patagonia": {
+      "id": null,
+      "name": "old Patagonia",
+      "number": null,
+      "type": "custom",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "Cited as example rare OOC that could fairly trade for Harry Smiley (community opinion, unverified)."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-11T10:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-11T10:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1101794509019725/"
+        }
+      ]
+    },
+    "wash-arch": {
+      "id": null,
+      "name": "Wash Arch",
+      "number": null,
+      "type": "custom",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "Cited as example rare OOC that could fairly trade for Harry Smiley (community opinion, unverified)."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-11T10:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-11T10:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1101794509019725/"
         }
       ]
     }
@@ -998,6 +1097,36 @@
           "ts": "2026-09-11T06:00:00-07:00",
           "source": "facebook_group",
           "url": "https://www.facebook.com/groups/inciardiprints/posts/1101571709042005/"
+        }
+      ]
+    },
+    {
+      "id": "harry-smiley-ooc-trade-2026-09-11",
+      "topic": "fair_trade",
+      "text": "Community opinion (2026-09-11, unverified): Harry Smiley may command a rare OOC in trade (examples cited: old Patagonia, Wash Arch) and some collectors argue it is rarer than Balloon Dog due to limited pop-up run and print limits.",
+      "confidence": "low",
+      "signal_count": 1,
+      "last_signal_at": "2026-09-11T10:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-11T10:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1101794509019725/"
+        }
+      ]
+    },
+    {
+      "id": "emporium-list-pinned-spreadsheet-2026-09-11",
+      "topic": "catalog_reference",
+      "text": "Community pointer (2026-09-11): Emporium print list is referenced via the spreadsheet in the Facebook group’s pinned section.",
+      "confidence": "medium",
+      "signal_count": 1,
+      "last_signal_at": "2026-09-11T10:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-11T10:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1101819045683938/"
         }
       ]
     }

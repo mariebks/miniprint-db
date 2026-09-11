@@ -1,15 +1,16 @@
 {
-  "updated_at": "2026-09-10T10:30:00-07:00",
+  "updated_at": "2026-09-11T10:00:00-07:00",
   "source_threads": [
-    "https://www.facebook.com/messages/t/2158831965046995/",
-    "https://www.facebook.com/messages/t/2020802802013925/",
-    "https://www.facebook.com/messages/t/1278440747304469/",
-    "https://www.facebook.com/groups/inciardiprints/posts/1100414745824368/",
+    "https://www.facebook.com/groups/inciardiprints/permalink/1100456905820152/",
     "https://www.facebook.com/groups/inciardiprints/posts/1100359625829880/",
+    "https://www.facebook.com/groups/inciardiprints/posts/1100414745824368/",
+    "https://www.facebook.com/groups/inciardiprints/posts/1101893589009817/",
+    "https://www.facebook.com/messages/t/1278440747304469/",
     "https://www.facebook.com/messages/t/1944253192960497/",
-    "https://www.facebook.com/groups/inciardiprints/permalink/1100456905820152/"
+    "https://www.facebook.com/messages/t/2020802802013925/",
+    "https://www.facebook.com/messages/t/2158831965046995/"
   ],
-  "product_count": 72,
+  "product_count": 78,
   "products": [
     {
       "signal_type": "accessory_recommendation",
@@ -361,7 +362,16 @@
       "source": "messenger",
       "thread_url": "https://www.facebook.com/messages/t/2158831965046995/",
       "evidence": "community member, 21w",
-      "confidence": "high"
+      "confidence": "high",
+      "last_seen": "2026-09-11T10:00:00-07:00",
+      "mention_count": 2,
+      "citations": [
+        {
+          "ts": "2026-09-11T10:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1101893589009817/"
+        }
+      ]
     },
     {
       "signal_type": "accessory_recommendation",
@@ -814,6 +824,132 @@
       "confidence": "low",
       "quote": "the frame seller on Etsy!",
       "ts": "2026-09-10T06:50:00-07:00"
+    },
+    {
+      "signal_type": "accessory_recommendation",
+      "product_name": "Penny sleeves + cardboard insert + washi tape + plain 4x6 greeting card + Forever stamp (mail kit)",
+      "category": "shipping",
+      "url": null,
+      "asin": null,
+      "merchant": "other",
+      "source": "facebook_group",
+      "thread_url": "https://www.facebook.com/groups/inciardiprints/posts/1101893589009817/",
+      "evidence": "community member, 1h",
+      "confidence": "high",
+      "mention_count": 1,
+      "last_seen": "2026-09-11T10:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-11T10:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1101893589009817/"
+        }
+      ]
+    },
+    {
+      "signal_type": "accessory_recommendation",
+      "product_name": "Penny sleeves",
+      "category": "sleeve",
+      "url": null,
+      "asin": null,
+      "merchant": "other",
+      "source": "facebook_group",
+      "thread_url": "https://www.facebook.com/groups/inciardiprints/posts/1101893589009817/",
+      "evidence": "community member, 1h",
+      "confidence": "high",
+      "mention_count": 1,
+      "last_seen": "2026-09-11T10:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-11T10:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1101893589009817/"
+        }
+      ]
+    },
+    {
+      "signal_type": "accessory_recommendation",
+      "product_name": "Plain 4x6 greeting card mailer",
+      "category": "shipping",
+      "url": null,
+      "asin": null,
+      "merchant": "other",
+      "source": "facebook_group",
+      "thread_url": "https://www.facebook.com/groups/inciardiprints/posts/1101893589009817/",
+      "evidence": "community member, 1h",
+      "confidence": "high",
+      "mention_count": 1,
+      "last_seen": "2026-09-11T10:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-11T10:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1101893589009817/"
+        }
+      ]
+    },
+    {
+      "signal_type": "accessory_recommendation",
+      "product_name": "Cardboard insert (mailer stiffener)",
+      "category": "shipping",
+      "url": null,
+      "asin": null,
+      "merchant": "other",
+      "source": "facebook_group",
+      "thread_url": "https://www.facebook.com/groups/inciardiprints/posts/1101893589009817/",
+      "evidence": "community member, 1h",
+      "confidence": "high",
+      "mention_count": 1,
+      "last_seen": "2026-09-11T10:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-11T10:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1101893589009817/"
+        }
+      ]
+    },
+    {
+      "signal_type": "accessory_recommendation",
+      "product_name": "USPS Forever stamp",
+      "category": "shipping",
+      "url": null,
+      "asin": null,
+      "merchant": "other",
+      "source": "facebook_group",
+      "thread_url": "https://www.facebook.com/groups/inciardiprints/posts/1101893589009817/",
+      "evidence": "community member, 1h",
+      "confidence": "high",
+      "mention_count": 1,
+      "last_seen": "2026-09-11T10:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-11T10:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1101893589009817/"
+        }
+      ]
+    },
+    {
+      "signal_type": "accessory_recommendation",
+      "product_name": "Etsy frames for individual mini prints",
+      "category": "display",
+      "url": null,
+      "asin": null,
+      "merchant": "etsy",
+      "source": "messenger",
+      "thread_url": "https://www.facebook.com/messages/t/2158831965046995/",
+      "evidence": "community member, ~3h",
+      "confidence": "low",
+      "mention_count": 1,
+      "last_seen": "2026-09-11T10:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-11T10:00:00-07:00",
+          "source": "messenger",
+          "url": "https://www.facebook.com/messages/t/2158831965046995/"
+        }
+      ]
     }
   ],
   "asins_found": [

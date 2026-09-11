@@ -18,14 +18,17 @@ available_print_count: 6
 prints_available: ["1787176325238x430348329523237570", "1787176324851x998969584421106600", "1787176324720x111256772559935150", "1787176324413x523535590732488770", "1787176324852x533953601331576200", "1787176325138x532466538015874400"]
 parking: "Liberty game ticket required to enter Barclays Center\nPrint machines are by sections 1 and 217\nEither bring your own quarters or use the electronic machines\nMachines close at the end of the third quarter"
 parking_cost: 
-nearby: "Liberty game ticket required to enter Barclays Center\nPrint machines are by sections 1 and 217\nEither bring your own quarters or use the electronic machines\nMachines close at the end of the third quarter"
+nearby: "Liberty game ticket required to enter Barclays Center 2026-09-11 ~10am PT (FB group): next availability stated as NY Liberty games 9/21 and 9/23; usually near sections 1 and 217; access reportedly tied to Liberty games.
+Print machines are by sections 1 and 217
+Either bring your own quarters or use the electronic machines
+Machines close at the end of the third quarter 2026-09-11 ~10am PT (FB group): next availability stated as NY Liberty games 9/21 and 9/23; usually near sections 1 and 217; access reportedly tied to Liberty games."
 website: "https://liberty.wnba.com/schedule/season"
 instagram: nyliberty
 richard_scarry: false
 popup_event: false
-last_updated: "2026-08-14T04:00:00Z"
-last_source: miniprintdatabase.com seed
-source_url: "https://miniprintdatabase.com/machine_details/1787165942231x451884762071019140"
+last_updated: "2026-09-11T10:00:00-07:00"
+last_source: facebook_group
+source_url: "https://www.facebook.com/groups/inciardiprints/posts/1101930722339437/"
 ---
 
 # NY Liberty (Barclay's Center)
@@ -33,6 +36,13 @@ source_url: "https://miniprintdatabase.com/machine_details/1787165942231x4518847
 Brooklyn, NY — 620 Atlantic Ave, Brooklyn, NY 11217, USA
 
 # Log
+
+
+## 2026-09-11 10:00 PT
+- next dates: 9/21 and 9/23 NY Liberty games
+- placement: usually near sections 1 and 217
+- access: reportedly tied to NY Liberty games
+- source: facebook_group | https://www.facebook.com/groups/inciardiprints/posts/1101930722339437/ | community member
 
 ## 2026-09-06 seed from miniprintdatabase.com
 - stock: in_stock

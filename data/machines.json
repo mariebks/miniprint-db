@@ -2279,14 +2279,14 @@
       }
     ],
     "parking": "",
-    "nearby": "2026-09-09: community says out until sometime next month; missed a new ‘old’ peaches pull.",
+    "nearby": "2026-09-09: community says out until sometime next month; missed a new ‘old’ peaches pull. 2026-09-11 ~10am PT (Cali Messenger): prior-day visit still out; shop cited supply-chain issues and uncertain next-month return.",
     "website": "https://www.ladyandlarder.com/",
     "instagram": "",
     "richard_scarry": false,
     "popup_event": false,
-    "last_updated": "2026-09-09T14:30:00-07:00",
+    "last_updated": "2026-09-11T10:00:00-07:00",
     "last_source": "messenger",
-    "source_url": "https://miniprintdatabase.com/machine_details/1787165941582x611752516151746700"
+    "source_url": "https://www.facebook.com/messages/t/24518755321159390/"
   },
   {
     "id": "1787165941589x691192970967175600",
@@ -6353,14 +6353,14 @@
       }
     ],
     "parking": "1 print per $15 spent on merchandise in retail store",
-    "nearby": "1 print per $15 spent on merchandise in retail store",
+    "nearby": "1 print per $15 spent on merchandise in retail store 2026-09-11 ~10am PT (FB group + DMV Messenger): still out of stock; staff gave no confirmed return — St. Patrick’s Day mentioned as unconfirmed possibility; Messenger adds prints out until at least November (Nov return unconfirmed) and winter holidays may be too busy.",
     "website": "https://www.guinnessbrewerybaltimore.com/",
     "instagram": "guinnessbrewerybalt",
     "richard_scarry": false,
     "popup_event": false,
-    "last_updated": "2026-09-06T16:55:00-07:00",
-    "last_source": "messenger",
-    "source_url": "https://miniprintdatabase.com/machine_details/1787165941902x961482154551263700"
+    "last_updated": "2026-09-11T10:00:00-07:00",
+    "last_source": "facebook_group+messenger",
+    "source_url": "https://www.facebook.com/groups/inciardiprints/posts/1101924212340088/"
   },
   {
     "id": "1787165942702x986425540151004400",
@@ -6979,14 +6979,14 @@
       }
     ],
     "parking": "They are open Mon-Fri 10am-2pm⁠. The hours posted on Google are the times they accept donations.",
-    "nearby": "They are open Mon-Fri 10am-2pm⁠. The hours posted on Google are the times they accept donations. 2026-09-10 afternoon (Maine Messenger): community asked whether machine has dish soap and Scrub Daddy (or just soap); earlier same-day reports of repeated unsuccessful dish-soap pulls after spends of $25/$20/$50; availability unresolved in-thread. 2026-09-10 afternoon (New England Messenger): community said most of Portland has been out of prints for an extended period; Post Supply expected something different (details not given).",
+    "nearby": "They are open Mon-Fri 10am-2pm⁠. The hours posted on Google are the times they accept donations. 2026-09-10 afternoon (Maine Messenger): community asked whether machine has dish soap and Scrub Daddy (or just soap); earlier same-day reports of repeated unsuccessful dish-soap pulls after spends of $25/$20/$50; availability unresolved in-thread. 2026-09-10 afternoon (New England Messenger): community said most of Portland has been out of prints for an extended period; Post Supply expected something different (details not given). 2026-09-11 ~6:30 AM PT (Maine Messenger): dish soap only reported (no Scrub Daddy mentioned); repeated attempts still unsuccessful (one report ~$50 spent).",
     "website": "https://www.maineneeds.org/",
     "instagram": "maineneeds",
     "richard_scarry": false,
     "popup_event": false,
-    "last_updated": "2026-09-10 14:30 PT",
+    "last_updated": "2026-09-11T10:00:00-07:00",
     "last_source": "messenger",
-    "source_url": "https://www.facebook.com/messages/t/1169379008425052/"
+    "source_url": "https://www.facebook.com/messages/t/2020802802013925/"
   },
   {
     "id": "1787165942704x558821770902786050",
@@ -10809,15 +10809,15 @@
         "printType": "custom"
       }
     ],
-    "parking": "Liberty game ticket required to enter Barclays Center | Print machines are by sections 1 and 217 | Either bring your own quarters or use the electronic machines | Machines close at the end of the third quarter",
-    "nearby": "Liberty game ticket required to enter Barclays Center | Print machines are by sections 1 and 217 | Either bring your own quarters or use the electronic machines | Machines close at the end of the third quarter",
+    "parking": "Liberty game ticket required to enter Barclays Center | Print machines are by sections 1 and 217 | Either bring your own quarters or use the electronic machines | Machines close at the end of the third quarter | Next reported game dates: 9/21 and 9/23 (2026)",
+    "nearby": "Liberty game ticket required to enter Barclays Center | Print machines are by sections 1 and 217 | Either bring your own quarters or use the electronic machines | Machines close at the end of the third quarter 2026-09-11 ~10am PT (FB group): next availability stated as NY Liberty games 9/21 and 9/23; usually near sections 1 and 217; access reportedly tied to Liberty games.",
     "website": "https://liberty.wnba.com/schedule/season",
     "instagram": "nyliberty",
     "richard_scarry": false,
     "popup_event": false,
-    "last_updated": "2026-08-13T00:00:00.000Z",
-    "last_source": "miniprintdatabase.com audit 2026-09-08",
-    "source_url": "https://miniprintdatabase.com/machine_details/1787165942231x451884762071019140"
+    "last_updated": "2026-09-11T10:00:00-07:00",
+    "last_source": "facebook_group",
+    "source_url": "https://www.facebook.com/groups/inciardiprints/posts/1101930722339437/"
   },
   {
     "id": "1787165942877x475089824547706000",
@@ -11189,8 +11189,8 @@
     "latitude": null,
     "longitude": null,
     "status": "active",
-    "stock_status": "out_of_stock",
-    "waiting_for_restock": true,
+    "stock_status": "in_stock",
+    "waiting_for_restock": false,
     "payment_type": "tokens",
     "pull_limit": 5,
     "print_types": [
@@ -11231,14 +11231,14 @@
       }
     ],
     "parking": "Aug 26 - Nov 1 | HOURS: | Wed-Sun: 12:00pm - 7:00pm | Mon-Tues: Closed",
-    "nearby": "Aug 26 - Nov 1 | HOURS: Wed-Sun 12:00pm-7:00pm; Mon-Tues Closed. 2026-09-09 afternoon: out of tokens / capped for the day; long line outside and inside; staff enforcing strict 5-print daily limit (no re-entry); community says token sales stop ~6:45 PM; access reports inconsistent since at least Saturday. 2026-09-10 ~8:30 AM PT (FB group): sold out again by EOD yesterday; earlier arrival advised; lines longer. 2026-09-10 morning (Messenger NYC/NJ): regular line not yet to the corner ~8:48 AM PT; Sunday GA line reportedly used QR scan → enter info → barcode (prior night reportedly no QR — process may change). 2026-09-10 (FB group visit note): purchase limits prevented getting all prints; patience / comfortable shoes recommended. 2026-09-10 afternoon (FB group): lines can take 3-4+ hours; pop-up closes 7:00 PM; prints may be capped before close; late-afternoon arrival (e.g. 4 PM show day) is risky; one visitor reported a four-hour wait. 2026-09-11 morning (Messenger NYC/NJ): Sep 11 25th-anniversary events/street closures downtown; everything below Canal reported closed; two pop-ups above Canal expected to draw heavy traffic.",
+    "nearby": "Aug 26 - Nov 1 | HOURS: Wed-Sun 12:00pm-7:00pm; Mon-Tues Closed. 2026-09-09 afternoon: out of tokens / capped for the day; long line outside and inside; staff enforcing strict 5-print daily limit (no re-entry); community says token sales stop ~6:45 PM; access reports inconsistent since at least Saturday. 2026-09-10 ~8:30 AM PT (FB group): sold out again by EOD yesterday; earlier arrival advised; lines longer. 2026-09-10 morning (Messenger NYC/NJ): regular line not yet to the corner ~8:48 AM PT; Sunday GA line reportedly used QR scan → enter info → barcode (prior night reportedly no QR — process may change). 2026-09-10 (FB group visit note): purchase limits prevented getting all prints; patience / comfortable shoes recommended. 2026-09-10 afternoon (FB group): lines can take 3-4+ hours; pop-up closes 7:00 PM; prints may be capped before close; late-afternoon arrival (e.g. 4 PM show day) is risky; one visitor reported a four-hour wait. 2026-09-11 morning (Messenger NYC/NJ): Sep 11 25th-anniversary events/street closures downtown; everything below Canal reported closed; two pop-ups above Canal expected to draw heavy traffic. 2026-09-11 ~10am PT (FB group): ~2 hour wait around 4 PM then ~5 minutes at the machine; line in shade; demand expected to stay high (limited dates / traveling fans).",
     "website": "https://www.hstyles.co.uk/popups/",
     "instagram": "",
     "richard_scarry": false,
     "popup_event": true,
-    "last_updated": "2026-09-11T06:00:00-07:00",
-    "last_source": "messenger",
-    "source_url": "https://www.facebook.com/messages/t/735459129506731/"
+    "last_updated": "2026-09-11T10:00:00-07:00",
+    "last_source": "facebook_group",
+    "source_url": "https://www.facebook.com/groups/inciardiprints/posts/1101875365678306/"
   },
   {
     "id": "1787165942451x152208665391986750",
@@ -11584,7 +11584,7 @@
     "stock_status": "in_stock",
     "waiting_for_restock": false,
     "payment_type": "tokens",
-    "pull_limit": 5,
+    "pull_limit": 2,
     "print_types": [
       "Pop Up Event"
     ],
@@ -11607,14 +11607,14 @@
       }
     ],
     "parking": "Runs Sept. 2 through Sept. 26 from 10 am to 6 pm",
-    "nearby": "Hours seed: Sept 2-26, 10am-6pm. 2026-09-09 morning: arrival 8:45; community said ~9:30 was sweet spot with waits under an hour (~40m), depending how long people linger inside. Prior 2026-09-08: restocked; line ~1–2hr midday (one ~45m at 3:30pm); limit 5 prints/day; no re-entry for more tokens. 2026-09-09 evening: door reportedly locks ~5:15-5:30 PM; access first-come, first-served (NYC/NJ Messenger). 2026-09-09 night: empty when checked, then restocked ~30 min before closing; dented print repor 2026-09-10 (FB group): visitor noted purchase limits at Snoopy/Harry pop-ups; patience and comfortable shoes recommended. 2026-09-10 afternoon (Messenger NYC/NJ): Snoopy line ~30 min wait (\"Took 30min just made it in\"). 2026-09-10 evening (Messenger NYC/NJ): gift-shop patches/stickers replenished gradually; Thursday visit arrival ~4:25-4:50 PM, ~25 min wait / inside by ~5:10 PM; 5 prints/person limit still in effect. 2026-09-11 morning (Messenger NYC/NJ): Sep 11 25th-anniversary events/street closures downtown; everything below Canal reported closed; two pop-ups above Canal expected to draw heavy traffic.",
+    "nearby": "Hours seed: Sept 2-26, 10am-6pm. 2026-09-09 morning: arrival 8:45; community said ~9:30 was sweet spot with waits under an hour (~40m), depending how long people linger inside. Prior 2026-09-08: restocked; line ~1–2hr midday (one ~45m at 3:30pm); limit 5 prints/day; no re-entry for more tokens. 2026-09-09 evening: door reportedly locks ~5:15-5:30 PM; access first-come, first-served (NYC/NJ Messenger). 2026-09-09 night: empty when checked, then restocked ~30 min before closing; dented print repor 2026-09-10 (FB group): visitor noted purchase limits at Snoopy/Harry pop-ups; patience and comfortable shoes recommended. 2026-09-10 afternoon (Messenger NYC/NJ): Snoopy line ~30 min wait (\"Took 30min just made it in\"). 2026-09-10 evening (Messenger NYC/NJ): gift-shop patches/stickers replenished gradually; Thursday visit arrival ~4:25-4:50 PM, ~25 min wait / inside by ~5:10 PM; 5 prints/person limit still in effect. 2026-09-11 morning (Messenger NYC/NJ): Sep 11 25th-anniversary events/street closures downtown; everything below Canal reported closed; two pop-ups above Canal expected to draw heavy traffic. 2026-09-11 ~10am PT (FB group): PSA 2-print limit today; one report 1.5h wait before opening; prior day ~4 PM wait under 30m with 5-print limit then later 2-print; weekend expected busier. Messenger NYC/NJ: token-only machine (not quarters); do not use extra tokens/quarters to exceed limit.",
     "website": "",
     "instagram": "",
     "richard_scarry": false,
     "popup_event": true,
-    "last_updated": "2026-09-11T06:00:00-07:00",
-    "last_source": "messenger",
-    "source_url": "https://www.facebook.com/messages/t/735459129506731/",
+    "last_updated": "2026-09-11T10:00:00-07:00",
+    "last_source": "facebook_group+messenger",
+    "source_url": "https://www.facebook.com/groups/inciardiprints/posts/1101816392350870/",
     "token_limit_per_day": 10
   },
   {
@@ -11631,7 +11631,7 @@
     "stock_status": "in_stock",
     "waiting_for_restock": false,
     "payment_type": "tokens",
-    "pull_limit": 5,
+    "pull_limit": 2,
     "print_types": [
       "Pop Up Event"
     ],
@@ -11664,14 +11664,14 @@
       }
     ],
     "parking": "Runs Sept. 2 through Sept. 26 from 10 am to 6 pm",
-    "nearby": "Hours seed: Sept 2-26, 10am-6pm. 2026-09-09 morning: arrival 8:45; community said ~9:30 was sweet spot with waits under an hour (~40m), depending how long people linger inside. Prior 2026-09-08: restocked; line ~1–2hr midday (one ~45m at 3:30pm); limit 5 prints/day; no re-entry for more tokens. 2026-09-09 evening: door reportedly locks ~5:15-5:30 PM; access first-come, first-served (NYC/NJ Messenger). 2026-09-09 night: empty when checked, then restocked ~30 min before closing; dented print repor 2026-09-10 (FB group): visitor noted purchase limits at Snoopy/Harry pop-ups; patience and comfortable shoes recommended. 2026-09-10 afternoon (Messenger NYC/NJ): Snoopy line ~30 min wait (\"Took 30min just made it in\"). 2026-09-10 evening (Messenger NYC/NJ): gift-shop patches/stickers replenished gradually; Thursday visit arrival ~4:25-4:50 PM, ~25 min wait / inside by ~5:10 PM; 5 prints/person limit still in effect. 2026-09-11 morning (Messenger NYC/NJ): Sep 11 25th-anniversary events/street closures downtown; everything below Canal reported closed; two pop-ups above Canal expected to draw heavy traffic.",
+    "nearby": "Hours seed: Sept 2-26, 10am-6pm. 2026-09-09 morning: arrival 8:45; community said ~9:30 was sweet spot with waits under an hour (~40m), depending how long people linger inside. Prior 2026-09-08: restocked; line ~1–2hr midday (one ~45m at 3:30pm); limit 5 prints/day; no re-entry for more tokens. 2026-09-09 evening: door reportedly locks ~5:15-5:30 PM; access first-come, first-served (NYC/NJ Messenger). 2026-09-09 night: empty when checked, then restocked ~30 min before closing; dented print repor 2026-09-10 (FB group): visitor noted purchase limits at Snoopy/Harry pop-ups; patience and comfortable shoes recommended. 2026-09-10 afternoon (Messenger NYC/NJ): Snoopy line ~30 min wait (\"Took 30min just made it in\"). 2026-09-10 evening (Messenger NYC/NJ): gift-shop patches/stickers replenished gradually; Thursday visit arrival ~4:25-4:50 PM, ~25 min wait / inside by ~5:10 PM; 5 prints/person limit still in effect. 2026-09-11 morning (Messenger NYC/NJ): Sep 11 25th-anniversary events/street closures downtown; everything below Canal reported closed; two pop-ups above Canal expected to draw heavy traffic. 2026-09-11 ~10am PT (FB group): PSA 2-print limit today; one report 1.5h wait before opening; prior day ~4 PM wait under 30m with 5-print limit then later 2-print; weekend expected busier. Messenger NYC/NJ: token-only machine (not quarters); do not use extra tokens/quarters to exceed limit.",
     "website": "",
     "instagram": "",
     "richard_scarry": false,
     "popup_event": false,
-    "last_updated": "2026-09-11T06:00:00-07:00",
-    "last_source": "messenger",
-    "source_url": "https://www.facebook.com/messages/t/735459129506731/",
+    "last_updated": "2026-09-11T10:00:00-07:00",
+    "last_source": "facebook_group+messenger",
+    "source_url": "https://www.facebook.com/groups/inciardiprints/posts/1101816392350870/",
     "token_limit_per_day": 10
   },
   {
@@ -11688,7 +11688,7 @@
     "stock_status": "in_stock",
     "waiting_for_restock": false,
     "payment_type": "tokens",
-    "pull_limit": 5,
+    "pull_limit": 2,
     "print_types": [
       "Pop Up Event"
     ],
@@ -11711,14 +11711,14 @@
       }
     ],
     "parking": "Runs Sept. 2 through Sept. 26 from 10 am to 6 pm",
-    "nearby": "Hours seed: Sept 2-26, 10am-6pm. 2026-09-09 morning: arrival 8:45; community said ~9:30 was sweet spot with waits under an hour (~40m), depending how long people linger inside. Prior 2026-09-08: restocked; line ~1–2hr midday (one ~45m at 3:30pm); limit 5 prints/day; no re-entry for more tokens. 2026-09-09 evening: door reportedly locks ~5:15-5:30 PM; access first-come, first-served (NYC/NJ Messenger). 2026-09-09 night: empty when checked, then restocked ~30 min before closing; dented print repor 2026-09-10 (FB group): visitor noted purchase limits at Snoopy/Harry pop-ups; patience and comfortable shoes recommended. 2026-09-10 afternoon (Messenger NYC/NJ): Snoopy line ~30 min wait (\"Took 30min just made it in\"). 2026-09-10 evening (Messenger NYC/NJ): gift-shop patches/stickers replenished gradually; Thursday visit arrival ~4:25-4:50 PM, ~25 min wait / inside by ~5:10 PM; 5 prints/person limit still in effect. 2026-09-11 morning (Messenger NYC/NJ): Sep 11 25th-anniversary events/street closures downtown; everything below Canal reported closed; two pop-ups above Canal expected to draw heavy traffic.",
+    "nearby": "Hours seed: Sept 2-26, 10am-6pm. 2026-09-09 morning: arrival 8:45; community said ~9:30 was sweet spot with waits under an hour (~40m), depending how long people linger inside. Prior 2026-09-08: restocked; line ~1–2hr midday (one ~45m at 3:30pm); limit 5 prints/day; no re-entry for more tokens. 2026-09-09 evening: door reportedly locks ~5:15-5:30 PM; access first-come, first-served (NYC/NJ Messenger). 2026-09-09 night: empty when checked, then restocked ~30 min before closing; dented print repor 2026-09-10 (FB group): visitor noted purchase limits at Snoopy/Harry pop-ups; patience and comfortable shoes recommended. 2026-09-10 afternoon (Messenger NYC/NJ): Snoopy line ~30 min wait (\"Took 30min just made it in\"). 2026-09-10 evening (Messenger NYC/NJ): gift-shop patches/stickers replenished gradually; Thursday visit arrival ~4:25-4:50 PM, ~25 min wait / inside by ~5:10 PM; 5 prints/person limit still in effect. 2026-09-11 morning (Messenger NYC/NJ): Sep 11 25th-anniversary events/street closures downtown; everything below Canal reported closed; two pop-ups above Canal expected to draw heavy traffic. 2026-09-11 ~10am PT (FB group): PSA 2-print limit today; one report 1.5h wait before opening; prior day ~4 PM wait under 30m with 5-print limit then later 2-print; weekend expected busier. Messenger NYC/NJ: token-only machine (not quarters); do not use extra tokens/quarters to exceed limit.",
     "website": "",
     "instagram": "",
     "richard_scarry": false,
     "popup_event": true,
-    "last_updated": "2026-09-11T06:00:00-07:00",
-    "last_source": "messenger",
-    "source_url": "https://www.facebook.com/messages/t/735459129506731/",
+    "last_updated": "2026-09-11T10:00:00-07:00",
+    "last_source": "facebook_group+messenger",
+    "source_url": "https://www.facebook.com/groups/inciardiprints/posts/1101816392350870/",
     "token_limit_per_day": 10
   },
   {
