@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-10T18:30:00-07:00",
+  "updated_at": "2026-09-10T22:30:00-07:00",
   "prints": {
     "common-mystery-pack": {
       "id": null,
@@ -237,16 +237,22 @@
       "fair_trade_notes": [],
       "trade_examples": [],
       "release_notes": [
-        "A community member warned counterfeit smileys are mixed in and look poor quality; she is building a tracker for verified actuals (~92% done as of Sep 6 evening)."
+        "A community member warned counterfeit smileys are mixed in and look poor quality; she is building a tracker for verified actuals (~92% done as of Sep 6 evening).",
+        "See numbered-smiley: tracker shared for 100 hand-signed numbered edition (2026-09-10)."
       ],
       "ooc": false,
-      "signal_count": 1,
-      "last_signal_at": "2026-09-06T18:25:00-07:00",
+      "signal_count": 2,
+      "last_signal_at": "2026-09-10T22:30:00-07:00",
       "citations": [
         {
           "ts": "2026-09-06T18:25:00-07:00",
           "source": "messenger",
           "url": "https://www.facebook.com/messages/c/1343255853958809/t/735459129506731/"
+        },
+        {
+          "ts": "2026-09-10T22:30:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/permalink/1101423019056874/"
         }
       ]
     },
@@ -254,7 +260,7 @@
       "id": null,
       "name": "numbered smiley",
       "number": null,
-      "type": "unknown",
+      "type": "custom",
       "rarity_label": "Rare",
       "rarity_basis": "community",
       "fair_trade_notes": [
@@ -263,11 +269,12 @@
       "trade_examples": [],
       "release_notes": [
         "A community member: only 3 of /100 numbered smileys accounted for as of Sep 6 evening; further claims speculative.",
-        "A community member: four consecutive-number eBay listings appeared; two taken down; seller account noted as brand new."
+        "A community member: four consecutive-number eBay listings appeared; two taken down; seller account noted as brand new.",
+        "Harry x Ana pop-up: 100 numbered hand-signed Smileys; community tracker at miniprint.io/smiley; discussion currently says 100 total across varied colors (not 100 per color) — unverified conflicts remain (FB group 2026-09-10 ~9 PM PT)."
       ],
       "ooc": false,
-      "signal_count": 3,
-      "last_signal_at": "2026-09-06T18:30:00-07:00",
+      "signal_count": 5,
+      "last_signal_at": "2026-09-10T22:30:00-07:00",
       "citations": [
         {
           "ts": "2026-09-06T18:25:00-07:00",
@@ -283,6 +290,11 @@
           "ts": "2026-09-06T18:30:00-07:00",
           "source": "messenger",
           "url": "https://www.facebook.com/messages/c/1343255853958809/t/735459129506731/"
+        },
+        {
+          "ts": "2026-09-10T22:30:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/permalink/1101423019056874/"
         }
       ]
     },
@@ -750,6 +762,29 @@
           "ts": "2026-09-10T17:45:00-07:00",
           "source": "facebook_group",
           "url": "https://www.facebook.com/groups/inciardiprints/posts/1101318179067358/"
+        }
+      ]
+    },
+    "goldbug": {
+      "id": "goldbug",
+      "name": "Goldbug",
+      "number": null,
+      "type": "unknown",
+      "rarity_label": "Rare",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "Community informal pull-rate estimates ~1/100 (1% per pull); unverified. One comment claimed better odds in Paris machine (unverified). (FB group 2026-09-10)"
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-10T22:30:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-10T22:30:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/permalink/1101403392392170/"
         }
       ]
     }
