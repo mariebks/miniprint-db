@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T06:00:00-07:00",
+  "updated_at": "2026-09-12T10:00:00-07:00",
   "prints": {
     "common-mystery-pack": {
       "id": null,
@@ -1775,6 +1775,190 @@
           "url": "https://www.facebook.com/groups/inciardiprints/posts/1102478958951280/"
         }
       ]
+    },
+    "winged-victory": {
+      "id": "1787176420428x776506237006164000",
+      "name": "The Winged Victory",
+      "number": null,
+      "type": "unknown",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [],
+      "trade_examples": [],
+      "release_notes": [
+        "Community (2026-09-12): cited as example that Risograph layer registration can vary; crispy alignment not guaranteed."
+      ],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T10:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T10:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/"
+        }
+      ]
+    },
+    "judith": {
+      "id": "1787176325128x456552892400057300",
+      "name": "Judith",
+      "number": null,
+      "type": "unknown",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [],
+      "trade_examples": [],
+      "release_notes": [
+        "Community (2026-09-12): cited alongside Winged Victory for normal Risograph registration/color variation."
+      ],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T10:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T10:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/"
+        }
+      ]
+    },
+    "francis-fern": {
+      "id": "1788036141721x236734916301005500",
+      "name": "Francis + Fern",
+      "number": null,
+      "type": "unknown",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [],
+      "trade_examples": [],
+      "release_notes": [
+        "Community (2026-09-12): color/brightness variation reported vs brighter pink machine example; lighting may explain; no consensus."
+      ],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T10:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T10:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102765565589286/"
+        }
+      ]
+    },
+    "peanuts-snoopy-in-style": {
+      "id": null,
+      "name": "Peanuts / Snoopy in Style prints",
+      "number": null,
+      "type": "custom",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [],
+      "trade_examples": [],
+      "release_notes": [
+        "2026-09-12: NYC exhibition continues 1 machine / 2-print limit through Sep 26; broader US availability being explored (catalog vs pop-ups TBD)."
+      ],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T10:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T10:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102742542258255/"
+        }
+      ]
+    },
+    "united-we-stand-sept-11-2001": {
+      "id": null,
+      "name": "United We Stand / September 11, 2001",
+      "number": null,
+      "type": "unknown",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [],
+      "trade_examples": [],
+      "release_notes": [
+        "2026-09-12 FB group: described as new print from The Little Shop in NYC; current machine availability unconfirmed."
+      ],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T10:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T10:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102644725601370/"
+        }
+      ]
+    },
+    "whitney-print-unnamed": {
+      "id": null,
+      "name": "Whitney print (unnamed in post)",
+      "number": null,
+      "type": "unknown",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [],
+      "trade_examples": [],
+      "release_notes": [
+        "2026-09-12: community reply identified a pictured Whitney print as older, not a new release."
+      ],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T10:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T10:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/"
+        }
+      ]
+    },
+    "msg-and-step-on-it": {
+      "id": "1787765665217x301177557392504640",
+      "name": "MSG, and step on it!",
+      "number": null,
+      "type": "custom",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [],
+      "trade_examples": [],
+      "release_notes": [
+        "2026-09-12: after Harry Styles pop-up stockout, MSG sought secondhand along with Cab."
+      ],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T10:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T10:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102585662273943/"
+        }
+      ]
+    },
+    "dish-soap": {
+      "id": "1787176324845x585712856583038500",
+      "name": "Dish Soap",
+      "number": null,
+      "type": "catalog",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [],
+      "trade_examples": [],
+      "release_notes": [
+        "2026-09-12 Maine Needs: dish soap only reported; multiple unsuccessful pulls; Scrub Daddy not observed."
+      ],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T10:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T10:00:00-07:00",
+          "source": "messenger",
+          "url": "https://www.facebook.com/messages/t/2020802802013925/"
+        }
+      ]
     }
   },
   "global_tips": [
@@ -2087,6 +2271,51 @@
       "text": "Community framing (2026-09-12): MPCC/catalog sought 1:1; harder-to-find/OOC customs may draw multi-for-one offers. Single-voice ISO, not consensus.",
       "confidence": "medium",
       "signal_count": 1
+    },
+    {
+      "id": "risograph-registration-variation-2026-09-12",
+      "topic": "release_note",
+      "text": "Community (2026-09-12): Risograph prints are not hand-layered every time; minor registration/color variation can be normal (Winged Victory, Judith cited). Crispy alignment is not guaranteed.",
+      "confidence": "high",
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T10:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T10:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/"
+        }
+      ]
+    },
+    {
+      "id": "snoopy-us-expansion-2026-09-12",
+      "topic": "release_note",
+      "text": "Community (2026-09-12): Peanuts/Snoopy prints being explored for broader US availability; NYC keeps 1 machine + 2-print limit through Sep 26; catalog vs pop-ups unresolved.",
+      "confidence": "medium",
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T10:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T10:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102742542258255/"
+        }
+      ]
+    },
+    {
+      "id": "little-shop-nyc-united-we-stand-2026-09-12",
+      "topic": "release_note",
+      "text": "Community (2026-09-12): “United We Stand / September 11, 2001” described as a new print from The Little Shop in NYC; whether still in machines was unanswered.",
+      "confidence": "medium",
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T10:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T10:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102644725601370/"
+        }
+      ]
     }
   ]
 }
