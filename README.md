@@ -19,10 +19,15 @@ Canonical machine + inventory data for the Ana Inciardi collector site.
 | `machines/*.md` | Optional human-readable audit trail |
 | `docs/SCHEMA.md` | Field contract for Codex / the website |
 
-## Sync
+## Sync (Print Keep)
 
-Prefer **react to git push** (GitHub Action / deploy hook) over polling.  
-Grok Bot commits after each successful scrape when something changed.
+**Runtime fetch** (chosen): Print Keep loads JSON from public raw GitHub URLs — no site rebuild on each scrape.  
+See `docs/PRINT_KEEP_RUNTIME_FETCH.md` for endpoints.
+
+Grok Bot commits + pushes after each successful scrape when something changed.  
+GitHub raw CDN may lag ~5 minutes.
+
+(Optional alternative: Vercel/Netlify deploy hook on `data/**` push — only needed if the site bakes JSON at build time.)
 
 ## IDs
 
