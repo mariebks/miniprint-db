@@ -22,15 +22,22 @@ website:
 instagram: canarywharflondon
 richard_scarry: false
 popup_event: false
-last_updated: "2026-09-08T00:00:00.000Z"
-last_source: miniprintdatabase.com audit 2026-09-08
-source_url: "https://miniprintdatabase.com/machine_details/1788891100410x177253526208862140"
+last_updated: "2026-09-12T14:00:00-07:00"
+last_source: instagram
+source_url: "https://www.instagram.com/inciardimachines/p/DdCAmvBG7TL/"
 ---
 # Crossrail Place Roof Garden
 
 London, United Kingdom
 
 # Log
+
+## 2026-09-12 ~14:00 PT
+- install: UK’s first Inciardi mini-print machine (Canary Wharf / Crossrail Place Roof Garden)
+- hours: daily until 9pm or summer sunset
+- payment: 2 × £1 coins
+- partner: @canarywharflondon
+- source: instagram | https://www.instagram.com/inciardimachines/p/DdCAmvBG7TL/ | @inciardimachines
 
 ## 2026-09-08 site audit
 - status: active

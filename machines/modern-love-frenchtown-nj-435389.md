@@ -23,9 +23,9 @@ website: "https://shopmodernlove.com/"
 instagram: modernlovefrenchtown
 richard_scarry: false
 popup_event: false
-last_updated: "2026-09-04T22:57:39Z"
-last_source: miniprintdatabase.com seed
-source_url: "https://miniprintdatabase.com/machine_details/1788562435389x103418535980997600"
+last_updated: "2026-09-12T14:00:00-07:00"
+last_source: instagram
+source_url: "https://www.instagram.com/inciardimachines/"
 ---
 
 # Modern Love
@@ -33,6 +33,14 @@ source_url: "https://miniprintdatabase.com/machine_details/1788562435389x1034185
 Frenchtown, NJ — 39 Bridge St, Frenchtown, NJ 08825, USA
 
 # Log
+
+## 2026-09-12 ~14:00 PT
+- status: machine live
+- hours: daily 10am–6pm
+- payment: quarters only
+- access: wheelchair accessible
+- address note: 39 Bridge St, Frenchtown NJ
+- source: instagram | @inciardimachines
 
 ## 2026-09-06 seed from miniprintdatabase.com
 - stock: in_stock

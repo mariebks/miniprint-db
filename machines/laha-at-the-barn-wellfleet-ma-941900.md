@@ -23,7 +23,7 @@ nearby:
 instagram: lahawellfleet
 richard_scarry: false
 popup_event: false
-last_updated: "2026-09-12T10:00:00-07:00"
+last_updated: "2026-09-12T14:00:00-07:00"
 last_source: messenger
 source_url: "https://www.facebook.com/messages/t/1169379008425052/"
 ---
@@ -33,6 +33,10 @@ source_url: "https://www.facebook.com/messages/t/1169379008425052/"
 Wellfleet, MA — 326 Main St, Wellfleet, MA 02667, USA
 
 # Log
+
+## 2026-09-12 ~14:00 PT
+- status: open until Oysterfest (community); hours may be more limited — verify before visiting
+- source: messenger | https://www.facebook.com/messages/t/1169379008425052/ | community member
 
 ## 2026-09-12 ~10:00 PT
 - status: open until Oysterfest (community); Vault closed-for-season listing disputed

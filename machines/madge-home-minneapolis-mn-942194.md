@@ -23,9 +23,9 @@ website: "https://madgehome.com/"
 instagram: madge__home
 richard_scarry: false
 popup_event: false
-last_updated: "2026-09-09 22:30 PT"
-last_source: messenger
-source_url: "https://miniprintdatabase.com/machine_details/1787165942194x631403754430606300"
+last_updated: "2026-09-12T14:00:00-07:00"
+last_source: instagram
+source_url: "https://www.instagram.com/madge__home/"
 ---
 
 # Madge Home
@@ -33,6 +33,10 @@ source_url: "https://miniprintdatabase.com/machine_details/1787165942194x6314037
 Minneapolis, MN — 307 N 1st Ave, Minneapolis, MN 55413, USA
 
 # Log
+
+## 2026-09-12 ~14:00 PT
+- event: free @inciardi print trading Fri Sep 18, 2026, 5:30–7:30pm (307 N 1st Ave, Minneapolis)
+- source: instagram | https://www.instagram.com/madge__home/ | @madge__home
 
 ## 2026-09-09 22:30 PT
 - pull_limit: historical sign-up said ten; one report of 19 pulls on Saturday; current limit unconfirmed (Main chat Messenger)

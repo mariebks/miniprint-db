@@ -9,8 +9,8 @@ zip: 10003
 latitude: 
 longitude: 
 status: active
-stock_status: out_of_stock
-waiting_for_restock: true
+stock_status: in_stock
+waiting_for_restock: false
 payment_type: tokens
 pull_limit: 5
 print_types: ["Pop Up Event", "Miscellaneous"]
@@ -22,15 +22,21 @@ website: "https://www.hstyles.co.uk/popups/"
 instagram: 
 richard_scarry: false
 popup_event: true
-last_updated: "2026-09-12T10:00:00-07:00"
-last_source: facebook_group
-source_url: "https://www.facebook.com/groups/inciardiprints/posts/1102585662273943/"
+last_updated: "2026-09-12T14:00:00-07:00"
+last_source: messenger
+source_url: "https://www.facebook.com/messages/t/735459129506731/"
 ---
 # Harry Styles Together, Together Pop-Up
 
 New York, NY
 
 # Log
+
+## 2026-09-12 ~14:00 PT
+- stock: in_stock (prints still available after ~3h queue)
+- restock: attendant restocked machine during visit
+- queue: ~3 hours to front
+- source: messenger | https://www.facebook.com/messages/t/735459129506731/ | community member
 
 ## 2026-09-12 ~10:00 PT
 - stock: out_of_stock (no prints after long queue yesterday)

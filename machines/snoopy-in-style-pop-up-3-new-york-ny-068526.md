@@ -23,7 +23,7 @@ website:
 instagram: 
 richard_scarry: false
 popup_event: true
-last_updated: "2026-09-12T10:00:00-07:00"
+last_updated: "2026-09-12T14:00:00-07:00"
 last_source: messenger
 source_url: "https://www.facebook.com/messages/t/735459129506731/"
 ---
@@ -33,6 +33,10 @@ source_url: "https://www.facebook.com/messages/t/735459129506731/"
 New York, NY — 25 Little W 12th St, New York, NY 10014, USA
 
 # Log
+
+## 2026-09-12 ~14:00 PT
+- access: Snoopy line reported closed ~1:34 PM PT
+- source: messenger | https://www.facebook.com/messages/t/735459129506731/ | community member
 
 ## 2026-09-12 ~10:00 PT
 - stock: in_stock
