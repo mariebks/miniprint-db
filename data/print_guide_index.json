@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T18:00:00-07:00",
+  "updated_at": "2026-09-11T22:00:00-07:00",
   "prints": {
     "common-mystery-pack": {
       "id": null,
@@ -1065,6 +1065,52 @@
           "ts": "2026-09-11T18:00:00-07:00",
           "source": "messenger",
           "url": "https://www.facebook.com/messages/t/1184199373865038/"
+        }
+      ]
+    },
+    "pbr-website-linocut": {
+      "id": null,
+      "name": "PBR (website numbered linocut)",
+      "number": null,
+      "type": "website_linocut",
+      "rarity_label": "Rare",
+      "rarity_basis": "community",
+      "fair_trade_notes": [],
+      "trade_examples": [],
+      "release_notes": [
+        "Community (~2026-09-11): small numbered website linocut (not machine-pulled); reportedly no longer sold on the website; reply called it rare."
+      ],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-11T22:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-11T22:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102212808977895/"
+        }
+      ]
+    },
+    "shrimp-website-linocut": {
+      "id": null,
+      "name": "Shrimp (website 5x7 linocut)",
+      "number": null,
+      "type": "website_linocut",
+      "rarity_label": "Rare",
+      "rarity_basis": "community",
+      "fair_trade_notes": [],
+      "trade_examples": [],
+      "release_notes": [
+        "Community (~2026-09-11): 5x7 website linocut; reportedly no longer sold on the website; reply called it rare."
+      ],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-11T22:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-11T22:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102212808977895/"
         }
       ]
     }
