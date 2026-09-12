@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T14:00:00-07:00",
+  "updated_at": "2026-09-11T18:00:00-07:00",
   "prints": {
     "common-mystery-pack": {
       "id": null,
@@ -975,6 +975,98 @@
           "url": "https://www.facebook.com/groups/inciardiprints/posts/1102051588994017"
         }
       ]
+    },
+    "blue-lobster": {
+      "id": "1787176421156x716328322677957400",
+      "name": "Blue Lobster",
+      "number": null,
+      "type": "custom",
+      "rarity_label": "Rare",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "Community (~2026-09-11): OOC/rare; likely only trades for other OOC prints; contrasted with Pinecone which is in multiple machines."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": true,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-11T18:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-11T18:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102168005649042"
+        }
+      ]
+    },
+    "pinecone": {
+      "id": null,
+      "name": "Pinecone",
+      "number": null,
+      "type": "unknown",
+      "rarity_label": "Common",
+      "rarity_basis": "community",
+      "fair_trade_notes": [],
+      "trade_examples": [],
+      "release_notes": [
+        "Community (~2026-09-11): currently in multiple machines (availability contrast vs Blue Lobster)."
+      ],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-11T18:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-11T18:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102168005649042"
+        }
+      ]
+    },
+    "wall-of-buoys": {
+      "id": null,
+      "name": "Wall of Buoys",
+      "number": null,
+      "type": "unknown",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [],
+      "trade_examples": [],
+      "release_notes": [
+        "2026-09-11 Messenger Print Variants: possible variant with orange spot left of red buoy vs absent; discussion floated ~4–5 variants (unverified)."
+      ],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-11T18:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-11T18:00:00-07:00",
+          "source": "messenger",
+          "url": "https://www.facebook.com/messages/t/25311601401776816/"
+        }
+      ]
+    },
+    "lincoln-park-conservatory-customs": {
+      "id": null,
+      "name": "Lincoln Park Conservatory customs (unnamed)",
+      "number": null,
+      "type": "custom",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [],
+      "trade_examples": [],
+      "release_notes": [
+        "2026-09-11 Chicago Messenger: two different custom designs/drafts expected at Lincoln Park Conservatory (not confirmed stocked)."
+      ],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-11T18:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-11T18:00:00-07:00",
+          "source": "messenger",
+          "url": "https://www.facebook.com/messages/t/1184199373865038/"
+        }
+      ]
     }
   },
   "global_tips": [
@@ -1248,6 +1340,36 @@
           "ts": "2026-09-11T14:00:00-07:00",
           "source": "facebook_group",
           "url": "https://www.facebook.com/groups/inciardiprints/posts/1102051588994017"
+        }
+      ]
+    },
+    {
+      "id": "blue-lobster-ooc-2026-09-11",
+      "topic": "ooc_note",
+      "text": "Community (2026-09-11): Blue Lobster treated as OOC/rare and unlikely to sell openly; fair trade framed as OOC↔OOC; Pinecone called out as currently in multiple machines.",
+      "confidence": "medium",
+      "signal_count": 1,
+      "last_signal_at": "2026-09-11T18:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-11T18:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102168005649042"
+        }
+      ]
+    },
+    {
+      "id": "wall-of-buoys-variant-2026-09-11",
+      "topic": "release_note",
+      "text": "Messenger Print Variants (2026-09-11): Wall of Buoys may have a variant with an orange spot left of the red buoy; multiple variants speculated, unverified.",
+      "confidence": "medium",
+      "signal_count": 1,
+      "last_signal_at": "2026-09-11T18:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-11T18:00:00-07:00",
+          "source": "messenger",
+          "url": "https://www.facebook.com/messages/t/25311601401776816/"
         }
       ]
     }

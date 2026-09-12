@@ -13,19 +13,19 @@ stock_status: in_stock
 waiting_for_restock: false
 payment_type: quarters
 pull_limit: 
-print_types: ["catalog"]
+
 available_print_count: 0
 prints_available: []
 parking: 
 parking_cost: 
 nearby: 
-website: "https://www.westartlanc.com/"
+"2026-09-11 ~6pm PT (FB group): community pull report \u2014 20 prints, only 3 Richard Scarry and the rest mixed commons; earlier Monday stock was Richard Scarry. Vault app reportedly empty but 31 days stale (ignore app)."
 instagram: westartlanc
 richard_scarry: false
 popup_event: false
-last_updated: "2026-08-13T04:00:00Z"
-last_source: miniprintdatabase.com seed
-source_url: "https://miniprintdatabase.com/machine_details/1787165942462x482309210514539650"
+last_updated: "2026-09-11T18:00:00-07:00"
+last_source: facebook_group
+source_url: "https://www.facebook.com/groups/inciardiprints/posts/1102137925652050"
 ---
 
 # West Art
@@ -33,6 +33,12 @@ source_url: "https://miniprintdatabase.com/machine_details/1787165942462x4823092
 Lancaster, PA — 816 Buchanan Ave, Lancaster, PA 17603, USA
 
 # Log
+
+## 2026-09-11 ~18:00 PT
+- stock: in_stock (community pull report)
+- prints: 3 of 20 Richard Scarry; rest mixed commons (Monday had been Scarry)
+- note: Vault app empty reading is ~31 days stale — ignore
+- source: facebook_group | https://www.facebook.com/groups/inciardiprints/posts/1102137925652050 | community member
 
 ## 2026-09-06 seed from miniprintdatabase.com
 - stock: in_stock

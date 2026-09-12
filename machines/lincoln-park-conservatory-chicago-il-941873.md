@@ -14,18 +14,18 @@ waiting_for_restock: false
 payment_type: tokens
 pull_limit: 
 
-available_print_count: 6
+
 prints_available: ["1787176419835x260371167375466100", "1787176324429x750839072469383400", "1787176324585x985294546637543600", "1787176420132x781872478242910100", "1787176325250x462588887824177100", "1787176324860x736529749922716500"]
 parking: 
 parking_cost: 
 nearby: 
-"2026-09-10 afternoon (FB group): community said machine was still active in spring; current status not freshly confirmed in-thread."
+"2026-09-10 afternoon (FB group): community said machine was still active in spring; current status not freshly confirmed in-thread. 2026-09-11 ~6pm PT (Messenger Chicago): community says Lincoln Park Conservatory is the venue for two new custom designs/drafts (not yet confirmed on-floor); venue described as modest with nice outside grounds."
 instagram: lpconservancy
 richard_scarry: false
 popup_event: false
-last_updated: "2026-09-10 14:30 PT"
-last_source: facebook_group
-source_url: "https://www.facebook.com/groups/inciardiprints/posts/1101140292418480/"
+last_updated: "2026-09-11T18:00:00-07:00"
+last_source: messenger
+source_url: "https://www.facebook.com/messages/t/1184199373865038/"
 ---
 
 # Lincoln Park Conservatory
@@ -33,6 +33,11 @@ source_url: "https://www.facebook.com/groups/inciardiprints/posts/11011402924184
 Chicago, IL — 2391 N Stockton Dr, Chicago, IL 60614, USA
 
 # Log
+
+## 2026-09-11 ~18:00 PT
+- customs: two new custom designs/drafts expected (community chatter; not confirmed on floor)
+- venue: modest size with pleasant outside grounds (community description)
+- source: messenger | https://www.facebook.com/messages/t/1184199373865038/ | community member
 
 ## 2026-09-10 ~14:30 PT
 - status: reported active in spring; current stock not freshly confirmed
