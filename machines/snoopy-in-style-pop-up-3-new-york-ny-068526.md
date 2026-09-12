@@ -18,14 +18,14 @@ available_print_count: 5
 prints_available: ["1788305227545x813294879493167000", "1788305246715x512651968936239700", "1788365452620x398182671575337800", "1788366588200x982720570578978000", "1788366550402x679183196131598200"]
 parking: Runs Sept. 2 through Sept. 26 from 10 am to 6 pm
 parking_cost: 
-nearby: "Hours seed: Sept 2-26, 10am-6pm. 2026-09-09 morning: arrival 8:45; community said ~9:30 was sweet spot with waits under an hour (~40m), depending how long people linger inside. Prior 2026-09-08: restocked; line ~1\u20132hr midday (one ~45m at 3:30pm); limit 5 prints/day; no re-entry for more tokens. 2026-09-09 evening: door reportedly locks ~5:15-5:30 PM; access first-come, first-served (NYC/NJ Messenger). 2026-09-09 night: empty when checked, then restocked ~30 min before closing; dented print repor 2026-09-10 (FB group): visitor noted purchase limits at Snoopy/Harry pop-ups; patience and comfortable shoes recommended. 2026-09-10 afternoon (Messenger NYC/NJ): Snoopy line ~30 min wait (\"Took 30min just made it in\"). 2026-09-10 evening (Messenger NYC/NJ): gift-shop patches/stickers replenished gradually; Thursday visit arrival ~4:25-4:50 PM, ~25 min wait / inside by ~5:10 PM; 5 prints/person limit still in effect. 2026-09-11 morning (Messenger NYC/NJ): Sep 11 25th-anniversary events/street closures downtown; everything below Canal reported closed; two pop-ups above Canal expected to draw heavy traffic. 2026-09-11 ~10am PT (FB group): PSA 2-print limit today; one report 1.5h wait before opening; prior day ~4 PM wait under 30m with 5-print limit then later 2-print; weekend expected busier. Messenger NYC/NJ: token-only machine (not quarters); do not use extra tokens/quarters to exceed limit. 2026-09-11 ~2pm PT (exhibit update via FB group): Peanuts prints being worked toward broader US availability. NYC Snoopy in Style exhibit going forward hosts one machine with a 2-print limit through September 26. Community: only Puffy Coat Snoopy machine observed on floor; possible one-machine-per-day rotation floated but unconfirmed. Anecdote: 3-day machine hunt with outdoor waits over 2 hours."
+nearby: "Hours seed: Sept 2-26, 10am-6pm. 2026-09-09 morning: arrival 8:45; community said ~9:30 was sweet spot with waits under an hour (~40m), depending how long people linger inside. Prior 2026-09-08: restocked; line ~1\u20132hr midday (one ~45m at 3:30pm); limit 5 prints/day; no re-entry for more tokens. 2026-09-09 evening: door reportedly locks ~5:15-5:30 PM; access first-come, first-served (NYC/NJ Messenger). 2026-09-09 night: empty when checked, then restocked ~30 min before closing; dented print repor 2026-09-10 (FB group): visitor noted purchase limits at Snoopy/Harry pop-ups; patience and comfortable shoes recommended. 2026-09-10 afternoon (Messenger NYC/NJ): Snoopy line ~30 min wait (\"Took 30min just made it in\"). 2026-09-10 evening (Messenger NYC/NJ): gift-shop patches/stickers replenished gradually; Thursday visit arrival ~4:25-4:50 PM, ~25 min wait / inside by ~5:10 PM; 5 prints/person limit still in effect. 2026-09-11 morning (Messenger NYC/NJ): Sep 11 25th-anniversary events/street closures downtown; everything below Canal reported closed; two pop-ups above Canal expected to draw heavy traffic. 2026-09-11 ~10am PT (FB group): PSA 2-print limit today; one report 1.5h wait before opening; prior day ~4 PM wait under 30m with 5-print limit then later 2-print; weekend expected busier. Messenger NYC/NJ: token-only machine (not quarters); do not use extra tokens/quarters to exceed limit. 2026-09-11 ~2pm PT (exhibit update via FB group): Peanuts prints being worked toward broader US availability. NYC Snoopy in Style exhibit going forward hosts one machine with a 2-print limit through September 26. Community: only Puffy Coat Snoopy machine observed on floor; possible one-machine-per-day rotation floated but unconfirmed. Anecdote: 3-day machine hunt with outdoor waits over 2 hours. 2026-09-12 early AM (Messenger NYC/NJ, venue aka Snoopy's Home Ice): Amex line reportedly alternates with the regular line after the first hour. ~6:05–6:07 AM: Snoopy line wrapped around one corner and was nearly at a second; about 10 people joined behind reporters; arrival near 10am estimated to put someone in around 11–11:15."
 website: 
 instagram: 
 richard_scarry: false
 popup_event: true
-last_updated: "2026-09-11T14:00:00-07:00"
-last_source: facebook_group
-source_url: "https://www.facebook.com/groups/inciardiprints/posts/1102037148995461"
+last_updated: "2026-09-12T06:00:00-07:00"
+last_source: messenger
+source_url: "https://www.facebook.com/messages/t/735459129506731/"
 ---
 
 # Snoopy In Style Pop-Up #3
@@ -33,6 +33,15 @@ source_url: "https://www.facebook.com/groups/inciardiprints/posts/11020371489954
 New York, NY — 25 Little W 12th St, New York, NY 10014, USA
 
 # Log
+
+## 2026-09-12 06:00 PT
+- venue aka: Snoopy's Home Ice (community thread context for In Style pop-up)
+- queue: Amex line alternates with regular line after the first hour
+- queue: ~6:05 AM line around one corner, nearly at second; ~10 people joined behind
+- access: arrival near 10am estimated ~11–11:15 entry (community)
+- stock: in_stock (active morning line)
+- source: messenger | thread "NYC / NJ Machine Updates" | https://www.facebook.com/messages/t/735459129506731/ | community member
+
 
 ## 2026-09-11 ~14:00 PT
 - access: one machine with 2-print limit through Sep 26 (exhibit update)

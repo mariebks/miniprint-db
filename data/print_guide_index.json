@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T22:00:00-07:00",
+  "updated_at": "2026-09-12T06:00:00-07:00",
   "prints": {
     "common-mystery-pack": {
       "id": null,
@@ -469,18 +469,24 @@
       "rarity_label": "Unknown",
       "rarity_basis": "community",
       "fair_trade_notes": [
-        "Hold unless the trade is especially desirable (2026-09-09 community)."
+        "Hold unless the trade is especially desirable (2026-09-09 community).",
+        "2026-09-12 ISO listed among customs/harder-to-find/OOC where multiple prints may be offered (single-voice trade ask)."
       ],
       "trade_examples": [],
       "release_notes": [],
       "ooc": false,
-      "signal_count": 1,
-      "last_signal_at": "2026-09-09T12:20:00-07:00",
+      "signal_count": 2,
+      "last_signal_at": "2026-09-12T06:00:00-07:00",
       "citations": [
         {
           "ts": "2026-09-09T12:20:00-07:00",
           "source": "facebook_group",
           "url": "https://www.facebook.com/groups/inciardiprints/permalink/1100254639173712/"
+        },
+        {
+          "ts": "2026-09-12T06:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102478958951280/"
         }
       ]
     },
@@ -724,18 +730,24 @@
       "rarity_label": "Uncommon",
       "rarity_basis": "community",
       "fair_trade_notes": [
-        "Described as a tough pull (Cali Messenger, 2026-09-10)."
+        "Described as a tough pull (Cali Messenger, 2026-09-10).",
+        "2026-09-12 ISO listed Forever Stamp among harder-to-find/custom-side wants (multi-for-one framing); prior community treated it as catalog/tough pull."
       ],
       "trade_examples": [],
       "release_notes": [],
       "ooc": false,
-      "signal_count": 1,
-      "last_signal_at": "2026-09-10T14:30:00-07:00",
+      "signal_count": 2,
+      "last_signal_at": "2026-09-12T06:00:00-07:00",
       "citations": [
         {
           "ts": "2026-09-10T14:30:00-07:00",
           "source": "messenger",
           "url": "https://www.facebook.com/messages/t/24518755321159390/"
+        },
+        {
+          "ts": "2026-09-12T06:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102478958951280/"
         }
       ]
     },
@@ -770,15 +782,16 @@
       "rarity_label": "Unknown",
       "rarity_basis": "community",
       "fair_trade_notes": [
-        "Community ISO framed Sept MPCC / catalog prints as 1:1 catalog-for-catalog trades, listing customs separately."
+        "Community ISO framed Sept MPCC / catalog prints as 1:1 catalog-for-catalog trades, listing customs separately.",
+        "2026-09-12 group ISO: MPCC/catalog still framed as 1:1 catalog↔catalog; customs/OOC listed separately as multi-for-one targets."
       ],
       "trade_examples": [],
       "release_notes": [
         "Early-October dibs train (one week) to include current MPCC prints not yet in machines, plus locations/customs/hot-rare commons (2026-09-10 group announcement)."
       ],
       "ooc": false,
-      "signal_count": 2,
-      "last_signal_at": "2026-09-11T06:00:00-07:00",
+      "signal_count": 3,
+      "last_signal_at": "2026-09-12T06:00:00-07:00",
       "citations": [
         {
           "ts": "2026-09-10T17:45:00-07:00",
@@ -789,6 +802,11 @@
           "ts": "2026-09-11T06:00:00-07:00",
           "source": "facebook_group",
           "url": "https://www.facebook.com/groups/inciardiprints/posts/1101571709042005/"
+        },
+        {
+          "ts": "2026-09-12T06:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102478958951280/"
         }
       ]
     },
@@ -1113,6 +1131,650 @@
           "url": "https://www.facebook.com/groups/inciardiprints/posts/1102212808977895/"
         }
       ]
+    },
+    "cg": {
+      "id": "cg",
+      "name": "CG",
+      "number": null,
+      "type": "catalog",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "Listed as catalog in 2026-09-12 ISO seeking 1:1 MPCC/catalog trades."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T06:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T06:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102478958951280/"
+        }
+      ]
+    },
+    "double-cone": {
+      "id": "double-cone",
+      "name": "Double Cone",
+      "number": null,
+      "type": "catalog",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "Listed as catalog in 2026-09-12 ISO seeking 1:1 MPCC/catalog trades."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T06:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T06:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102478958951280/"
+        }
+      ]
+    },
+    "do": {
+      "id": "do",
+      "name": "DO",
+      "number": null,
+      "type": "catalog",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "Listed as catalog in 2026-09-12 ISO seeking 1:1 MPCC/catalog trades."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T06:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T06:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102478958951280/"
+        }
+      ]
+    },
+    "egg-in-pan": {
+      "id": "egg-in-pan",
+      "name": "Egg in Pan",
+      "number": null,
+      "type": "catalog",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "Listed as catalog in 2026-09-12 ISO seeking 1:1 MPCC/catalog trades."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T06:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T06:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102478958951280/"
+        }
+      ]
+    },
+    "little-butter": {
+      "id": "little-butter",
+      "name": "Little Butter",
+      "number": null,
+      "type": "catalog",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "Listed as catalog in 2026-09-12 ISO seeking 1:1 MPCC/catalog trades."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T06:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T06:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102478958951280/"
+        }
+      ]
+    },
+    "jar-of-cornichons": {
+      "id": "jar-of-cornichons",
+      "name": "Jar of Cornichons",
+      "number": null,
+      "type": "catalog",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "Listed as catalog in 2026-09-12 ISO seeking 1:1 MPCC/catalog trades."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T06:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T06:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102478958951280/"
+        }
+      ]
+    },
+    "oops-cake": {
+      "id": "oops-cake",
+      "name": "Oops Cake",
+      "number": null,
+      "type": "catalog",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "Listed as catalog in 2026-09-12 ISO seeking 1:1 MPCC/catalog trades."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T06:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T06:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102478958951280/"
+        }
+      ]
+    },
+    "om": {
+      "id": "om",
+      "name": "OM",
+      "number": null,
+      "type": "catalog",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "Listed as catalog in 2026-09-12 ISO seeking 1:1 MPCC/catalog trades."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T06:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T06:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102478958951280/"
+        }
+      ]
+    },
+    "pear": {
+      "id": "pear",
+      "name": "Pear",
+      "number": null,
+      "type": "catalog",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "Listed as catalog in 2026-09-12 ISO seeking 1:1 MPCC/catalog trades."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T06:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T06:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102478958951280/"
+        }
+      ]
+    },
+    "s": {
+      "id": "s",
+      "name": "S",
+      "number": null,
+      "type": "catalog",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "Listed as catalog in 2026-09-12 ISO seeking 1:1 MPCC/catalog trades."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T06:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T06:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102478958951280/"
+        }
+      ]
+    },
+    "sm": {
+      "id": "sm",
+      "name": "SM",
+      "number": null,
+      "type": "catalog",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "Listed as catalog in 2026-09-12 ISO seeking 1:1 MPCC/catalog trades."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T06:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T06:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102478958951280/"
+        }
+      ]
+    },
+    "toaster": {
+      "id": "toaster",
+      "name": "Toaster",
+      "number": null,
+      "type": "catalog",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "Listed as catalog in 2026-09-12 ISO seeking 1:1 MPCC/catalog trades."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T06:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T06:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102478958951280/"
+        }
+      ]
+    },
+    "headphones-snoopy": {
+      "id": "headphones-snoopy",
+      "name": "Headphones Snoopy",
+      "number": null,
+      "type": "custom",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "2026-09-12 ISO listed among customs/harder-to-find/OOC where multiple prints may be offered (single-voice trade ask)."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T06:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T06:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102478958951280/"
+        }
+      ]
+    },
+    "snoopy-on-tennis-court": {
+      "id": "snoopy-on-tennis-court",
+      "name": "Snoopy on Tennis Court",
+      "number": null,
+      "type": "custom",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "2026-09-12 ISO listed among customs/harder-to-find/OOC where multiple prints may be offered (single-voice trade ask)."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T06:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T06:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102478958951280/"
+        }
+      ]
+    },
+    "woodstock-tennis": {
+      "id": "woodstock-tennis",
+      "name": "Woodstock Tennis",
+      "number": null,
+      "type": "custom",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "2026-09-12 ISO listed among customs/harder-to-find/OOC where multiple prints may be offered (single-voice trade ask)."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T06:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T06:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102478958951280/"
+        }
+      ]
+    },
+    "charlie-brown-tennis": {
+      "id": "charlie-brown-tennis",
+      "name": "Charlie Brown Tennis",
+      "number": null,
+      "type": "custom",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "2026-09-12 ISO listed among customs/harder-to-find/OOC where multiple prints may be offered (single-voice trade ask)."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T06:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T06:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102478958951280/"
+        }
+      ]
+    },
+    "best-friends": {
+      "id": "best-friends",
+      "name": "Best Friends",
+      "number": null,
+      "type": "custom",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "2026-09-12 ISO listed among customs/harder-to-find/OOC where multiple prints may be offered (single-voice trade ask)."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T06:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T06:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102478958951280/"
+        }
+      ]
+    },
+    "block-shop-snail": {
+      "id": "block-shop-snail",
+      "name": "Block Shop Snail",
+      "number": null,
+      "type": "custom",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "2026-09-12 ISO listed among customs/harder-to-find/OOC where multiple prints may be offered (single-voice trade ask)."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T06:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T06:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102478958951280/"
+        }
+      ]
+    },
+    "cookie-bucket": {
+      "id": "cookie-bucket",
+      "name": "Cookie Bucket",
+      "number": null,
+      "type": "custom",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "2026-09-12 ISO listed among customs/harder-to-find/OOC where multiple prints may be offered (single-voice trade ask)."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T06:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T06:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102478958951280/"
+        }
+      ]
+    },
+    "hjordis": {
+      "id": "hjordis",
+      "name": "Hjordis",
+      "number": null,
+      "type": "custom",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "2026-09-12 ISO listed among customs/harder-to-find/OOC where multiple prints may be offered (single-voice trade ask)."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T06:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T06:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102478958951280/"
+        }
+      ]
+    },
+    "land-of-the-voyageurs": {
+      "id": "land-of-the-voyageurs",
+      "name": "Land of the Voyageurs",
+      "number": null,
+      "type": "custom",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "2026-09-12 ISO listed among customs/harder-to-find/OOC where multiple prints may be offered (single-voice trade ask)."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T06:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T06:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102478958951280/"
+        }
+      ]
+    },
+    "lemon-yodel": {
+      "id": "lemon-yodel",
+      "name": "Lemon Yodel",
+      "number": null,
+      "type": "custom",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "2026-09-12 ISO listed among customs/harder-to-find/OOC where multiple prints may be offered (single-voice trade ask)."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T06:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T06:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102478958951280/"
+        }
+      ]
+    },
+    "roam-whimsey-co": {
+      "id": "roam-whimsey-co",
+      "name": "Roam & Whimsey Co",
+      "number": null,
+      "type": "custom",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "2026-09-12 ISO listed among customs/harder-to-find/OOC where multiple prints may be offered (single-voice trade ask)."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T06:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T06:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102478958951280/"
+        }
+      ]
+    },
+    "shiny-prints": {
+      "id": "shiny-prints",
+      "name": "Shiny Prints",
+      "number": null,
+      "type": "custom",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "2026-09-12 ISO listed among customs/harder-to-find/OOC where multiple prints may be offered (single-voice trade ask)."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T06:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T06:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102478958951280/"
+        }
+      ]
+    },
+    "sunny-rainbow": {
+      "id": "sunny-rainbow",
+      "name": "Sunny Rainbow",
+      "number": null,
+      "type": "custom",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "2026-09-12 ISO listed among customs/harder-to-find/OOC where multiple prints may be offered (single-voice trade ask)."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T06:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T06:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102478958951280/"
+        }
+      ]
+    },
+    "venus-anadyomene": {
+      "id": "venus-anadyomene",
+      "name": "Venus Anadyomene",
+      "number": null,
+      "type": "custom",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "2026-09-12 ISO listed among customs/harder-to-find/OOC where multiple prints may be offered (single-voice trade ask)."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T06:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T06:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102478958951280/"
+        }
+      ]
+    },
+    "wilderness-country": {
+      "id": "wilderness-country",
+      "name": "Wilderness Country",
+      "number": null,
+      "type": "custom",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "2026-09-12 ISO listed among customs/harder-to-find/OOC where multiple prints may be offered (single-voice trade ask)."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T06:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T06:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102478958951280/"
+        }
+      ]
+    },
+    "harry-styles": {
+      "id": "harry-styles",
+      "name": "Harry Styles",
+      "number": null,
+      "type": "custom",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [
+        "2026-09-12 ISO listed among customs/harder-to-find/OOC where multiple prints may be offered (single-voice trade ask)."
+      ],
+      "trade_examples": [],
+      "release_notes": [],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-12T06:00:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T06:00:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1102478958951280/"
+        }
+      ]
     }
   },
   "global_tips": [
@@ -1418,6 +2080,13 @@
           "url": "https://www.facebook.com/messages/t/25311601401776816/"
         }
       ]
+    },
+    {
+      "id": "mpcc-catalog-1to1-multi-ooc-2026-09-12",
+      "topic": "fair_trade",
+      "text": "Community framing (2026-09-12): MPCC/catalog sought 1:1; harder-to-find/OOC customs may draw multi-for-one offers. Single-voice ISO, not consensus.",
+      "confidence": "medium",
+      "signal_count": 1
     }
   ]
 }
