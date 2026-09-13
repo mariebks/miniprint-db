@@ -51,3 +51,8 @@ Closed Mondays
 - stock_last_updated: 2026-09-05T18:51:42Z
 - available_prints_last_updated: 2026-09-05T19:15:17Z
 - source: https://miniprintdatabase.com/machine_details/1787165941890x775205255813420500
+
+## 2026-09-13 10:35 AM PT
+- stock_status: in_stock (reverses earlier empty report)
+- prints: Fluff pulled
+- source: messenger

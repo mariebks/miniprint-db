@@ -43,3 +43,8 @@ Cleveland, OH — 2024 Murray Hill Rd, Cleveland, OH 44106, USA
 - stock_last_updated: 2026-09-06T21:15:25Z
 - available_prints_last_updated: 2026-08-10T04:00:00Z
 - source: https://miniprintdatabase.com/machine_details/1787165942457x224698300026005220
+
+## 2026-09-13 10:35 AM PT
+- stock_status: out_of_stock (machine off floor; may return next season)
+- source: facebook_group + messenger
+- venue seasonal close ~Sep 30

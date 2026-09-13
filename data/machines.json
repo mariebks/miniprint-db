@@ -5275,7 +5275,7 @@
     "print_types": [
       "Catalog"
     ],
-    "available_print_count": 10,
+    "available_print_count": 11,
     "prints_available": [
       {
         "id": "1787176324562x156166041669649300",
@@ -5326,6 +5326,11 @@
         "id": "1787176325240x674494348750189800",
         "name": "Lobster",
         "printType": "catalog"
+      },
+      {
+        "id": "1787176324999x786436784072817000",
+        "name": "Gummy Bears",
+        "printType": "catalog"
       }
     ],
     "parking": "Will change $5 in quarters max",
@@ -5334,9 +5339,9 @@
     "instagram": "",
     "richard_scarry": false,
     "popup_event": false,
-    "last_updated": "2026-08-31T00:00:00.000Z",
-    "last_source": "miniprintdatabase.com audit 2026-09-08",
-    "source_url": "https://miniprintdatabase.com/machine_details/1787165941889x447232849205334600"
+    "last_updated": "2026-09-13T10:35:00-07:00",
+    "last_source": "facebook_group",
+    "source_url": "https://www.facebook.com/groups/inciardiprints/permalink/1103611638838012/"
   },
   {
     "id": "1787165941890x775205255813420500",
@@ -5349,15 +5354,15 @@
     "latitude": 42.35286939,
     "longitude": -71.04291164,
     "status": "active",
-    "stock_status": "out_of_stock",
-    "waiting_for_restock": true,
+    "stock_status": "in_stock",
+    "waiting_for_restock": false,
     "payment_type": "quarters",
     "pull_limit": null,
     "print_types": [
       "Custom",
       "Catalog"
     ],
-    "available_print_count": 8,
+    "available_print_count": 9,
     "prints_available": [
       {
         "id": "1787176420132x781872478242910100",
@@ -5398,6 +5403,11 @@
         "id": "1787176324990x564721527100265660",
         "name": "Ginkgo Leaf",
         "printType": "catalog"
+      },
+      {
+        "id": "1787176324975x660701203929742200",
+        "name": "Fluff",
+        "printType": "custom"
       }
     ],
     "parking": "Located in gift shop | Does not require museum admission | Will exchange $3 in quarters maximum | Closed Mondays",
@@ -5406,7 +5416,7 @@
     "instagram": "icaboston",
     "richard_scarry": false,
     "popup_event": false,
-    "last_updated": "2026-09-13T09:35:00-07:00",
+    "last_updated": "2026-09-13T10:35:00-07:00",
     "last_source": "messenger",
     "source_url": "https://www.facebook.com/messages/t/1278440747304469/"
   },
@@ -12366,61 +12376,26 @@
     "latitude": 41.50792519,
     "longitude": -81.59803428,
     "status": "active",
-    "stock_status": "low_stock",
-    "waiting_for_restock": false,
+    "stock_status": "out_of_stock",
+    "waiting_for_restock": true,
     "payment_type": "quarters",
     "pull_limit": null,
     "print_types": [
       "Catalog",
       "Custom"
     ],
-    "available_print_count": 7,
-    "prints_available": [
-      {
-        "id": "1787176324582x349665115730709100",
-        "name": "Cake",
-        "printType": "catalog"
-      },
-      {
-        "id": "1787176420863x735030878336388100",
-        "name": "Watering Can",
-        "printType": null
-      },
-      {
-        "id": "1787176324709x736437804482721500",
-        "name": "Clementine Peel",
-        "printType": "catalog"
-      },
-      {
-        "id": "1787176324432x204261588179344160",
-        "name": "Beets",
-        "printType": "catalog"
-      },
-      {
-        "id": "1787176420872x112019789173285920",
-        "name": "Wine",
-        "printType": null
-      },
-      {
-        "id": "1787176324716x266854101826563550",
-        "name": "Cooler",
-        "printType": "catalog"
-      },
-      {
-        "id": "1787176420848x363032908885581250",
-        "name": "Trollius",
-        "printType": null
-      }
-    ],
+    "available_print_count": 0,
+    "prints_available": [],
     "parking": "Will exchange quarters",
     "nearby": "Will exchange quarters",
     "website": "https://www.mountgranita.com/",
     "instagram": "mountgranita",
     "richard_scarry": false,
     "popup_event": false,
-    "last_updated": "2026-09-06T00:00:00.000Z",
-    "last_source": "miniprintdatabase.com audit 2026-09-08",
-    "source_url": "https://miniprintdatabase.com/machine_details/1787165942457x224698300026005220"
+    "last_updated": "2026-09-13T10:35:00-07:00",
+    "last_source": "facebook_group+messenger",
+    "source_url": "https://www.facebook.com/groups/inciardiprints/permalink/1103604425505400/",
+    "seasonal_note": "Venue seasonal May\u2013Sep; closes ~Sep 30. Community: machine off floor after OOS; may return next season."
   },
   {
     "id": "1787165942879x468810981162604200",

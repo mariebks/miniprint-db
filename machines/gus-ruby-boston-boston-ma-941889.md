@@ -43,3 +43,8 @@ Boston, MA — 99 Charles St, Boston, MA 02114, USA
 - stock_last_updated: 2026-08-31T23:59:36Z
 - available_prints_last_updated: 2026-06-30T04:00:00Z
 - source: https://miniprintdatabase.com/machine_details/1787165941889x447232849205334600
+
+## 2026-09-13 10:35 AM PT
+- stock_status: in_stock
+- prints: Gummy Bears observed available (panel photo; partial inventory)
+- source: facebook_group
