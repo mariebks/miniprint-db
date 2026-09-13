@@ -62,3 +62,6 @@ Portland, ME — 2385 Congress St, Portland, ME 04102, USA
 - stock_last_updated: 2026-08-13T04:00:00Z
 - available_prints_last_updated: 2026-08-29T14:22:02Z
 - source: https://miniprintdatabase.com/machine_details/1787165941906x198278402519827420
+
+## 2026-09-13 ~06:35 PT
+- 2026-09-13 scan: Dish Soap-only; unsuccessful after 3 visits (Maine Messenger 9/12).

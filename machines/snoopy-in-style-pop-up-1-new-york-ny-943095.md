@@ -125,3 +125,6 @@ New York, NY — 25 Little W 12th St, New York, NY 10014, USA
 - stock_last_updated: 2026-09-04T16:04:40Z
 - available_prints_last_updated: 2026-09-02T19:27:04Z
 - source: https://miniprintdatabase.com/machine_details/1788277943095x119751196118422340
+
+## 2026-09-13 ~06:35 PT
+- 2026-09-13 ~6am PT: rainy AM line ~10 people behind reporter (Messenger NYC/NJ).

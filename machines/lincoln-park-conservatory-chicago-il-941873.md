@@ -51,3 +51,6 @@ Chicago, IL — 2391 N Stockton Dr, Chicago, IL 60614, USA
 - stock_last_updated: 2026-07-19T04:00:00Z
 - available_prints_last_updated: 2026-08-31T22:37:50Z
 - source: https://miniprintdatabase.com/machine_details/1787165941873x229365385060656740
+
+## 2026-09-13 ~06:35 PT
+- 2026-09-13 scan: new prints called out (titles unnamed) — Chicago Messenger 9/12 evening.
