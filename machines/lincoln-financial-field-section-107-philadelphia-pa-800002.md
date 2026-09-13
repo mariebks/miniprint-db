@@ -9,7 +9,7 @@ zip: 19148
 latitude: 39.900764
 longitude: -75.167441
 status: active
-stock_status: unknown
+stock_status: in_stock
 waiting_for_restock: false
 payment_type: tokens
 pull_limit: 
@@ -22,8 +22,8 @@ website: "https://www.philadelphiaeagles.com/news/eagles-fans-can-get-exclusive-
 instagram: eagles
 richard_scarry: false
 popup_event: true
-last_updated: "2026-09-12T14:00:00-07:00"
-last_source: web
+last_updated: "2026-09-13T13:49:46-07:00"
+last_source: messenger+tiktok
 source_url: "https://www.philadelphiaeagles.com/news/eagles-fans-can-get-exclusive-inciardi-prints"
 ---
 
@@ -32,6 +32,11 @@ source_url: "https://www.philadelphiaeagles.com/news/eagles-fans-can-get-exclusi
 Philadelphia, PA
 
 # Log
+
+## 2026-09-13T13:49:46-07:00
+- stock: in_stock (gameday)
+- prints_available_partial: Salty Shortest, Philly Bird, Whiz Wit, S. Fly, Victory
+- source: messenger | https://www.facebook.com/messages/t/1918070145555018
 
 ## 2026-09-12 ~14:00 PT
 - NEW machine (official): exclusive Inciardi risograph mini prints for Eagles game attendees starting Sun 2026-09-13

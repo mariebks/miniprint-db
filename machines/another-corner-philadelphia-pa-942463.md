@@ -23,8 +23,8 @@ website: "https://www.anothercorner.co/"
 instagram: anothercorner_co
 richard_scarry: false
 popup_event: false
-last_updated: "2026-08-09T04:00:00Z"
-last_source: miniprintdatabase.com seed
+last_updated: "2026-09-13T13:49:46-07:00"
+last_source: messenger
 source_url: "https://miniprintdatabase.com/machine_details/1787165942463x648941746286869900"
 ---
 
@@ -33,6 +33,11 @@ source_url: "https://miniprintdatabase.com/machine_details/1787165942463x6489417
 Philadelphia, PA — 612 S 6th St, Philadelphia, PA 19147, USA
 
 # Log
+
+## 2026-09-13T13:49:46-07:00
+- stock: out_of_stock (SOLD OUT photo on machine/display)
+- note: caption says shop Inciardi run is ending
+- source: messenger | https://www.facebook.com/messages/t/767267829667957
 
 ## 2026-09-06 seed from miniprintdatabase.com
 - stock: out_of_stock

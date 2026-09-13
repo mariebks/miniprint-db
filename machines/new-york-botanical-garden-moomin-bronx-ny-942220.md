@@ -23,8 +23,8 @@ website: "https://www.nybg.org/"
 instagram: nybg
 richard_scarry: false
 popup_event: false
-last_updated: "2026-09-03T16:23:09Z"
-last_source: miniprintdatabase.com seed
+last_updated: "2026-09-13T13:49:46-07:00"
+last_source: facebook_group
 source_url: "https://miniprintdatabase.com/machine_details/1787165942220x732785764855941200"
 ---
 
@@ -33,6 +33,12 @@ source_url: "https://miniprintdatabase.com/machine_details/1787165942220x7327857
 Bronx, NY — 2900 Southern Blvd, Bronx, NY 10458, USA
 
 # Log
+
+## 2026-09-13T13:49:46-07:00
+- exhibition: Moomintroll ends today (2026-09-13)
+- pull_limit: 10 (two machines)
+- note: community comment says Moomin machine will be removed after exhibition
+- source: facebook_group | https://www.facebook.com/groups/inciardiprints
 
 ## 2026-09-06 seed from miniprintdatabase.com
 - stock: in_stock

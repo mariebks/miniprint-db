@@ -22,7 +22,7 @@ website: "https://www.hstyles.co.uk/popups/"
 instagram: 
 richard_scarry: false
 popup_event: true
-last_updated: "2026-09-12T14:00:00-07:00"
+last_updated: "2026-09-13T13:49:46-07:00"
 last_source: messenger
 source_url: "https://www.facebook.com/messages/t/735459129506731/"
 ---
@@ -31,6 +31,12 @@ source_url: "https://www.facebook.com/messages/t/735459129506731/"
 New York, NY
 
 # Log
+
+## 2026-09-13T13:49:46-07:00
+- stock: in_stock
+- pull_limit: 5 reconfirmed
+- queue: visitor reported in/out ~20 minutes midday
+- source: messenger | https://www.facebook.com/messages/t/735459129506731
 
 ## 2026-09-12 ~14:00 PT
 - stock: in_stock (prints still available after ~3h queue)
