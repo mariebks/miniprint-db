@@ -47,3 +47,8 @@ Chicago, IL — 2643 N Milwaukee Ave, Chicago, IL 60647, USA
 - stock_last_updated: 2026-09-02T03:06:42Z
 - available_prints_last_updated: 2026-08-20T04:00:00Z
 - source: https://miniprintdatabase.com/machine_details/1787165941872x914166313583044200
+
+## 2026-09-13 ~14:35 PT
+- custom: reconfirmed as only Chicago custom AI print for now
+- related: Lincoln Park Conservatory more news coming soon (titles unnamed)
+- source: messenger | https://www.facebook.com/messages/t/1184199373865038/ | community member

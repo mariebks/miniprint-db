@@ -54,3 +54,7 @@ Chicago, IL — 2391 N Stockton Dr, Chicago, IL 60614, USA
 
 ## 2026-09-13 ~06:35 PT
 - 2026-09-13 scan: new prints called out (titles unnamed) — Chicago Messenger 9/12 evening.
+
+## 2026-09-13 ~14:35 PT
+- upcoming: community says more news coming soon (no print titles yet)
+- source: messenger | https://www.facebook.com/messages/t/1184199373865038/ | community member

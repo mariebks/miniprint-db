@@ -43,3 +43,7 @@ Boston, MA — 71 Charles St, Boston, MA 02114, USA
 - stock_last_updated: 2026-08-31T23:58:37Z
 - available_prints_last_updated: 2026-05-30T04:00:00Z
 - source: https://miniprintdatabase.com/machine_details/1787165941889x713830246933936600
+
+## 2026-09-13 ~14:35 PT
+- restock_hint: new prints around Sep 16 (same ICA/Beacon Hill group thread; no named list)
+- source: facebook_group | https://www.facebook.com/groups/inciardiprints/posts/1103750068824169/ | community member

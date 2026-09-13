@@ -56,3 +56,8 @@ Closed Mondays
 - stock_status: in_stock (reverses earlier empty report)
 - prints: Fluff pulled
 - source: messenger
+
+## 2026-09-13 ~14:35 PT
+- restock_hint: new prints around Sep 16 (staff via community comment; reconfirm)
+- note: machine already in_stock earlier today (Fluff); this is additional new-print timing, not a full inventory
+- source: facebook_group | https://www.facebook.com/groups/inciardiprints/posts/1103750068824169/ | community member
