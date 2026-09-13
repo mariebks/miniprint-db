@@ -40,10 +40,16 @@ https://raw.githubusercontent.com/mariebks/miniprint-db/main/data/product_signal
    - `prints.json` → object keyed by print id
    - `updates.ndjson` → line-delimited JSON (activity / history)
    - `print_guide_index.json` → Ask Print Guide context
-2. **Replace** any local/static/copied machine DB or old seed with these fetches (or fall back to cache only if fetch fails).
-3. **Cache lightly** (optional): 1–5 min in-memory / CDN; respect that GitHub raw already caches ~300s.
-4. **UI sanity check:** after wiring, confirm machines include **Lincoln Financial Field — Pepsi Plaza / Section 107 / Section 113** (added 2026-09-12) when loaded from the live URL — proves runtime sync works.
+2. **Merge, don’t clobber.** Treat repo JSON as the bot **base** layer. Keep a Print Keep **local_overrides** store keyed by stable `machine_id` / print `id`. UI = merge(base, local_overrides) where **local wins** on any field the user/site explicitly set.
+   - New repo-only machines/prints → add them.
+   - New bot fields with no local override → take from repo.
+   - User-edited / pinned fields in Print Keep → **never** overwritten by a later fetch.
+   - Do **not** wholesale replace Print Keep’s DB with the raw fetch if that would wipe edits.
+   - Fall back to last good cache only if fetch fails.
+3. **Cache lightly** (optional): on page load (no aggressive polling). GitHub raw already caches ~300s.
+4. **UI sanity check:** after wiring, confirm machines include **Lincoln Financial Field — Pepsi Plaza / Section 107 / Section 113** when loaded from the live URL — proves runtime sync works.
 5. Keep stock (`machines.json`) separate from rarity (`print_guide_*`). Do not invent rarity.
+6. Document the overlay rules in Print Keep README (repo base + local wins).
 
 ## Hard rules
 
@@ -56,6 +62,7 @@ https://raw.githubusercontent.com/mariebks/miniprint-db/main/data/product_signal
 ## Done when
 
 - Print Keep loads machines/prints from the raw GitHub URLs at runtime.
-- No rebuild required for new Bot pushes to show up (aside from CDN lag).
-- Brief note in Print Keep README / env docs listing the feed URLs.
-- Summary back: files touched, how refresh works, and that the three Eagles Linc machines appear from the live feed.
+- Local Print Keep edits are preserved across fetches (overlay / pinned fields).
+- No rebuild required for new Bot pushes (aside from CDN lag + page reload).
+- README lists feed URLs + merge rules (local wins).
+- Summary: files touched, how merge works, and that the three Eagles Linc machines appear from the live feed without wiping sample local overrides (add a quick test override if useful).

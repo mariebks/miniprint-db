@@ -32,3 +32,22 @@ Schemas: `docs/SCHEMA.md`, `docs/PRINT_GUIDE_SCHEMA.md`, `docs/PRODUCTS_SCHEMA.m
 ## What Bot does
 
 Grok Bot scrapes → writes JSON → pushes `miniprint-db`. No deploy hook required for this model.
+
+## Merge model (Print Keep local edits win)
+
+`miniprint-db` is the **bot feed** (community/host scrapes). Print Keep may keep its own **local overrides** (manual corrections, pins, site-only labels).
+
+On each fetch:
+1. Load the latest repo JSON as the **base** layer.
+2. **Apply Print Keep local overrides on top** (by stable `machine_id` / print `id`).
+3. Result shown in UI = `merge(base, local_overrides)` where **local wins** on any field the user/site has explicitly set.
+
+Rules:
+- **New machines / new prints** that appear only in the repo → add them (nothing local to protect).
+- **New bot fields** on an existing id where Print Keep has **no** override → fill from repo.
+- **Fields the user changed in Print Keep** → **never** overwritten by a later repo fetch.
+- Repo is **not** rewritten by Print Keep (one-way: bot → site). Site edits stay in Print Keep’s own store.
+- Optional: mark overridden fields as `pinned` / `source: local` so the UI can show “manually set.”
+
+Do **not** wholesale replace Print Keep’s database with the raw fetch if that would wipe user edits.
+

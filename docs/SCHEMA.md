@@ -14,7 +14,10 @@ Required fields:
 
 Optional: `latitude`, `longitude`, `parking`, `nearby`, `parking_cost`, `payment_type`, `pull_limit`, `website`, `instagram`, `waiting_for_restock`, `available_print_count`, `source_url`
 
-Conflict rule: newer `last_updated` / newer `updates.ndjson` entry wins.
+Conflict rule (within the bot feed): newer `last_updated` / newer `updates.ndjson` entry wins.
+
+### Print Keep overlay
+Site-side manual edits must **not** be overwritten by fetching this repo. Print Keep should merge: `repo base` + `local_overrides` (local wins per field). New repo rows/fields without an override are applied; pinned/user-edited fields stay.
 
 ## `data/prints.json`
 
