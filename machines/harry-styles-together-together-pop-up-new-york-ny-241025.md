@@ -88,3 +88,7 @@ New York, NY
 ## Updates
 
 - 2026-09-12T18:00:00-07:00: Messenger — line closed ~5:15 PM; token sales reportedly stop by 5 PM or earlier (varies). Anonymous community report.
+
+## 2026-09-12 22:00 PT
+- Source: Messenger NYC/NJ
+- Access: stricter evening turnaways ~1–1.5h after line/token cutoff; 5-print/re-entry still discussed; verify same-day.

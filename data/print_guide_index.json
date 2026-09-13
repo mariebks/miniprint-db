@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T10:00:00-07:00",
+  "updated_at": "2026-09-12T22:00:00-07:00",
   "prints": {
     "common-mystery-pack": {
       "id": null,
@@ -2316,6 +2316,13 @@
           "url": "https://www.facebook.com/groups/inciardiprints/posts/1102644725601370/"
         }
       ]
+    },
+    {
+      "ts": "2026-09-12T22:00:00-07:00",
+      "topic": "rarity",
+      "text": "Brownstone-with-pumpkin print: community says fall 2025 NFL promo (free for line waiters); may be scarce now. Unverified catalog id.",
+      "source": "facebook_group",
+      "url": "https://www.facebook.com/groups/inciardiprints"
     }
   ]
 }

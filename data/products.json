@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12T18:00:00-07:00",
+  "updated_at": "2026-09-12T22:00:00-07:00",
   "source_threads": [
     "https://www.facebook.com/groups/inciardiprints/permalink/1100456905820152/",
     "https://www.facebook.com/groups/inciardiprints/posts/1100359625829880/",
@@ -10,7 +10,7 @@
     "https://www.facebook.com/messages/t/2020802802013925/",
     "https://www.facebook.com/messages/t/2158831965046995/"
   ],
-  "product_count": 80,
+  "product_count": 81,
   "products": [
     {
       "signal_type": "accessory_recommendation",
@@ -993,6 +993,27 @@
         }
       ],
       "notes": "Page showed Sold out / ~$150 at 2026-09-12 evening check"
+    },
+    {
+      "signal_type": "accessory_recommendation",
+      "product_name": "Mini calendar holder (display stand)",
+      "category": "display",
+      "url": null,
+      "asin": null,
+      "merchant": "other",
+      "source": "messenger",
+      "thread_url": "https://www.facebook.com/messages/t/2158831965046995/",
+      "evidence": "community member, ~9:04 PM PT",
+      "confidence": "medium",
+      "mention_count": 1,
+      "last_seen": "2026-09-12T21:04:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-12T21:04:00-07:00",
+          "source": "messenger",
+          "url": "https://www.facebook.com/messages/t/2158831965046995/"
+        }
+      ]
     }
   ],
   "asins_found": [
