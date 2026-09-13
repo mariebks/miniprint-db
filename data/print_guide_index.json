@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T14:35:00-07:00",
+  "updated_at": "2026-09-13T16:38:18-07:00",
   "prints": {
     "common-mystery-pack": {
       "id": null,
@@ -214,7 +214,7 @@
       "fair_trade_notes": [],
       "trade_examples": [],
       "release_notes": [
-        "Discussion suggested smaller 4–5-print packs are easier to sell because buyers spend less upfront."
+        "Discussion suggested smaller 4\u20135-print packs are easier to sell because buyers spend less upfront."
       ],
       "ooc": false,
       "signal_count": 1,
@@ -271,7 +271,7 @@
       "release_notes": [
         "A community member: only 3 of /100 numbered smileys accounted for as of Sep 6 evening; further claims speculative.",
         "A community member: four consecutive-number eBay listings appeared; two taken down; seller account noted as brand new.",
-        "Harry x Ana pop-up: 100 numbered hand-signed Smileys; community tracker at miniprint.io/smiley; discussion currently says 100 total across varied colors (not 100 per color) — unverified conflicts remain (FB group 2026-09-10 ~9 PM PT)."
+        "Harry x Ana pop-up: 100 numbered hand-signed Smileys; community tracker at miniprint.io/smiley; discussion currently says 100 total across varied colors (not 100 per color) \u2014 unverified conflicts remain (FB group 2026-09-10 ~9 PM PT)."
       ],
       "ooc": false,
       "signal_count": 6,
@@ -790,7 +790,7 @@
       "rarity_basis": "community",
       "fair_trade_notes": [
         "Community ISO framed Sept MPCC / catalog prints as 1:1 catalog-for-catalog trades, listing customs separately.",
-        "2026-09-12 group ISO: MPCC/catalog still framed as 1:1 catalog↔catalog; customs/OOC listed separately as multi-for-one targets."
+        "2026-09-12 group ISO: MPCC/catalog still framed as 1:1 catalog\u2194catalog; customs/OOC listed separately as multi-for-one targets."
       ],
       "trade_examples": [],
       "release_notes": [
@@ -921,11 +921,12 @@
       ],
       "trade_examples": [],
       "release_notes": [
-        "2026-09-13 Messenger: NYU torch said identical to arch; limited to student events (alumni eligibility unanswered)."
+        "2026-09-13 Messenger: NYU torch said identical to arch; limited to student events (alumni eligibility unanswered).",
+        "2026-09-13 ~4:15 PT FB group: Arc/arch shown with NYU Torch; comments say Arc back as machine returns (location unconfirmed)."
       ],
       "ooc": false,
-      "signal_count": 2,
-      "last_signal_at": "2026-09-13T14:35:00-07:00",
+      "signal_count": 3,
+      "last_signal_at": "2026-09-13T16:15:00-07:00",
       "citations": [
         {
           "ts": "2026-09-11T10:00:00-07:00",
@@ -936,6 +937,11 @@
           "ts": "2026-09-13T14:35:00-07:00",
           "source": "messenger",
           "url": "https://www.facebook.com/messages/t/735459129506731/"
+        },
+        {
+          "ts": "2026-09-13T16:15:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1103817808817395/"
         }
       ],
       "aliases": [
@@ -1067,7 +1073,7 @@
       "fair_trade_notes": [],
       "trade_examples": [],
       "release_notes": [
-        "2026-09-11 Messenger Print Variants: possible variant with orange spot left of red buoy vs absent; discussion floated ~4–5 variants (unverified)."
+        "2026-09-11 Messenger Print Variants: possible variant with orange spot left of red buoy vs absent; discussion floated ~4\u20135 variants (unverified)."
       ],
       "ooc": false,
       "signal_count": 1,
@@ -1979,26 +1985,55 @@
     },
     "nyu-torch": {
       "id": null,
-      "name": "NYU torch",
+      "name": "NYU Torch",
       "type": "custom",
       "rarity_label": "Unknown",
       "rarity_basis": "community",
       "fair_trade_notes": [],
       "trade_examples": [],
       "release_notes": [
-        "2026-09-13: community says same design as Wash Arch; student-event limited."
+        "2026-09-13: community says same design as Wash Arch; student-event limited.",
+        "2026-09-13 ~4:15 PT FB group: photo evidence; comments call it newly released NYU custom; machine back out (location unconfirmed)."
       ],
       "ooc": false,
-      "signal_count": 1,
+      "signal_count": 2,
       "citations": [
         {
           "ts": "2026-09-13T14:35:00-07:00",
           "source": "messenger",
           "url": "https://www.facebook.com/messages/t/735459129506731/"
+        },
+        {
+          "ts": "2026-09-13T16:15:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1103817808817395/"
         }
       ],
       "same_as": "Wash Arch",
-      "last_signal_at": "2026-09-13T14:35:00-07:00"
+      "last_signal_at": "2026-09-13T16:15:00-07:00"
+    },
+    "arc": {
+      "id": null,
+      "name": "Arc",
+      "type": "custom",
+      "rarity_label": "Unknown",
+      "rarity_basis": "community",
+      "fair_trade_notes": [],
+      "trade_examples": [],
+      "release_notes": [
+        "Likely same as Wash Arch / NYU arch; see wash-arch and nyu-torch.",
+        "2026-09-13 ~4:15 PT FB group: Arc/arch shown with NYU Torch; comments say Arc back as machine returns (location unconfirmed)."
+      ],
+      "ooc": false,
+      "signal_count": 1,
+      "last_signal_at": "2026-09-13T16:15:00-07:00",
+      "citations": [
+        {
+          "ts": "2026-09-13T16:15:00-07:00",
+          "source": "facebook_group",
+          "url": "https://www.facebook.com/groups/inciardiprints/posts/1103817808817395/"
+        }
+      ]
     }
   },
   "global_tips": [
@@ -2033,7 +2068,7 @@
     {
       "id": "regular-miniprint-size-atc",
       "topic": "storage",
-      "text": "Regular mini prints are 2.5×3.5 inches (standard art trading-card size) and fit standard sleeves and binders; Vault X binders were mentioned as fitting.",
+      "text": "Regular mini prints are 2.5\u00d73.5 inches (standard art trading-card size) and fit standard sleeves and binders; Vault X binders were mentioned as fitting.",
       "confidence": "high",
       "signal_count": 1,
       "last_signal_at": "2026-09-08T10:35:00-07:00",
@@ -2188,7 +2223,7 @@
     {
       "id": "mpcc-catalog-1to1-2026-09-11",
       "topic": "fair_trade",
-      "text": "Community framing (2026-09-11): Sept MPCC / catalog prints often requested 1:1 catalog↔catalog; customs listed separately rather than mixed into the 1:1 catalog ask.",
+      "text": "Community framing (2026-09-11): Sept MPCC / catalog prints often requested 1:1 catalog\u2194catalog; customs listed separately rather than mixed into the 1:1 catalog ask.",
       "confidence": "medium",
       "signal_count": 1,
       "last_signal_at": "2026-09-11T06:00:00-07:00",
@@ -2218,7 +2253,7 @@
     {
       "id": "emporium-list-pinned-spreadsheet-2026-09-11",
       "topic": "catalog_reference",
-      "text": "Community pointer (2026-09-11): Emporium print list is referenced via the spreadsheet in the Facebook group’s pinned section.",
+      "text": "Community pointer (2026-09-11): Emporium print list is referenced via the spreadsheet in the Facebook group\u2019s pinned section.",
       "confidence": "medium",
       "signal_count": 1,
       "last_signal_at": "2026-09-11T10:00:00-07:00",
@@ -2278,7 +2313,7 @@
     {
       "id": "blue-lobster-ooc-2026-09-11",
       "topic": "ooc_note",
-      "text": "Community (2026-09-11): Blue Lobster treated as OOC/rare and unlikely to sell openly; fair trade framed as OOC↔OOC; Pinecone called out as currently in multiple machines.",
+      "text": "Community (2026-09-11): Blue Lobster treated as OOC/rare and unlikely to sell openly; fair trade framed as OOC\u2194OOC; Pinecone called out as currently in multiple machines.",
       "confidence": "medium",
       "signal_count": 1,
       "last_signal_at": "2026-09-11T18:00:00-07:00",
@@ -2345,7 +2380,7 @@
     {
       "id": "little-shop-nyc-united-we-stand-2026-09-12",
       "topic": "release_note",
-      "text": "Community (2026-09-12): “United We Stand / September 11, 2001” described as a new print from The Little Shop in NYC; whether still in machines was unanswered.",
+      "text": "Community (2026-09-12): \u201cUnited We Stand / September 11, 2001\u201d described as a new print from The Little Shop in NYC; whether still in machines was unanswered.",
       "confidence": "medium",
       "signal_count": 1,
       "last_signal_at": "2026-09-12T10:00:00-07:00",
