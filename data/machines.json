@@ -9437,70 +9437,30 @@
     "available_print_count": 11,
     "prints_available": [
       {
-        "id": "1787176324578x850129546309761500",
-        "name": "Butter!",
-        "printType": "catalog"
-      },
-      {
-        "id": "1787176420394x513691271875907700",
-        "name": "Sushi",
-        "printType": null
-      },
-      {
-        "id": "1787176420397x334298976101204540",
-        "name": "Tape",
-        "printType": null
-      },
-      {
-        "id": "1787176420432x869877683130962300",
+        "id": null,
         "name": "Tomatoes",
         "printType": null
       },
       {
-        "id": "1787176420146x347710633702142500",
-        "name": "Scissors",
-        "printType": null
-      },
-      {
-        "id": "1787176419820x794297364122849700",
-        "name": "Pencil",
-        "printType": "catalog"
-      },
-      {
-        "id": "1787176324582x349665115730709100",
-        "name": "Cake",
-        "printType": "catalog"
-      },
-      {
-        "id": "1787176420429x507918931052936800",
+        "id": null,
         "name": "Tinned Fish",
         "printType": null
       },
       {
-        "id": "1787176420848x363032908885581250",
-        "name": "Trollius",
+        "id": null,
+        "name": "Scissors",
         "printType": null
-      },
-      {
-        "id": "1787176420122x769445222834133100",
-        "name": "Rainbow Sprinkles",
-        "printType": null
-      },
-      {
-        "id": "1787176324429x117607640754344270",
-        "name": "Barn Swallow",
-        "printType": "catalog"
       }
     ],
     "parking": "",
-    "nearby": "2026-09-12 IG @inciardimachines (~1w): machine live at Modern Love, 39 Bridge St, Frenchtown NJ; daily 10am\u20136pm; quarters only; wheelchair accessible. ",
+    "nearby": "2026-09-13 CONCRETE (IG Sep 4, 2026 dispensed cards): Tomatoes, Tinned Fish, Scissors visible on pulled cards. Panel thumbnails not readable as names. Prior 11-name Sep 4 seed list removed \u2014 not verified as full current inventory. Posts: https://www.instagram.com/modernlovefrenchtown/p/Dc3xbFuEZTb/ and https://www.instagram.com/inciardimachines/p/Dc3tNqRm8Xw/",
     "website": "https://shopmodernlove.com/",
     "instagram": "modernlovefrenchtown",
     "richard_scarry": false,
     "popup_event": false,
-    "last_updated": "2026-09-12T14:00:00-07:00",
+    "last_updated": "2026-09-13T01:10:00-07:00",
     "last_source": "instagram",
-    "source_url": "https://www.instagram.com/inciardimachines/"
+    "source_url": "https://www.instagram.com/modernlovefrenchtown/p/Dc3xbFuEZTb/"
   },
   {
     "id": "1787165942707x579366317153275000",
