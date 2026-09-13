@@ -84,3 +84,7 @@ New York, NY
 - status: active
 - stock: out_of_stock
 - source: https://miniprintdatabase.com/machine_details/1787765241025x409423952306396740
+
+## Updates
+
+- 2026-09-12T18:00:00-07:00: Messenger — line closed ~5:15 PM; token sales reportedly stop by 5 PM or earlier (varies). Anonymous community report.
