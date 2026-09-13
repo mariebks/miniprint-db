@@ -13367,14 +13367,14 @@
       }
     ],
     "parking": "",
-    "nearby": "",
+    "nearby": "2026-09-13 OSINT (last ~30d): No public restock/new-print list. @anothercorner_co Sep 10 post = books only. Apr 10 2026 meetup reel comments still said not restocked yet (\"When it is we will post!\"). Last named restock chatter on shop IG was Sep 24 2025 (~9 prints; commenter guesses only). No FB/Messenger Another Corner hits in Bot scrapes Aug 14\u2013Sep 13. prints_available below is STALE seed from miniprintdatabase (last_updated 2026-08-08) \u2014 do not treat as current inventory.",
     "website": "https://www.anothercorner.co/",
     "instagram": "anothercorner_co",
     "richard_scarry": false,
     "popup_event": false,
-    "last_updated": "2026-08-08T00:00:00.000Z",
-    "last_source": "miniprintdatabase.com audit 2026-09-08",
-    "source_url": "https://miniprintdatabase.com/machine_details/1787165942463x648941746286869900"
+    "last_updated": "2026-09-13T00:45:00-07:00",
+    "last_source": "instagram+osint",
+    "source_url": "https://www.instagram.com/anothercorner_co/reel/DW9IVRLj0nX/"
   },
   {
     "id": "1787165942463x921977185351884500",
