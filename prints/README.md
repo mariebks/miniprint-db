@@ -1,0 +1,23 @@
+# Prints catalog (where listings live)
+
+Print **listings** are in [`data/prints.json`](../data/prints.json) (not under `machines/`).
+Print Keep / the site viewer should load that file from:
+
+https://raw.githubusercontent.com/mariebks/miniprint-db/main/data/prints.json
+
+To attach an image later: add the file under `data/print-images/…` and set the print’s `image` field to the raw GitHub URL (same pattern as LFF Eagles).
+
+## MPCC — August 2026
+
+| Name | id | image |
+| --- | --- | --- |
+| Cantaloupe | `1787176421316x585923838389041500` | https://b1373c1667a2fd0f3233d1cef68debed.cdn.bubble.io/f1787517516307x876795474612828800/Cantaloupe__1787176421316x585923838389041500.jpg |
+| Egg in Pan | `1787176421319x997472153083631900` | https://b1373c1667a2fd0f3233d1cef68debed.cdn.bubble.io/f1787517649287x735256244520102500/Egg%20in%20Pan__1787176421319x997472153083631900.jpg |
+| Lil Butter | `1787176421318x963345708599880100` | https://b1373c1667a2fd0f3233d1cef68debed.cdn.bubble.io/f1787517832127x157620443040200830/Lil%20Butter__1787176421318x963345708599880100.png |
+| Pear | `1787176421317x921181905993081100` | https://b1373c1667a2fd0f3233d1cef68debed.cdn.bubble.io/f1787517954842x244581358063956400/Pear__1787176421317x921181905993081100.jpg |
+| Toaster | `mpcc-aug-2026-a9844ce9093237b1` | _null_ |
+
+## LFF Eagles exclusives
+
+Photos + listings: [`data/print-images/lff-eagles/`](../data/print-images/lff-eagles/) · filter `prints.json` by `customMachine` = `Lincoln Financial Field`.
+
