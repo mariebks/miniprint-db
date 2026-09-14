@@ -1,14 +1,14 @@
 ---
 id: 1789252800003x900000000000000003
-name: Lincoln Financial Field — Section 113
-venue: Lincoln Financial Field — Section 113
+name: Lincoln Financial Field — Section 117
+venue: Lincoln Financial Field — Section 117
 city: Philadelphia
 state: PA
-address: "Lincoln Financial Field, Section 113, Philadelphia, PA"
+address: "Lincoln Financial Field, Section 117, Philadelphia, PA"
 zip: 19148
 latitude: 39.900764
 longitude: -75.167441
-status: active
+status: out_of_stock
 stock_status: in_stock
 waiting_for_restock: false
 payment_type: tokens
@@ -27,7 +27,7 @@ last_source: messenger+tiktok
 source_url: "https://www.philadelphiaeagles.com/news/eagles-fans-can-get-exclusive-inciardi-prints"
 ---
 
-# Lincoln Financial Field — Section 113
+# Lincoln Financial Field — Section 117
 
 Philadelphia, PA
 
@@ -44,3 +44,10 @@ Philadelphia, PA
 - payment: tokens available at Pro Shop locations; $1 per print
 - designs: 7 exclusive Philly/Eagles designs; more to be added through the season
 - source: web | https://www.philadelphiaeagles.com/news/eagles-fans-can-get-exclusive-inciardi-prints
+
+## Update 2026-09-13T17:52:59-07:00
+- Source: facebook_group + messenger
+- Stock: out_of_stock (out of tokens during game; all LFF locations)
+- Signage locations: Pepsi Plaza / Section 107 / Section 117
+- Messenger photos confirm four-print set incl. panel label Salty Shnout (= Salty Shortest)
+- Thread: https://www.facebook.com/groups/inciardiprints/posts/1103851558814020/

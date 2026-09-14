@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13T16:38:18-07:00",
+  "updated_at": "2026-09-13T17:52:59-07:00",
   "prints": {
     "common-mystery-pack": {
       "id": null,
@@ -2034,6 +2034,19 @@
           "url": "https://www.facebook.com/groups/inciardiprints/posts/1103817808817395/"
         }
       ]
+    },
+    "Salty Shortest": {
+      "name": "Salty Shortest",
+      "aliases": [
+        "Salty Shnout"
+      ],
+      "tags": [
+        "eagles",
+        "lff",
+        "exclusive"
+      ],
+      "notes": "2026-09-13 Messenger LFF panel photo labeled Salty Shnout",
+      "first_seen": "2026-09-13T17:52:59-07:00"
     }
   },
   "global_tips": [
