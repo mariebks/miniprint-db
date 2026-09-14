@@ -5285,7 +5285,7 @@
     "printType": "custom",
     "collection": null,
     "customMachine": "Lincoln Financial Field",
-    "image": null,
+    "image": "https://raw.githubusercontent.com/mariebks/miniprint-db/main/data/print-images/lff-eagles/billy-bird.jpeg",
     "releaseDate": "2026-09-13T00:00:00.000Z",
     "spoiler": false,
     "currentMachineCount": 1
@@ -5296,7 +5296,7 @@
     "printType": "custom",
     "collection": null,
     "customMachine": "Lincoln Financial Field",
-    "image": null,
+    "image": "https://raw.githubusercontent.com/mariebks/miniprint-db/main/data/print-images/lff-eagles/so-fly.jpeg",
     "releaseDate": "2026-09-13T00:00:00.000Z",
     "spoiler": false,
     "currentMachineCount": 1
@@ -5307,7 +5307,7 @@
     "printType": "custom",
     "collection": null,
     "customMachine": "Lincoln Financial Field",
-    "image": null,
+    "image": "https://raw.githubusercontent.com/mariebks/miniprint-db/main/data/print-images/lff-eagles/bird-bell.jpeg",
     "releaseDate": "2026-09-13T00:00:00.000Z",
     "spoiler": false,
     "currentMachineCount": 1
@@ -5318,7 +5318,7 @@
     "printType": "custom",
     "collection": null,
     "customMachine": "Lincoln Financial Field",
-    "image": null,
+    "image": "https://raw.githubusercontent.com/mariebks/miniprint-db/main/data/print-images/lff-eagles/spread-the-word.jpeg",
     "releaseDate": "2026-09-13T00:00:00.000Z",
     "spoiler": false,
     "currentMachineCount": 1
@@ -5329,7 +5329,7 @@
     "printType": "custom",
     "collection": null,
     "customMachine": "Lincoln Financial Field",
-    "image": null,
+    "image": "https://raw.githubusercontent.com/mariebks/miniprint-db/main/data/print-images/lff-eagles/victory.jpeg",
     "releaseDate": "2026-09-13T00:00:00.000Z",
     "spoiler": false,
     "currentMachineCount": 1
@@ -5340,7 +5340,7 @@
     "printType": "custom",
     "collection": null,
     "customMachine": "Lincoln Financial Field",
-    "image": null,
+    "image": "https://raw.githubusercontent.com/mariebks/miniprint-db/main/data/print-images/lff-eagles/salty-shoutout.jpeg",
     "releaseDate": "2026-09-13T00:00:00.000Z",
     "spoiler": false,
     "currentMachineCount": 1
@@ -5351,7 +5351,7 @@
     "printType": "custom",
     "collection": null,
     "customMachine": "Lincoln Financial Field",
-    "image": null,
+    "image": "https://raw.githubusercontent.com/mariebks/miniprint-db/main/data/print-images/lff-eagles/whiz-win.jpeg",
     "releaseDate": "2026-09-13T00:00:00.000Z",
     "spoiler": false,
     "currentMachineCount": 1
