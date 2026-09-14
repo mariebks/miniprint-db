@@ -5355,5 +5355,16 @@
     "releaseDate": "2026-09-13T00:00:00.000Z",
     "spoiler": false,
     "currentMachineCount": 1
+  },
+  "mpcc-aug-2026-a9844ce9093237b1": {
+    "id": "mpcc-aug-2026-a9844ce9093237b1",
+    "name": "Toaster",
+    "printType": "catalog",
+    "collection": "MPCC - August 2026",
+    "customMachine": null,
+    "image": null,
+    "releaseDate": "2026-08-12T04:00:00.000Z",
+    "spoiler": false,
+    "currentMachineCount": 0
   }
 }
