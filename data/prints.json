@@ -5278,5 +5278,82 @@
     "releaseDate": null,
     "spoiler": false,
     "currentMachineCount": 0
+  },
+  "photo-lff-20260913-2d97d42ae07b59e4": {
+    "id": "photo-lff-20260913-2d97d42ae07b59e4",
+    "name": "Billy Bird",
+    "printType": "custom",
+    "collection": null,
+    "customMachine": "Lincoln Financial Field",
+    "image": null,
+    "releaseDate": "2026-09-13T00:00:00.000Z",
+    "spoiler": false,
+    "currentMachineCount": 1
+  },
+  "photo-lff-20260913-04635f0400c43fc1": {
+    "id": "photo-lff-20260913-04635f0400c43fc1",
+    "name": "So Fly",
+    "printType": "custom",
+    "collection": null,
+    "customMachine": "Lincoln Financial Field",
+    "image": null,
+    "releaseDate": "2026-09-13T00:00:00.000Z",
+    "spoiler": false,
+    "currentMachineCount": 1
+  },
+  "photo-lff-20260913-74a5e500f0a759d0": {
+    "id": "photo-lff-20260913-74a5e500f0a759d0",
+    "name": "Bird Bell",
+    "printType": "custom",
+    "collection": null,
+    "customMachine": "Lincoln Financial Field",
+    "image": null,
+    "releaseDate": "2026-09-13T00:00:00.000Z",
+    "spoiler": false,
+    "currentMachineCount": 1
+  },
+  "photo-lff-20260913-53460265d34846f9": {
+    "id": "photo-lff-20260913-53460265d34846f9",
+    "name": "Spread the Word",
+    "printType": "custom",
+    "collection": null,
+    "customMachine": "Lincoln Financial Field",
+    "image": null,
+    "releaseDate": "2026-09-13T00:00:00.000Z",
+    "spoiler": false,
+    "currentMachineCount": 1
+  },
+  "photo-lff-20260913-e71f1539a41b0a13": {
+    "id": "photo-lff-20260913-e71f1539a41b0a13",
+    "name": "Victory",
+    "printType": "custom",
+    "collection": null,
+    "customMachine": "Lincoln Financial Field",
+    "image": null,
+    "releaseDate": "2026-09-13T00:00:00.000Z",
+    "spoiler": false,
+    "currentMachineCount": 1
+  },
+  "photo-lff-20260913-c28182964f7d7d1c": {
+    "id": "photo-lff-20260913-c28182964f7d7d1c",
+    "name": "Salty Shoutout",
+    "printType": "custom",
+    "collection": null,
+    "customMachine": "Lincoln Financial Field",
+    "image": null,
+    "releaseDate": "2026-09-13T00:00:00.000Z",
+    "spoiler": false,
+    "currentMachineCount": 1
+  },
+  "photo-lff-20260913-5914ee754e0df307": {
+    "id": "photo-lff-20260913-5914ee754e0df307",
+    "name": "Whiz Win",
+    "printType": "custom",
+    "collection": null,
+    "customMachine": "Lincoln Financial Field",
+    "image": null,
+    "releaseDate": "2026-09-13T00:00:00.000Z",
+    "spoiler": false,
+    "currentMachineCount": 1
   }
 }
