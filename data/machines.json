@@ -16732,11 +16732,11 @@
   },
   {
     "id": "1789252800001x900000000000000001",
-    "name": "Lincoln Financial Field — Pepsi Plaza",
-    "venue": "Lincoln Financial Field — Pepsi Plaza",
+    "name": "Lincoln Financial Field",
+    "venue": "Lincoln Financial Field",
     "city": "Philadelphia",
     "state": "PA",
-    "address": "Lincoln Financial Field, Pepsi Plaza, Philadelphia, PA",
+    "address": "Lincoln Financial Field, Philadelphia, PA",
     "zip": "19148",
     "latitude": 39.900764,
     "longitude": -75.167441,
@@ -16794,163 +16794,14 @@
         "source": "user_photo_handwritten_title_2026-09-13"
       }
     ],
-    "parking": "Gameday only starting Sun 2026-09-13; tokens at Pro Shop locations; $1 per print",
-    "nearby": "2026-09-13 ~5:25pm PT: FB group comments report ALL LFF locations out of tokens during game (Pepsi Plaza / 107 / 117). | Official Eagles article: first NFL collab; three machines Pepsi Plaza / 107 / 113; more prints throughout season. 2026-09-13 6am multi-source: no fresh on-floor stock/list yet on game day; public coverage still cites 3 machines (Pepsi Plaza / 107 / 113) and up to 7 exclusive designs. 2026-09-13 game day: still no concrete named exclusives / on-site stock confirmation in this sweep. | Confirmed LFF/Eagles exclusives from pulled-card photos 2026-09-13: Billy Bird, So Fly, Bird Bell, Spread the Word, Victory, Salty Shoutout, Whiz Win.",
+    "parking": "Section 107 or Section 113 (see notes)",
+    "nearby": "Single LFF entry (user 2026-09-13): do not list separate machines per plaza/section. In-stadium locations noted as Section 107 or Section 113. Official Eagles article also mentioned Pepsi Plaza; community/signage has disputed 113 vs 117 — user guidance is 107 or 113. Tokens at Pro Shop; up to 7 exclusives; more designs through season. Confirmed exclusives from pulled-card photos: Billy Bird, So Fly, Bird Bell, Spread the Word, Victory, Salty Shoutout, Whiz Win.",
     "website": "https://www.philadelphiaeagles.com/news/eagles-fans-can-get-exclusive-inciardi-prints",
     "instagram": "eagles",
     "richard_scarry": false,
     "popup_event": true,
-    "last_updated": "2026-09-14T04:08:47.000Z",
-    "last_source": "user_photos_handwritten_titles",
+    "last_updated": "2026-09-14T04:32:54.000Z",
+    "last_source": "user_consolidate_2026-09-13",
     "source_url": "https://www.facebook.com/messages/t/1918070145555018"
-  },
-  {
-    "id": "1789252800002x900000000000000002",
-    "name": "Lincoln Financial Field — Section 107",
-    "venue": "Lincoln Financial Field — Section 107",
-    "city": "Philadelphia",
-    "state": "PA",
-    "address": "Lincoln Financial Field, Section 107, Philadelphia, PA",
-    "zip": "19148",
-    "latitude": 39.900764,
-    "longitude": -75.167441,
-    "status": "active",
-    "stock_status": "out_of_stock",
-    "waiting_for_restock": true,
-    "payment_type": "tokens",
-    "pull_limit": null,
-    "print_types": [
-      "Pop Up Event",
-      "Exclusive"
-    ],
-    "available_print_count": 7,
-    "prints_available": [
-      {
-        "id": "photo-lff-20260913-2d97d42ae07b59e4",
-        "name": "Billy Bird",
-        "printType": "custom",
-        "source": "user_photo_handwritten_title_2026-09-13"
-      },
-      {
-        "id": "photo-lff-20260913-04635f0400c43fc1",
-        "name": "So Fly",
-        "printType": "custom",
-        "source": "user_photo_handwritten_title_2026-09-13"
-      },
-      {
-        "id": "photo-lff-20260913-74a5e500f0a759d0",
-        "name": "Bird Bell",
-        "printType": "custom",
-        "source": "user_photo_handwritten_title_2026-09-13"
-      },
-      {
-        "id": "photo-lff-20260913-53460265d34846f9",
-        "name": "Spread the Word",
-        "printType": "custom",
-        "source": "user_photo_handwritten_title_2026-09-13"
-      },
-      {
-        "id": "photo-lff-20260913-e71f1539a41b0a13",
-        "name": "Victory",
-        "printType": "custom",
-        "source": "user_photo_handwritten_title_2026-09-13"
-      },
-      {
-        "id": "photo-lff-20260913-c28182964f7d7d1c",
-        "name": "Salty Shoutout",
-        "printType": "custom",
-        "source": "user_photo_handwritten_title_2026-09-13"
-      },
-      {
-        "id": "photo-lff-20260913-5914ee754e0df307",
-        "name": "Whiz Win",
-        "printType": "custom",
-        "source": "user_photo_handwritten_title_2026-09-13"
-      }
-    ],
-    "parking": "Gameday only starting Sun 2026-09-13; tokens at Pro Shop locations; $1 per print",
-    "nearby": "2026-09-13 ~5:25pm PT: FB group comments report ALL LFF locations out of tokens during game (Pepsi Plaza / 107 / 117). | Official Eagles article: first NFL collab; three machines Pepsi Plaza / 107 / 113; more prints throughout season. 2026-09-13 6am multi-source: no fresh on-floor stock/list yet on game day; public coverage still cites 3 machines (Pepsi Plaza / 107 / 113) and up to 7 exclusive designs. 2026-09-13 game day: still no concrete named exclusives / on-site stock confirmation in this sweep. | Confirmed LFF/Eagles exclusives from pulled-card photos 2026-09-13: Billy Bird, So Fly, Bird Bell, Spread the Word, Victory, Salty Shoutout, Whiz Win.",
-    "website": "https://www.philadelphiaeagles.com/news/eagles-fans-can-get-exclusive-inciardi-prints",
-    "instagram": "eagles",
-    "richard_scarry": false,
-    "popup_event": true,
-    "last_updated": "2026-09-14T04:08:47.000Z",
-    "last_source": "user_photos_handwritten_titles",
-    "source_url": "https://www.facebook.com/messages/t/1918070145555018"
-  },
-  {
-    "id": "1789252800003x900000000000000003",
-    "name": "Lincoln Financial Field — Section 117",
-    "venue": "Lincoln Financial Field — Section 117",
-    "city": "Philadelphia",
-    "state": "PA",
-    "address": "Lincoln Financial Field, Section 117, Philadelphia, PA",
-    "zip": "19148",
-    "latitude": 39.900764,
-    "longitude": -75.167441,
-    "status": "active",
-    "stock_status": "out_of_stock",
-    "waiting_for_restock": true,
-    "payment_type": "tokens",
-    "pull_limit": null,
-    "print_types": [
-      "Pop Up Event",
-      "Exclusive"
-    ],
-    "available_print_count": 7,
-    "prints_available": [
-      {
-        "id": "photo-lff-20260913-2d97d42ae07b59e4",
-        "name": "Billy Bird",
-        "printType": "custom",
-        "source": "user_photo_handwritten_title_2026-09-13"
-      },
-      {
-        "id": "photo-lff-20260913-04635f0400c43fc1",
-        "name": "So Fly",
-        "printType": "custom",
-        "source": "user_photo_handwritten_title_2026-09-13"
-      },
-      {
-        "id": "photo-lff-20260913-74a5e500f0a759d0",
-        "name": "Bird Bell",
-        "printType": "custom",
-        "source": "user_photo_handwritten_title_2026-09-13"
-      },
-      {
-        "id": "photo-lff-20260913-53460265d34846f9",
-        "name": "Spread the Word",
-        "printType": "custom",
-        "source": "user_photo_handwritten_title_2026-09-13"
-      },
-      {
-        "id": "photo-lff-20260913-e71f1539a41b0a13",
-        "name": "Victory",
-        "printType": "custom",
-        "source": "user_photo_handwritten_title_2026-09-13"
-      },
-      {
-        "id": "photo-lff-20260913-c28182964f7d7d1c",
-        "name": "Salty Shoutout",
-        "printType": "custom",
-        "source": "user_photo_handwritten_title_2026-09-13"
-      },
-      {
-        "id": "photo-lff-20260913-5914ee754e0df307",
-        "name": "Whiz Win",
-        "printType": "custom",
-        "source": "user_photo_handwritten_title_2026-09-13"
-      }
-    ],
-    "parking": "Gameday only starting Sun 2026-09-13; tokens at Pro Shop locations; $1 per print",
-    "nearby": "2026-09-13 ~5:25pm PT: FB group comments report ALL LFF locations out of tokens during game (Pepsi Plaza / 107 / 117). | Official Eagles article: first NFL collab; three machines Pepsi Plaza / 107 / 113; more prints throughout season. 2026-09-13 6am multi-source: no fresh on-floor stock/list yet on game day; public coverage still cites 3 machines (Pepsi Plaza / 107 / 113) and up to 7 exclusive designs. 2026-09-13 game day: still no concrete named exclusives / on-site stock confirmation in this sweep. | Confirmed LFF/Eagles exclusives from pulled-card photos 2026-09-13: Billy Bird, So Fly, Bird Bell, Spread the Word, Victory, Salty Shoutout, Whiz Win.",
-    "website": "https://www.philadelphiaeagles.com/news/eagles-fans-can-get-exclusive-inciardi-prints",
-    "instagram": "eagles",
-    "richard_scarry": false,
-    "popup_event": true,
-    "last_updated": "2026-09-14T04:08:47.000Z",
-    "last_source": "user_photos_handwritten_titles",
-    "source_url": "https://www.facebook.com/messages/t/1918070145555018",
-    "rename_note": "Previously labeled Section 113 from earlier community report; FB group photo+IG Eagles reel signage 2026-09-13 list Pepsi Plaza / 107 / 117."
   }
 ]
