@@ -42,3 +42,11 @@ San Diego, CA — 4153 Adams Ave, San Diego, CA 92116, USA
 - stock_last_updated: 2026-09-02T23:25:55Z
 - available_prints_last_updated: 2026-03-30T04:00:00Z
 - source: https://miniprintdatabase.com/machine_details/1787165941586x828541610583743100
+
+## Inventory update 2026-09-13 (Instagram @home.ec.store)
+- Evidence: host IG post screenshot (~5 days before Sep 13); panel art + caption
+- Payment: 4 quarters = 1 surprise print
+- Named from panel (catalog matches): Pancakes, Daffodils, Crab, Cherries, Orange, Cheez-It, Cup & Saucer, Bunny
+- Caption: "A lil bit o bunnies, a lil bit o cheez-it"
+- Stock: in_stock (new set loaded)
+- Source: https://www.instagram.com/home.ec.store/ (with @bestbudfloral); liked by @inciardimachines
