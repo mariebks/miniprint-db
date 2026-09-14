@@ -51,3 +51,13 @@ Philadelphia, PA
 - Signage locations: Pepsi Plaza / Section 107 / Section 117
 - Messenger photos confirm four-print set incl. panel label Salty Shnout (= Salty Shortest)
 - Thread: https://www.facebook.com/groups/inciardiprints/posts/1103851558814020/
+
+## Inventory update 2026-09-13 (user photos — handwritten titles)
+- Billy Bird
+- So Fly
+- Bird Bell
+- Spread the Word
+- Victory
+- Salty Shoutout
+- Evidence: pulled-card photos with titles + ANA INC
+- Note: prior soft labels S. Fly / Salty Shnout / Philly Bird / Rocky map to So Fly / Salty Shoutout / Billy Bird / Victory
