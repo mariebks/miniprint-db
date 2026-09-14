@@ -60,5 +60,6 @@ Philadelphia, PA
 - Spread the Word
 - Victory
 - Salty Shoutout
+- Whiz Win
 - Evidence: pulled-card photos with titles + ANA INC
 - Note: prior soft labels S. Fly / Salty Shnout / Philly Bird / Rocky map to So Fly / Salty Shoutout / Billy Bird / Victory
