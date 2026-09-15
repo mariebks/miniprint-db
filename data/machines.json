@@ -15513,7 +15513,7 @@
     "latitude": 38.80593723,
     "longitude": -77.05258946,
     "status": "active",
-    "stock_status": "low_stock",
+    "stock_status": "in_stock",
     "waiting_for_restock": false,
     "payment_type": "tokens",
     "pull_limit": "5 prints",
@@ -15579,9 +15579,9 @@
     "instagram": "shoppennypost",
     "richard_scarry": false,
     "popup_event": false,
-    "last_updated": "2026-09-13T09:35:00-07:00",
-    "last_source": "messenger",
-    "source_url": "https://www.facebook.com/messages/t/767267829667957/"
+    "last_updated": "2026-09-15T16:05:00-07:00",
+    "last_source": "instagram",
+    "source_url": "https://www.instagram.com/p/DdUcPnLJMwe/"
   },
   {
     "id": "1787165942690x557653362974131840",
