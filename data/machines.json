@@ -16821,15 +16821,50 @@
         "id": "photo-denison-20260914-945a3ecf5f5300e8",
         "name": "Red-tailed Hawk",
         "printType": "custom"
+      },
+      {
+        "id": "photo-denison-20260914-a85be12db0d04485",
+        "name": "Fern",
+        "printType": "custom"
+      },
+      {
+        "id": "photo-denison-20260914-618a29c09990c575",
+        "name": "Robin's Nest",
+        "printType": "custom"
+      },
+      {
+        "id": "photo-denison-20260914-a09dcd3ca01004df",
+        "name": "Horseshoe Crab",
+        "printType": "custom"
+      },
+      {
+        "id": "photo-denison-20260914-572d42f7cb15a502",
+        "name": "Mackerel",
+        "printType": "custom"
+      },
+      {
+        "id": "photo-denison-20260914-8f02f62f10ffaf3a",
+        "name": "Black Swallowtail",
+        "printType": "custom"
+      },
+      {
+        "id": "photo-denison-20260914-cf88c106f2c3ecd6",
+        "name": "Salamander",
+        "printType": "custom"
+      },
+      {
+        "id": "photo-denison-20260914-055476f28d4432f8",
+        "name": "Spring Peeper",
+        "printType": "custom"
       }
     ],
     "parking": null,
-    "nearby": "Red wall-mounted token machine inside the nature center. 2 x $1 tokens = 1 surprise print. Eight nature-exclusive subjects on panel: Red-tailed Hawk (formal title confirmed 2026-09-14, archive photo pending), plus fern, bird nest, horseshoe crab, black swallowtail butterfly, yellow-spotted salamander, mackerel, frog (descriptive, not formal titles).",
+    "nearby": "Red wall-mounted token machine inside the nature center. 2 x $1 tokens = 1 surprise print. Eight nature-exclusive subjects, all formal titles confirmed 2026-09-14: Red-tailed Hawk (archived with photo), Fern, Robin's Nest, Horseshoe Crab, Mackerel, Black Swallowtail, Salamander, Spring Peeper (archive photos pending).",
     "website": null,
     "instagram": "dpnaturectr",
     "richard_scarry": false,
     "popup_event": false,
-    "last_updated": "2026-09-15T05:50:00.000Z",
+    "last_updated": "2026-09-15T05:55:00.000Z",
     "last_source": "user",
     "source_url": null
   }
