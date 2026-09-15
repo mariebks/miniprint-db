@@ -13249,7 +13249,7 @@
     "zip": "19147",
     "latitude": 39.94168201,
     "longitude": -75.15258702,
-    "status": "active",
+    "status": "retired",
     "stock_status": "out_of_stock",
     "waiting_for_restock": false,
     "payment_type": "quarters",
@@ -13306,12 +13306,12 @@
       }
     ],
     "parking": "",
-    "nearby": "2026-09-13 OSINT (last ~30d): No public restock/new-print list. @anothercorner_co Sep 10 post = books only. Apr 10 2026 meetup reel comments still said not restocked yet (\"When it is we will post!\"). Last named restock chatter on shop IG was Sep 24 2025 (~9 prints; commenter guesses only). No FB/Messenger Another Corner hits in Bot scrapes Aug 14–Sep 13. prints_available below is STALE seed from miniprintdatabase (last_updated 2026-08-08) — do not treat as current inventory.",
+    "nearby": "Residency ended. Host IG post 2026-09-13 ~10:53am PT announced the conclusion ('the end of an era'); photo shows red machine with SOLD OUT note. Marked retired 2026-09-15. 2026-09-13 OSINT (last ~30d): No public restock/new-print list. @anothercorner_co Sep 10 post = books only. Apr 10 2026 meetup reel comments still said not restocked yet (\"When it is we will post!\"). Last named restock chatter on shop IG was Sep 24 2025 (~9 prints; commenter guesses only). No FB/Messenger Another Corner hits in Bot scrapes Aug 14–Sep 13. prints_available below is STALE seed from miniprintdatabase (last_updated 2026-08-08) — do not treat as current inventory.",
     "website": "https://www.anothercorner.co/",
     "instagram": "anothercorner_co",
     "richard_scarry": false,
     "popup_event": false,
-    "last_updated": "2026-09-13T13:49:46-07:00",
+    "last_updated": "2026-09-15T10:10:00.000Z",
     "last_source": "messenger",
     "source_url": "https://www.facebook.com/messages/t/767267829667957",
     "seasonal_close_note": "Inciardi run ending (community photo/caption 2026-09-13)"
