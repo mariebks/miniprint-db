@@ -756,7 +756,7 @@
     "image": "//b1373c1667a2fd0f3233d1cef68debed.cdn.bubble.io/f1787517452153x839360330133614300/Black%20Swallowtail__1787176324562x479136291773875700.png",
     "releaseDate": null,
     "spoiler": false,
-    "currentMachineCount": 7
+    "currentMachineCount": 8
   },
   "1787176324563x541308265066287300": {
     "id": "1787176324563x541308265066287300",
@@ -2802,7 +2802,7 @@
     "image": "//b1373c1667a2fd0f3233d1cef68debed.cdn.bubble.io/f1787517677031x733828656621927800/Fern__1787176324859x395462209511433540.png",
     "releaseDate": null,
     "spoiler": false,
-    "currentMachineCount": 4
+    "currentMachineCount": 5
   },
   "1787176324859x513812771718093600": {
     "id": "1787176324859x513812771718093600",
@@ -3583,7 +3583,7 @@
     "image": "//b1373c1667a2fd0f3233d1cef68debed.cdn.bubble.io/f1787517765556x828757930195087600/Horseshoe%20Crab__1787176325110x364814984932645000.png",
     "releaseDate": null,
     "spoiler": false,
-    "currentMachineCount": 6
+    "currentMachineCount": 7
   },
   "1787176421003x411037274698838900": {
     "id": "1787176421003x411037274698838900",
@@ -4386,7 +4386,7 @@
     "image": "//b1373c1667a2fd0f3233d1cef68debed.cdn.bubble.io/f1787517853758x881719752398229200/Mackerel__1787176325252x351908450533506840.jpg",
     "releaseDate": null,
     "spoiler": false,
-    "currentMachineCount": 5
+    "currentMachineCount": 6
   },
   "1787176421147x839866941867706800": {
     "id": "1787176421147x839866941867706800",
@@ -5374,83 +5374,6 @@
     "collection": null,
     "customMachine": "Denison Pequotsepos Nature Center",
     "image": "https://raw.githubusercontent.com/mariebks/miniprint-db/main/data/print-images/denison-nature-center/red-tailed-hawk.jpg",
-    "releaseDate": "2026-09-14T00:00:00.000Z",
-    "spoiler": false,
-    "currentMachineCount": 1
-  },
-  "photo-denison-20260914-a85be12db0d04485": {
-    "id": "photo-denison-20260914-a85be12db0d04485",
-    "name": "Fern",
-    "printType": "custom",
-    "collection": null,
-    "customMachine": "Denison Pequotsepos Nature Center",
-    "image": null,
-    "releaseDate": "2026-09-14T00:00:00.000Z",
-    "spoiler": false,
-    "currentMachineCount": 1
-  },
-  "photo-denison-20260914-618a29c09990c575": {
-    "id": "photo-denison-20260914-618a29c09990c575",
-    "name": "Robin's Nest",
-    "printType": "custom",
-    "collection": null,
-    "customMachine": "Denison Pequotsepos Nature Center",
-    "image": null,
-    "releaseDate": "2026-09-14T00:00:00.000Z",
-    "spoiler": false,
-    "currentMachineCount": 1
-  },
-  "photo-denison-20260914-a09dcd3ca01004df": {
-    "id": "photo-denison-20260914-a09dcd3ca01004df",
-    "name": "Horseshoe Crab",
-    "printType": "custom",
-    "collection": null,
-    "customMachine": "Denison Pequotsepos Nature Center",
-    "image": null,
-    "releaseDate": "2026-09-14T00:00:00.000Z",
-    "spoiler": false,
-    "currentMachineCount": 1
-  },
-  "photo-denison-20260914-572d42f7cb15a502": {
-    "id": "photo-denison-20260914-572d42f7cb15a502",
-    "name": "Mackerel",
-    "printType": "custom",
-    "collection": null,
-    "customMachine": "Denison Pequotsepos Nature Center",
-    "image": null,
-    "releaseDate": "2026-09-14T00:00:00.000Z",
-    "spoiler": false,
-    "currentMachineCount": 1
-  },
-  "photo-denison-20260914-8f02f62f10ffaf3a": {
-    "id": "photo-denison-20260914-8f02f62f10ffaf3a",
-    "name": "Black Swallowtail",
-    "printType": "custom",
-    "collection": null,
-    "customMachine": "Denison Pequotsepos Nature Center",
-    "image": null,
-    "releaseDate": "2026-09-14T00:00:00.000Z",
-    "spoiler": false,
-    "currentMachineCount": 1
-  },
-  "photo-denison-20260914-cf88c106f2c3ecd6": {
-    "id": "photo-denison-20260914-cf88c106f2c3ecd6",
-    "name": "Salamander",
-    "printType": "custom",
-    "collection": null,
-    "customMachine": "Denison Pequotsepos Nature Center",
-    "image": null,
-    "releaseDate": "2026-09-14T00:00:00.000Z",
-    "spoiler": false,
-    "currentMachineCount": 1
-  },
-  "photo-denison-20260914-055476f28d4432f8": {
-    "id": "photo-denison-20260914-055476f28d4432f8",
-    "name": "Spring Peeper",
-    "printType": "custom",
-    "collection": null,
-    "customMachine": "Denison Pequotsepos Nature Center",
-    "image": null,
     "releaseDate": "2026-09-14T00:00:00.000Z",
     "spoiler": false,
     "currentMachineCount": 1
