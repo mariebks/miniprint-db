@@ -16796,5 +16796,35 @@
     "last_updated": "2026-09-14T04:35:26.000Z",
     "last_source": "user_add_prints_no_images",
     "source_url": "https://www.facebook.com/messages/t/1918070145555018"
+  },
+  {
+    "id": "1789449626302x305834501143524876",
+    "name": "Denison Pequotsepos Nature Center",
+    "venue": "Denison Pequotsepos Nature Center",
+    "city": "Mystic",
+    "state": "CT",
+    "address": "Denison Pequotsepos Nature Center, Mystic, CT",
+    "zip": null,
+    "latitude": null,
+    "longitude": null,
+    "status": "active",
+    "stock_status": "in_stock",
+    "waiting_for_restock": false,
+    "payment_type": "tokens",
+    "pull_limit": null,
+    "print_types": [
+      "Exclusive"
+    ],
+    "available_print_count": 8,
+    "prints_available": [],
+    "parking": null,
+    "nearby": "Red wall-mounted token machine inside the nature center. 2 x $1 tokens = 1 surprise print. Eight nature-exclusive subjects visible in launch carousel (descriptive, not formal titles): fern, Red-tailed Hawk, bird nest, horseshoe crab, black swallowtail butterfly, yellow-spotted salamander, mackerel, frog.",
+    "website": null,
+    "instagram": "dpnaturectr",
+    "richard_scarry": false,
+    "popup_event": false,
+    "last_updated": "2026-09-15T05:32:00.000Z",
+    "last_source": "user",
+    "source_url": null
   }
 ]
