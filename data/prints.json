@@ -5366,5 +5366,16 @@
     "releaseDate": "2026-08-12T04:00:00.000Z",
     "spoiler": false,
     "currentMachineCount": 0
+  },
+  "photo-denison-20260914-945a3ecf5f5300e8": {
+    "id": "photo-denison-20260914-945a3ecf5f5300e8",
+    "name": "Red-tailed Hawk",
+    "printType": "custom",
+    "collection": null,
+    "customMachine": "Denison Pequotsepos Nature Center",
+    "image": "https://raw.githubusercontent.com/mariebks/miniprint-db/main/data/print-images/denison-nature-center/red-tailed-hawk.jpg",
+    "releaseDate": "2026-09-14T00:00:00.000Z",
+    "spoiler": false,
+    "currentMachineCount": 1
   }
 }
