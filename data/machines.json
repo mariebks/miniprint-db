@@ -16823,48 +16823,33 @@
         "printType": "custom"
       },
       {
-        "id": "photo-denison-20260914-a85be12db0d04485",
-        "name": "Fern",
-        "printType": "custom"
-      },
-      {
-        "id": "photo-denison-20260914-618a29c09990c575",
-        "name": "Robin's Nest",
-        "printType": "custom"
-      },
-      {
-        "id": "photo-denison-20260914-a09dcd3ca01004df",
-        "name": "Horseshoe Crab",
-        "printType": "custom"
-      },
-      {
-        "id": "photo-denison-20260914-572d42f7cb15a502",
-        "name": "Mackerel",
-        "printType": "custom"
-      },
-      {
-        "id": "photo-denison-20260914-8f02f62f10ffaf3a",
+        "id": "1787176324562x479136291773875700",
         "name": "Black Swallowtail",
-        "printType": "custom"
+        "printType": "catalog"
       },
       {
-        "id": "photo-denison-20260914-cf88c106f2c3ecd6",
-        "name": "Salamander",
-        "printType": "custom"
+        "id": "1787176324859x395462209511433540",
+        "name": "Fern",
+        "printType": "catalog"
       },
       {
-        "id": "photo-denison-20260914-055476f28d4432f8",
-        "name": "Spring Peeper",
-        "printType": "custom"
+        "id": "1787176325110x364814984932645000",
+        "name": "Horseshoe Crab",
+        "printType": "catalog"
+      },
+      {
+        "id": "1787176325252x351908450533506840",
+        "name": "Mackerel",
+        "printType": "catalog"
       }
     ],
     "parking": null,
-    "nearby": "Red wall-mounted token machine inside the nature center. 2 x $1 tokens = 1 surprise print. Eight nature-exclusive subjects, all formal titles confirmed 2026-09-14: Red-tailed Hawk (archived with photo), Fern, Robin's Nest, Horseshoe Crab, Mackerel, Black Swallowtail, Salamander, Spring Peeper (archive photos pending).",
+    "nearby": "Red wall-mounted token machine inside the nature center. 2 x $1 tokens = 1 surprise print. Eight subjects: Red-tailed Hawk (new, archived with photo) + catalog prints Fern, Horseshoe Crab, Mackerel, Black Swallowtail. Three more subjects (Robin's Nest, Salamander, Spring Peeper per Gloria) not yet matched to catalog titles — pending.",
     "website": null,
     "instagram": "dpnaturectr",
     "richard_scarry": false,
     "popup_event": false,
-    "last_updated": "2026-09-15T05:55:00.000Z",
+    "last_updated": "2026-09-15T06:00:00.000Z",
     "last_source": "user",
     "source_url": null
   }
