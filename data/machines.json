@@ -16818,9 +16818,9 @@
     "available_print_count": 8,
     "prints_available": [
       {
-        "id": "1789449626302x305834501143524876-red-tailed-hawk",
+        "id": "photo-denison-20260914-945a3ecf5f5300e8",
         "name": "Red-tailed Hawk",
-        "printType": "exclusive"
+        "printType": "custom"
       }
     ],
     "parking": null,
@@ -16829,7 +16829,7 @@
     "instagram": "dpnaturectr",
     "richard_scarry": false,
     "popup_event": false,
-    "last_updated": "2026-09-15T05:45:00.000Z",
+    "last_updated": "2026-09-15T05:50:00.000Z",
     "last_source": "user",
     "source_url": null
   }
