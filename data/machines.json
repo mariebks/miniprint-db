@@ -16852,5 +16852,46 @@
     "last_updated": "2026-09-15T06:00:00.000Z",
     "last_source": "user",
     "source_url": null
+  },
+  {
+    "id": "1789760230972x804408510929298786",
+    "name": "Jane on Third",
+    "venue": "Jane on Third (SFMOMA)",
+    "city": "San Francisco",
+    "state": "CA",
+    "address": "151 3rd St, San Francisco, CA 94103",
+    "zip": "94103",
+    "latitude": null,
+    "longitude": null,
+    "status": "active",
+    "stock_status": "in_stock",
+    "waiting_for_restock": false,
+    "payment_type": null,
+    "pull_limit": null,
+    "print_types": [
+      "catalog"
+    ],
+    "available_print_count": 3,
+    "prints_available": [
+      {
+        "id": "1787176324428x743992921644747600",
+        "name": "Baguette",
+        "printType": "catalog"
+      },
+      {
+        "id": "1787176324432x628326340848101500",
+        "name": "Bee",
+        "printType": "catalog"
+      }
+    ],
+    "parking": null,
+    "nearby": "Red mini print vending machine branded 'Inciardi Prints' x 'JANE', by the pastry counter. Jane on Third is the SFMOMA ground-floor restaurant (opened Aug 2025; 7th Jane the Bakery outpost). Panel icons: sourdough, baguette, bee — standard catalog prints, not venue-exclusive customs (per Gloria 2026-09-18). Baguette and Bee linked from the archive; no 'Sourdough' title exists in the archive yet — a customer was photographed holding a 'sourdough slice' print signed 'AI'.",
+    "website": null,
+    "instagram": "janeon3rd",
+    "richard_scarry": false,
+    "popup_event": false,
+    "last_updated": "2026-09-18T19:37:10.000Z",
+    "last_source": "user",
+    "source_url": "https://www.instagram.com/p/Ddb7pNWoF4r/"
   }
 ]
